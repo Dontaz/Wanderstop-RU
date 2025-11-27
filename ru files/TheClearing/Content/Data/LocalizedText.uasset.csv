@@ -1367,7 +1367,7 @@ Swedish,Klämma
 Thai,คลิป
 Arabic,
 Key,Inventory_Prompt_Dump
-English_US,{{#BUTTON#}}  Dump
+English_US,{{#BUTTON#}}  Высыпать
 Description,"Verb, to dump something into something else"
 French,{{#BUTTON#}} Déverser
 Italian,{{#BUTTON#}} Rovescia
@@ -1386,7 +1386,7 @@ Swedish,Dumpa
 Thai,ทิ้ง
 Arabic,
 Key,Inventory_Prompt_Read
-English_US,{{#BUTTON#}}  Read
+English_US,{{#BUTTON#}}  Читать
 Description,"Verb, to read a book"
 French,{{#BUTTON#}} Lire
 Italian,{{#BUTTON#}} Leggi
@@ -1405,7 +1405,7 @@ Swedish,Läsa
 Thai,อ่าน
 Arabic,
 Key,Inventory_Prompt_Send
-English_US,{{#BUTTON#}}  Send
+English_US,{{#BUTTON#}}  Отправить
 Description,"Verb, to send in the mail"
 French,{{#BUTTON#}} Envoyer
 Italian,{{#BUTTON#}} Spedisci
@@ -1424,7 +1424,7 @@ Swedish,Skicka
 Thai,ส่ง
 Arabic,
 Key,Inventory_Prompt_Set
-English_US,{{#BUTTON#}}  Set
+English_US,{{#BUTTON#}}  Поставить
 Description,"Verb, to set down"
 French,{{#BUTTON#}} Poser
 Italian,{{#BUTTON#}} Posa
@@ -1443,7 +1443,7 @@ Swedish,Uppsättning
 Thai,ชุด
 Arabic,
 Key,Inventory_Prompt_Pot
-English_US,{{#BUTTON#}}  Pot
+English_US,{{#BUTTON#}}  Пересадить в горшок
 Description,"Verb, to put a plant into a pot"
 French,{{#BUTTON#}} Empoter
 Italian,{{#BUTTON#}} Metti nel vaso
@@ -1462,7 +1462,7 @@ Swedish,Pott
 Thai,หม้อ
 Arabic,
 Key,Inventory_Prompt_PickUp
-English_US,{{#BUTTON#}}  Pick Up
+English_US,{{#BUTTON#}}  Подобрать
 Description,Verb
 French,{{#BUTTON#}} Saisir
 Italian,{{#BUTTON#}} Prendi
@@ -1481,7 +1481,7 @@ Swedish,Plocka upp
 Thai,หยิบ
 Arabic,
 Key,Inventory_Prompt_Collect
-English_US,{{#BUTTON#}}  Collect
+English_US,{{#BUTTON#}}  Собрать
 Description,Verb
 French,{{#BUTTON#}} Collecter
 Italian,{{#BUTTON#}} Raccogli
@@ -1500,7 +1500,7 @@ Swedish,Samla
 Thai,เก็บรวบรวม
 Arabic,
 Key,Inventory_Prompt_Pet
-English_US,{{#BUTTON#}}  Pet
+English_US,{{#BUTTON#}}  Погладить
 Description,"Transitive verb, indicating you can pet a pluffin"
 French,{{#BUTTON#}} Caresser
 Italian,{{#BUTTON#}} Coccola
@@ -1519,7 +1519,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Inventory_Prompt_Zoom
-English_US,{{#BUTTON#}}  Zoom
+English_US,{{#BUTTON#}}  Приблизить
 Description,"Verb, to magnify with a camera lense"
 French,{{#BUTTON#}} Zoomer
 Italian,{{#BUTTON#}} Ingrandisci
@@ -1538,7 +1538,7 @@ Swedish,
 Thai,
 Arabic,
 Key,ItemLabel_Fallback
-English_US,Item
+English_US,Предмет
 Description,"An item in a video game, something you might hold onto"
 French,Objet
 Italian,Oggetto
@@ -1557,7 +1557,7 @@ Swedish,Artikel
 Thai,รายการ
 Arabic,
 Key,ItemLabel_Pot
-English_US,Pot
+English_US,Горшок
 Description,A small gardening pot for plants
 French,Pot
 Italian,Vaso
@@ -1576,7 +1576,7 @@ Swedish,Pott
 Thai,หม้อ
 Arabic,
 Key,ItemLabel_BlueSeeds
-English_US,Blue Seeds
+English_US,Синие семена
 Description,"A plant seed, colored blue"
 French,Graines bleues
 Italian,Semi blu
@@ -1595,7 +1595,7 @@ Swedish,Blå frön
 Thai,เมล็ดสีน้ำเงิน
 Arabic,
 Key,ItemLabel_PinkSeeds
-English_US,Pink Seeds
+English_US,Розовые семена
 Description,"A plant seed, colored pink"
 French,Graines roses
 Italian,Semi rosa
@@ -1614,7 +1614,7 @@ Swedish,Rosa frön
 Thai,เมล็ดสีชมพู
 Arabic,
 Key,ItemLabel_YellowSeeds
-English_US,Yellow Seeds
+English_US,Жёлтые семена
 Description,"A plant seed, colored yellow"
 French,Graines jaunes
 Italian,Semi gialli
@@ -1633,7 +1633,7 @@ Swedish,Gula frön
 Thai,เมล็ดสีเหลือง
 Arabic,
 Key,ItemLabel_GreenSeeds
-English_US,Green Seeds
+English_US,Зелёные семена
 Description,"A plant seed, colored green"
 French,Graines vertes
 Italian,Semi verdi
@@ -1709,7 +1709,7 @@ Swedish,Messbär
 Thai,เครื่องนอน
 Arabic,
 Key,ItemLabel_FruitAD
-English_US,{{Waypur}} Sprout
+English_US,{{Waypur}} Росток
 Description,
 French,Chou {{waypur}}
 Italian,Germoglio di {{Waypur}}
@@ -1728,7 +1728,7 @@ Swedish,Waypur grodd
 Thai,ต้นกล้า Waypur
 Arabic,
 Key,ItemLabel_FruitBA
-English_US,{{Vreetle}} Beet
+English_US,{{Vreetle}} Свекла
 Description,
 French,Betterave de {{vreetle}}
 Italian,Barbabietola di {{Vreetle}}
@@ -1747,7 +1747,7 @@ Swedish,Rödbetor
 Thai,Vreetle Beet
 Arabic,
 Key,ItemLabel_FruitBB
-English_US,{{Azzy}} Fruit
+English_US,{{Azzy}} Плод
 Description,
 French,Fruit d'{{azzy}}
 Italian,Frutto di {{Azzy}}
@@ -1823,7 +1823,7 @@ Swedish,Bitbär
 Thai,การกัด
 Arabic,
 Key,ItemLabel_FruitCB
-English_US,{{Weyling}} Fruit
+English_US,{{Weyling}} Плод
 Description,
 French,Fruit de {{weyling}}
 Italian,Frutto di {{Weyling}}
@@ -1842,7 +1842,7 @@ Swedish,Vagga
 Thai,ผลไม้ Weyling
 Arabic,
 Key,ItemLabel_FruitCB_Colorswap
-English_US,Miracle {{Pomme}}
+English_US,Чудо-{{Pomme}}
 Description,
 French,{{Pomme}} miracle
 Italian,Miracolo di {{Pomme}}
@@ -1861,7 +1861,7 @@ Swedish,Mirakelpomme
 Thai,Miracle Pomme
 Arabic,
 Key,ItemLabel_FruitCC
-English_US,{{Snok}} Cone
+English_US,{{Snok}} Шишка
 Description,"""Cones"" like ""pinecones"""
 French,Cône de {{snok}}
 Italian,Pigna di {{Snok}}
@@ -1880,7 +1880,7 @@ Swedish,Snokkon
 Thai,กรวยกรวย
 Arabic,
 Key,ItemLabel_FruitCD
-English_US,Painted Gourd
+English_US,Раскрашенная тыква
 Description,
 French,Calebasse peinte
 Italian,Cucurbitacea Arcobaleno
@@ -1899,7 +1899,7 @@ Swedish,Målad kalebass
 Thai,จระเข้ทาสี
 Arabic,
 Key,ItemLabel_FruitDA
-English_US,Blue Loop
+English_US,Синяя петля
 Description,
 French,Boucle bleue
 Italian,Anello Blu
@@ -1918,7 +1918,7 @@ Swedish,Blåögla
 Thai,ลูปสีน้ำเงิน
 Arabic,
 Key,ItemLabel_FruitDB
-English_US,Sweet {{Meelium}}
+English_US,Сладкий {{Meelium}}
 Description,
 French,{{Meelium}} doux
 Italian,{{Meelium}} Dolce
@@ -1937,7 +1937,7 @@ Swedish,Sweet meelium
 Thai,meelium หวาน
 Arabic,
 Key,ItemLabel_FruitDC
-English_US,Prism Pepper
+English_US,Призматический перец
 Description,
 French,Poivron prisme
 Italian,Peperone Prisma
@@ -1956,7 +1956,7 @@ Swedish,Prisma peppar
 Thai,ปริซึมพริกไทย
 Arabic,
 Key,ItemLabel_FruitDD
-English_US,Ghost Fruit
+English_US,Призрачный фрукт
 Description,
 French,Fruit fantôme
 Italian,Frutto Fantasma
@@ -1975,7 +1975,7 @@ Swedish,Spökfrukt
 Thai,ผลไม้ผี
 Arabic,
 Key,ItemLabel_Weeds
-English_US,Weeds
+English_US,Сорняки
 Description,Unwanted plants in your garden
 French,Graines
 Italian,Erbacce
@@ -1994,7 +1994,7 @@ Swedish,Ogräs
 Thai,วัชพืช
 Arabic,
 Key,ItemLabel_Candle
-English_US,Candle
+English_US,Свеча
 Description,
 French,Bougie
 Italian,Candela
@@ -2013,7 +2013,7 @@ Swedish,ljus
 Thai,เทียน
 Arabic,
 Key,ItemLabel_Photo
-English_US,Photo
+English_US,Фото
 Description,Short for photograph
 French,Photo
 Italian,Foto
@@ -2032,7 +2032,7 @@ Swedish,Foto
 Thai,รูปถ่าย
 Arabic,
 Key,ItemLabel_Camera
-English_US,Camera
+English_US,Камера
 Description,
 French,Appareil photo
 Italian,Macchina fotografica
@@ -2051,7 +2051,7 @@ Swedish,Kamera
 Thai,กล้อง
 Arabic,
 Key,ItemLabel_TrinketGeneric
-English_US,Trinket
+English_US,Безделушка
 Description,
 French,Babiole
 Italian,Ninnolo
@@ -2070,7 +2070,7 @@ Swedish,Prydnadssak
 Thai,เครื่องประดับเล็ก ๆ น้อย ๆ
 Arabic,
 Key,ItemLabel_Bread
-English_US,Loaf of Bread
+English_US,Буханка хлеба
 Description,
 French,Tranche de pain
 Italian,Pagnotta di pane
@@ -2089,7 +2089,7 @@ Swedish,brödlimpa
 Thai,ก้อนขนมปัง
 Arabic,
 Key,ItemLabel_Pumpkin
-English_US,Pumpkin
+English_US,Тыква
 Description,
 French,Citrouille
 Italian,Zucca
@@ -2108,7 +2108,7 @@ Swedish,pumpa
 Thai,ฟักทอง
 Arabic,
 Key,ItemLabel_RoastChicken
-English_US,Roast Chicken
+English_US,Жареная курица
 Description,
 French,Poulet rôti
 Italian,Pollo arrosto
@@ -2127,7 +2127,7 @@ Swedish,rostad kyckling
 Thai,ไก่ย่าง
 Arabic,
 Key,ItemLabel_Trophy
-English_US,Trophy
+English_US,Трофей
 Description,"As in, a trophy you'd get for winning a tournament"
 French,Trophée
 Italian,Trofeo
@@ -2146,7 +2146,7 @@ Swedish,trofé
 Thai,ถ้วยรางวัล
 Arabic,
 Key,ItemLabel_LostParcel
-English_US,Lost Parcel
+English_US,Потерянная посылка
 Description,"""parcel"" in this sense means a package, like the kind of package you'd put in the mail"
 French,Colis perdu
 Italian,Pacco smarrito
@@ -2165,7 +2165,7 @@ Swedish,Förlorad paket
 Thai,พัสดุที่หายไป
 Arabic,
 Key,ItemLabel_Painting
-English_US,Painting
+English_US,Картина
 Description,A physical painting
 French,Tableau
 Italian,Quadro
@@ -2184,7 +2184,7 @@ Swedish,målning
 Thai,จิตรกรรม
 Arabic,
 Key,ItemLabel_TeaBall
-English_US,Tea Ball
+English_US,Чайный шарик
 Description,A ball of tea leaves
 French,Boule de thé
 Italian,Pallina di tè
@@ -2203,7 +2203,7 @@ Swedish,Tekula
 Thai,ลูกชา
 Arabic,
 Key,ItemLabel_TeaLeafBasket
-English_US,Tea Leaf Basket
+English_US,Корзина для чайных листьев
 Description,
 French,Panier
 Italian,Cesta
@@ -2222,7 +2222,7 @@ Swedish,Tebladkorg
 Thai,ตะกร้าใบชา
 Arabic,
 Key,ItemLabel_TeaLeafBasketPartial
-English_US,Tea Leaf Basket<lf>(partially full)
+English_US,Корзина для чайных листьев<lf>(частично полная)
 Description,
 French,Panier (pas plein)
 Italian,Cesta (non piena)
@@ -2241,7 +2241,7 @@ Swedish,
 Thai,
 Arabic,
 Key,ItemLabel_TeaLeafBasketFull
-English_US,Tea Leaf Basket<lf>(full)
+English_US,Корзина для чайных листьев<lf>(полная)
 Description,
 French,Panier (plein)
 Italian,Cesta (piena)
@@ -2260,7 +2260,7 @@ Swedish,Fullt te bladkorg
 Thai,ตะกร้าใบชาเต็ม
 Arabic,
 Key,ItemLabel_TeaCup
-English_US,Tea Cup
+English_US,Чайная чашка
 Description,
 French,Tasse
 Italian,Tazza
@@ -2279,7 +2279,7 @@ Swedish,Tekopp
 Thai,ถ้วยชา
 Arabic,
 Key,ItemLabel_StopSign
-English_US,{{Gerald}}'s Sign
+English_US,Знак {{Gerald}}
 Description,"""sign"" is short for ""stop sign"" or ""street sign"""
 French,Panneau de {{Gerald}}
 Italian,Segnale di {{Gerald}}
@@ -2298,7 +2298,7 @@ Swedish,Geralds tecken
 Thai,สัญลักษณ์ของเจอรัลด์
 Arabic,
 Key,ItemLabel_CoffeeBeanDirty
-English_US,Coffee Bean<lf>(dirty)
+English_US,Кофейное зерно<lf>(грязное)
 Description,
 French,Grain de café<lf>(sale)
 Italian,Chicco di caffè<lf>(sporco)
@@ -2317,7 +2317,7 @@ Swedish,Smutsig kaffeböna
 Thai,ถั่วกาแฟสกปรก
 Arabic,
 Key,ItemLabel_CoffeeBeanClean
-English_US,Coffee Bean<lf>(clean)
+English_US,Кофейное зерно<lf>(чистое)
 Description,
 French,Grain de café<lf>(propre)
 Italian,Chicco di caffè<lf>(pulito)
@@ -2336,7 +2336,7 @@ Swedish,Rengör kaffebönor
 Thai,ทำความสะอาดเมล็ดกาแฟ
 Arabic,
 Key,ItemLabel_Clippers
-English_US,Clippers
+English_US,Садовые ножницы
 Description,The kind used to clip plants
 French,Cisailles
 Italian,Cesoie
@@ -2355,7 +2355,7 @@ Swedish,Klippare
 Thai,กรรไกร
 Arabic,
 Key,ItemLabel_WateringCan
-English_US,Watering Can
+English_US,Лейка
 Description,
 French,Arrosoir
 Italian,Annaffiatoio
@@ -2374,7 +2374,7 @@ Swedish,Vattenkanna
 Thai,บัวรดน้ำ
 Arabic,
 Key,ItemLabel_Broom
-English_US,Broom
+English_US,Метла
 Description,
 French,Balai
 Italian,Scopa
@@ -2393,7 +2393,7 @@ Swedish,Kvast
 Thai,ไม้กวาด
 Arabic,
 Key,ItemLabel_BookGeneric
-English_US,Book
+English_US,Книга
 Description,
 French,Livre
 Italian,Libro
@@ -2431,7 +2431,7 @@ Swedish,Pluffin
 Thai,pluffin
 Arabic,
 Key,ItemLabel_Shelves
-English_US,Shelves
+English_US,Полки
 Description,
 French,Étagères
 Italian,Mensole
@@ -2450,7 +2450,7 @@ Swedish,Prydnadssak
 Thai,เครื่องประดับเล็ก ๆ น้อย ๆ
 Arabic,
 Key,ItemLabel_Soup
-English_US,Soup
+English_US,Суп
 Description,
 French,Soupe
 Italian,Zuppa
@@ -2469,7 +2469,7 @@ Swedish,
 Thai,
 Arabic,
 Key,ItemLabel_Jam
-English_US,{{Timothy}}'s Jam
+English_US,Джем {{Timothy}}
 Description,"""jam"" meaning a jar of fruit preservatives"
 French,Confiture de {{Timothy}}
 Italian,Marmellata di {{Timothy}}
@@ -2488,7 +2488,7 @@ Swedish,
 Thai,
 Arabic,
 Key,ItemLabel_Birb
-English_US,Birb
+English_US,Птыц
 Description,"A misspelling of the word ""bird"""
 French,Oizô
 Italian,Uccetto
@@ -2507,7 +2507,7 @@ Swedish,
 Thai,
 Arabic,
 Key,ItemLabel_Palantir
-English_US,Palantir
+English_US,Палантир
 Description,"An orb, the kind a wizard would look into"
 French,Palantir
 Italian,Palantír
@@ -2526,7 +2526,7 @@ Swedish,
 Thai,
 Arabic,
 Key,ItemLabel_Volcano
-English_US,Science Fair Trophy
+English_US,Трофей научной выставки
 Description,
 French,Trophée du salon des sciences
 Italian,Trofeo della fiera della scienza
@@ -2545,7 +2545,7 @@ Swedish,
 Thai,
 Arabic,
 Key,ItemLabel_Shroom_Dupe
-English_US,Dupe Shroom
+English_US,Гриб-близнец
 Description,"""Shroom"" is short for mushroom, ""Dupe"" is short for ""duplication"""
 French,Champi-doublon
 Italian,Fungo Doppio
@@ -2564,7 +2564,7 @@ Swedish,
 Thai,
 Arabic,
 Key,ItemLabel_Shroom_Color
-English_US,Hue Shroom
+English_US,Цветогриб
 Description,"Hue means ""color"""
 French,Champi-nuance
 Italian,Fungo Sfumatura
@@ -2583,7 +2583,7 @@ Swedish,
 Thai,
 Arabic,
 Key,ItemLabel_Shroom_Gift
-English_US,Gift Shroom
+English_US,Гриб-сюрприз
 Description,"""gift"" as in, a present you might receive from a friend"
 French,Champi-don
 Italian,Fungo Regalo
@@ -2602,7 +2602,7 @@ Swedish,
 Thai,
 Arabic,
 Key,ItemLabel_Shroom_Shrink
-English_US,Shrink Shroom
+English_US,Гриб-малютка
 Description,"Shrink meaning ""to shrink something down to a smaller size"""
 French,Champi-minue
 Italian,Fungo Mini
@@ -2621,7 +2621,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Forest_InControl
-English_US,...what am I doing out here?
+English_US,...что я здесь делаю?
 Description,"SCENE DESCRIPTION: After Alta remembers the suppressed memories of when she accidentally attacked Master Winters, if you go back out into the forest, Alta will be filled with uncertainty and cling desperately to the idea that it's still possible to remedy things with Master Winters."
 French,… Qu'est-ce que je fais ici ?
 Italian,… Cosa ci faccio qui?
@@ -2640,7 +2640,7 @@ Swedish,... vad gör jag här ute?
 Thai,... ฉันมาทำอะไรที่นี่?
 Arabic,
 Key,Forest_InControl
-English_US,"Maybe... maybe I could find Master {{Winters}}, and apologize to her."
+English_US,"Может... может, я найду Мастера {{Winters}} и извинюсь перед ней."
 Description,
 French,Peut-être que… je devrais trouver Maîtresse {{Winters}} et m'excuser.
 Italian,Forse... forse potrei cercare Maestra {{Winters}} per chiederle scusa.
@@ -2659,7 +2659,7 @@ Swedish,Letar jag fortfarande efter mästare?
 Thai,ฉันยังมองหา Master Winters อยู่หรือเปล่า?
 Arabic,
 Key,Forest_InControl
-English_US,"If I found her out here again, perhaps I could convince her it was all a mistake."
+English_US,"Если я снова найду её здесь, возможно, я смогу убедить её, что это была ошибка."
 Description,
 French,"Si je la retrouve là-bas, je pourrai peut-être la convaincre que c'était une erreur."
 Italian,"Se la ritrovassi, potrei convincerla che è stato tutto un errore."
@@ -2678,7 +2678,7 @@ Swedish,"Vad skulle jag säga till henne, även om jag hittade henne?"
 Thai,ฉันจะพูดอะไรกับเธอแม้ว่าฉันจะพบเธอ?
 Arabic,
 Key,Forest_InControl
-English_US,Would she believe that?
+English_US,Она поверит?
 Description,
 French,Est-ce qu'elle y croirait ?
 Italian,Ci crederebbe?
@@ -2697,7 +2697,7 @@ Swedish,Kanske ... kanske jag kunde övertyga henne om att det var ett misstag.
 Thai,บางที ... บางทีฉันอาจจะโน้มน้าวเธอว่ามันเป็นความผิดพลาดทั้งหมด
 Arabic,
 Key,Forest_InControl
-English_US,She said I'm out of control.<lf> <lf>I could show her.
+English_US,"Она сказала, что я вышла из-под контроля.<lf><lf>Я могла бы показать ей."
 Description,
 French,Elle a dit que j'étais hors de contrôle.<lf> <lf> Je pourrais lui montrer.
 Italian,Ha detto che ho perso il controllo.<lf><lf>Potrei dimostrarglielo.
@@ -2716,7 +2716,7 @@ Swedish,Hon sa att jag inte har kontroll.<lf> <lf>Jag kunde visa henne.
 Thai,เธอบอกว่าฉันไม่ได้ควบคุม<lf> <lf>ฉันสามารถแสดงให้เธอเห็น
 Arabic,
 Key,Forest_InControl
-English_US,Show her that I'm-
+English_US,"Показать ей, что я..."
 Description,
 French,Lui montrer que je-
 Italian,Dimostrale che sono...
@@ -2754,7 +2754,7 @@ Swedish,...
 Thai,...
 Arabic,
 Key,Forest_InControl
-English_US,Show her that I'm in control of myself.
+English_US,"Показать ей, что я держу себя в руках."
 Description,
 French,Lui montrer que je me contrôle.
 Italian,Dimostrale che mi riesco a controllare.
@@ -2773,7 +2773,7 @@ Swedish,Visa henne att jag har kontroll över mig själv.
 Thai,แสดงให้เธอเห็นว่าฉันเป็นผู้ควบคุมตัวเอง
 Arabic,
 Key,Forest_Cycle5
-English_US,When do I go home? <lf><lf>When is all of this over?
+English_US,Когда я отправлюсь домой?<lf><lf>Когда всё это закончится?
 Description,"SCENE DESCRIPTION: Toward the very end of the game, when Alta learns she's about to go home, whenever you go to the forest she'll somberly reflect on her past and her future"
 French,Quand est-ce que je rentre chez moi ? <lf>  <lf> Quand est-ce que ça va s'arrêter ?
 Italian,Quando farò ritorno a casa?<lf><lf>Quando finirà tutto questo?
@@ -2792,7 +2792,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Forest_Cycle5
-English_US,Soon.
+English_US,Скоро.
 Description,
 French,Bientôt.
 Italian,Presto.
@@ -2811,7 +2811,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Forest_Cycle5
-English_US,Will I ever fight again?
+English_US,Буду ли я снова сражаться?
 Description,
 French,Est-ce que je recombattrai un jour ?
 Italian,Combatterò di nuovo?
@@ -2830,7 +2830,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Forest_Cycle5
-English_US,Will I ever be that person again?
+English_US,Стану ли я снова тем человеком?
 Description,"by ""that person"" she means ""a fighter"""
 French,Serai-je à nouveau qui j'étais ?
 Italian,Sarò mai più la persona che sono stata?
@@ -2868,7 +2868,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Forest_Cycle5
-English_US,"Either way, I just have to-"
+English_US,"Так или иначе, я просто должна..."
 Description,
 French,"Quoi qu'il en soit, il me suffit de-"
 Italian,"Ad ogni modo, devo solo..."
@@ -2887,7 +2887,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Forest_Cycle5
-English_US,...I just have to make sure that...
+English_US,"...я просто должна убедиться, что..."
 Description,
 French,… de m'assurer que…
 Italian,… devo solo assicurarmi che...
@@ -2906,7 +2906,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Forest_Cycle5
-English_US,...never again...
+English_US,...больше никогда...
 Description,
 French,… plus jamais…
 Italian,… mai più...
@@ -2925,7 +2925,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Forest_TonsOfEnergy
-English_US,That's enough making tea.<lf> I have to test where my strength is at.
+English_US,"Хватит заваривать чай.<lf>Нужно проверить, сколько у меня сил."
 Description,"SCENE DESCRIPTION: Early in the game, Alta is hoping that she can run out into the forest to escape the tea shop and find Master Winters. She's defiant about her situation."
 French,J'en ai marre de faire du thé.<lf> Je dois savoir où j'en suis avec ma force.
 Italian,Ne ho abbastanza di preparare il tè.<lf>Devo capire a che punto sono le mie forze.
@@ -2944,7 +2944,7 @@ Swedish,Det räcker med att göra te.<lf> Jag måste testa var min styrka är.
 Thai,นั่นก็เพียงพอแล้วที่จะทำชา<lf> ฉันต้องทดสอบว่าความแข็งแกร่งของฉันอยู่ที่ไหน
 Arabic,
 Key,Forest_TonsOfEnergy
-English_US,Hah! I feel great!<lf> I've got tons of energy!
+English_US,Ха! Я отлично себя чувствую!<lf> У меня куча энергии!
 Description,
 French,Ah ! Je me sens en pleine forme !<lf> Je déborde d'énergie !
 Italian,Ah! Mi sento benissimo!<lf>Sono piena di energia!
@@ -2963,7 +2963,7 @@ Swedish,Hah! Jag mår bra!<lf> Jag har massor av energi!
 Thai,ฮะ ฉันรู้สึกดี!<lf> ฉันมีพลังงานมากมาย!
 Arabic,
 Key,Forest_TonsOfEnergy
-English_US,See? Just a little rest and then I'm back to my old self.
+English_US,"Видишь? Немного отдыха, и я снова стану прежней."
 Description,
 French,Tu vois ? Il suffit d'un peu de repos et je redeviens moi-même.
 Italian,Visto? È bastato un po' di riposo per tornare ad essere me stessa.
@@ -2982,7 +2982,7 @@ Swedish,Ser? Bara lite vila och sedan är jag tillbaka till mitt gamla jag.
 Thai,ดู? พักผ่อนเพียงเล็กน้อยแล้วฉันก็กลับไปที่ตัวเก่าของฉัน
 Arabic,
 Key,Forest_TonsOfEnergy
-English_US,"Sorry {{Boro}}, this is more important than-"
+English_US,"Прости, {{Boro}}, это важнее, чем..."
 Description,"she's attempting to say ""sorry Boro, this is more important than making tea"" but gets cut off"
 French,"Désolée, {{Boro}}, c'est plus important que-"
 Italian,"Scusami {{Boro}}, ma questo è più importante di-"
@@ -3001,7 +3001,7 @@ Swedish,"Ledsen boro, detta är viktigare än"
 Thai,ขออภัยโบโรนี่สำคัญกว่า-
 Arabic,
 Key,Forest_TonsOfEnergy
-English_US,"...it's okay, I'm fine.<lf> <lf>I rested, I let my strength recover."
+English_US,"...всё нормально, я в порядке.<lf><lf>Я отдохнула, дала силам восстановиться."
 Description,
 French,"… ça va, je vais bien.<lf> <lf> Je me suis reposée, j'ai repris mes forces."
 Italian,"… Va tutto bene, sto bene.<lf><lf>Mi sono riposata e ho ripreso le mie forze."
@@ -3020,7 +3020,7 @@ Swedish,"... Det är okej, jag mår bra.<lf> <lf>Jag vilade, jag lät min styrka
 Thai,... ไม่เป็นไรฉันสบายดี<lf> <lf>ฉันพักฉันปล่อยให้ความแข็งแกร่งของฉันฟื้นตัว
 Arabic,
 Key,Forest_TonsOfEnergy
-English_US,"I took a break, right?<lf> <lf>That's what I was supposed to do."
+English_US,"Я сделала перерыв, так?<lf><lf>Это то, что я должна была сделать."
 Description,"""took a break"" meaning rested"
 French,"J'ai fait une pause, c'est ça ?<lf> <lf> C'est bien ce que j'étais censée faire."
 Italian,"Ho fatto una pausa, giusto?<lf><lf>Ho fatto il mio dovere."
@@ -3039,7 +3039,7 @@ Swedish,"Jag tog en paus, eller hur?<lf> <lf>Det var vad jag skulle göra."
 Thai,ฉันหยุดพักใช่มั้ย<lf> <lf>นั่นคือสิ่งที่ฉันควรจะทำ
 Arabic,
 Key,Forest_TonsOfEnergy
-English_US,"Just took a break, and then..."
+English_US,"Просто передохнула, и потом..."
 Description,
 French,J'ai juste fait une pause et puis…
 Italian,Ho fatto giusto una pausa e così...
@@ -3058,7 +3058,7 @@ Swedish,Tog bara en paus och sedan ...
 Thai,เพิ่งหยุดพักแล้ว ...
 Arabic,
 Key,Forest_TonsOfEnergy
-English_US,...then I'm okay again...
+English_US,...и потом я снова в порядке...
 Description,
 French,… et puis j'ai retrouvé la forme…
 Italian,… mi sono ripresa...
@@ -3077,7 +3077,7 @@ Swedish,... då är jag okej igen ...
 Thai,... แล้วฉันก็โอเคอีกครั้ง ...
 Arabic,
 Key,Forest_Intro
-English_US,Heh. Feels good.
+English_US,Хех. Приятное чувство.
 Description,"SCENE DESCRIPTION: The very first scene in the game. Alta is devoted to her task of finding Master Winters, stubborn and hard-headed. She becomes infuriated when her sword starts to feel heavy."
 French,"Ah, je me sens bien."
 Italian,Mi sento in piena forma.
@@ -3096,7 +3096,7 @@ Swedish,Heh. Känns bra.
 Thai,เฮ้. ความรู้สึกที่ดี.
 Arabic,
 Key,Forest_Intro
-English_US,"It's refreshing, to have something to chase again."
+English_US,"Это освежает, когда снова есть за чем гнаться."
 Description,
 French,Ça fait du bien d'avoir un objectif à nouveau.
 Italian,È rinvigorente avere di nuovo uno scopo da perseguire.
@@ -3115,7 +3115,7 @@ Swedish,Det är uppfriskande att ha något att jaga igen.
 Thai,มันสดชื่นที่จะมีบางสิ่งบางอย่างที่จะไล่ล่าอีกครั้ง
 Arabic,
 Key,Forest_Intro
-English_US,What kind of training will Master {{Winters}} put me through?<lf><lf>I'm sure it'll be brutal.
+English_US,"Какую тренировку устроит мне Мастер {{Winters}}?<lf><lf>Уверена, это будет жесть."
 Description,
 French,Quel genre d'entraînement Maîtresse {{Winters}} va-t-elle m'imposer ?<lf> <lf> Je suis sûre que ça va être brutal.
 Italian,A che tipo di allenamento mi sottoporrà Maestra {{Winters}}?<lf><lf>Sicuramente sarà brutale.
@@ -3134,7 +3134,7 @@ Swedish,Vilken typ av träning kommer Master Winters att sätta mig igenom?<lf><
 Thai,Master Winters จะฝึกฝนอะไรบ้าง?<lf><lf>ฉันแน่ใจว่ามันจะโหดร้าย
 Arabic,
 Key,Forest_Intro
-English_US,Good.<lf> <lf>I hope it's brutal.
+English_US,"Хорошо.<lf><lf>Надеюсь, будет жестко."
 Description,
 French,Bien.<lf>  <lf> J'espère que ce sera brutal.
 Italian,Bene.<lf><lf>Spero che sia brutale.
@@ -3153,7 +3153,7 @@ Swedish,Bra.<lf> <lf>Jag hoppas att det är brutalt.
 Thai,ดี.<lf> <lf>ฉันหวังว่ามันจะโหดร้าย
 Arabic,
 Key,Forest_Intro
-English_US,Just have to-...<lf> <lf>...ugh...
+English_US,Просто нужно...<lf><lf>...ох...
 Description,"""ugh"" means she's tired"
 French,J'ai juste à-… <lf>  <lf> … pfff…
 Italian,Devo solo-...<lf><lf>… uff...
@@ -3172,7 +3172,7 @@ Swedish,Måste bara -...<lf> <lf>...usch...
 Thai,เพียงแค่ต้อง -...<lf> <lf>...ฮึ...
 Arabic,
 Key,Forest_Intro
-English_US,"...wow, I'm tired..."
+English_US,"...ого, я устала..."
 Description,
 French,"… waouh, je suis crevée…"
 Italian,… mi sento stanca...
@@ -3191,7 +3191,7 @@ Swedish,"... wow, jag är trött ..."
 Thai,... ว้าวฉันเหนื่อย ...
 Arabic,
 Key,Forest_Intro
-English_US,Rest a moment
+English_US,Немного отдохнуть
 Description,This is a dialogue choice for the player
 French,Se reposer un instant
 Italian,Riposati un po'
@@ -3210,7 +3210,7 @@ Swedish,Vila ett ögonblick
 Thai,พักสักครู่
 Arabic,
 Key,Forest_Intro
-English_US,Keep moving
+English_US,Продолжать двигаться
 Description,This is a dialogue choice for the player
 French,Continuer d'avancer
 Italian,Vai avanti
@@ -3229,7 +3229,7 @@ Swedish,Fortsätt röra på er
 Thai,เดินต่อไป
 Arabic,
 Key,Forest_Intro
-English_US,...I'll just rest for...<lf> <lf>...a moment...
+English_US,...Я просто отдохну...<lf><lf>...минутку...
 Description,
 French,… Je vais juste me reposer…<lf>  <lf> … un instant…
 Italian,… Mi riposerò solo per...<lf><lf>… un istante...
@@ -3267,7 +3267,7 @@ Swedish,...
 Thai,...
 Arabic,
 Key,Forest_Intro
-English_US,"NO! No, I can't stop now!<lf> What are you doing, {{Alta}}?"
+English_US,"НЕТ! Нет, я не могу сейчас остановиться!<lf>Что ты делаешь, {{Alta}}?"
 Description,
 French,"NON ! Non, je ne peux pas m'arrêter maintenant !<lf> Qu'est-ce que tu fabriques, {{Alta}} ?"
 Italian,"No! No, non posso fermarmi adesso!<lf>Cosa stai facendo, {{Alta}}?"
@@ -3286,7 +3286,7 @@ Swedish,"NEJ! Nej, jag kan inte sluta nu!<lf> Vad gör du, Alta?"
 Thai,เลขที่! ไม่ฉันหยุดไม่ได้แล้ว!<lf> คุณกำลังทำอะไรอัลตา?
 Arabic,
 Key,Forest_Intro
-English_US,"See, this is why you lost those fights!<lf> <lf>You keep hesitating."
+English_US,"Вот видишь, вот почему ты проиграла те бои!<lf><lf>Ты всё время колеблешься."
 Description,"by ""you"" alta is referring to herself"
 French,"Tu vois, c'est pour ça que tu perds des combats !<lf> <lf> Tu hésites tout le temps."
 Italian,"Lo vedi, è per questo che hai perso quei combattimenti!<lf><lf>Continui ad esitare."
@@ -3305,7 +3305,7 @@ Swedish,Det är därför du tappade dessa slagsmål!<lf> <lf>Du fortsätter att 
 Thai,ดูสินี่คือเหตุผลที่คุณแพ้การต่อสู้เหล่านั้น!<lf> <lf>คุณลังเล
 Arabic,
 Key,Forest_Intro
-English_US,"Right! I can't slow down, I can't hesitate.<lf> <lf>Hesitation is why I lost those fights."
+English_US,"Точно! Нельзя замедляться, нельзя колебаться.<lf><lf>Колебания — вот причина, почему я проиграла."
 Description,
 French,"Bon ! Je ne peux pas ralentir, pas question d'hésiter.<lf>  <lf> C'est à cause de l'hésitation que je perds des combats."
 Italian,"Giusto! Non posso rallentare, non posso esitare.<lf><lf>Questo è il motivo per cui ho perso quei combattimenti."
@@ -3324,7 +3324,7 @@ Swedish,"Höger! Jag kan inte sakta ner, jag kan inte tveka.<lf> <lf>Tvekan är 
 Thai,ขวา! ฉันไม่สามารถชะลอตัวได้ฉันไม่ลังเล<lf> <lf>ความลังเลคือเหตุผลที่ฉันแพ้การต่อสู้เหล่านั้น
 Arabic,
 Key,Forest_Intro
-English_US,"I was lazy, I let myself get complacent."
+English_US,"Я ленилась, я позволила себе расслабиться."
 Description,
 French,"J'ai été paresseuse, je me suis laissé aller."
 Italian,Mi sono lasciata andare.
@@ -3343,7 +3343,7 @@ Swedish,"Jag var lat, jag låter mig bli självbelåten."
 Thai,ฉันขี้เกียจฉันปล่อยให้ตัวเองพอใจ
 Arabic,
 Key,Forest_Intro
-English_US,I have to ensure it never happens again.<lf> <lf>That's all that matters.
+English_US,"Я должна убедиться, что это больше никогда не повторится.<lf><lf>Это все, что имеет значение."
 Description,
 French,Je dois faire en sorte que ça ne se reproduise plus.<lf>  <lf> C'est tout ce qui compte.
 Italian,Devo assicurarmi che non accada mai più.<lf><lf>Questo è ciò che conta.
@@ -3362,7 +3362,7 @@ Swedish,Jag måste se till att det aldrig händer igen.<lf> <lf>Det är allt som
 Thai,ฉันต้องแน่ใจว่ามันจะไม่เกิดขึ้นอีก<lf> <lf>นั่นคือทั้งหมดที่มีความสำคัญ.
 Arabic,
 Key,Forest_Intro
-English_US,"I have to-<lf> <lf>...wait, what's going on??"
+English_US,"Я должна...<lf><lf>...погоди, что происходит??"
 Description,
 French,"Je dois-<lf>  <lf> … attends, qu'est-ce qui se passe ??"
 Italian,"Devo-<lf><lf>… un momento, ma cosa sta succedendo?"
@@ -3381,7 +3381,7 @@ Swedish,"Jag måste-<lf> <lf>... vänta, vad händer ??"
 Thai,ฉันต้อง-<lf> <lf>... เดี๋ยวก่อนเกิดอะไรขึ้น ??
 Arabic,
 Key,Forest_Intro
-English_US,Why does my sword suddenly feel so heavy??<lf> <lf>What happened??
+English_US,Почему мой меч вдруг стал таким тяжёлым??<lf><lf>Что случилось??
 Description,Alta is literally dragging her sword because it's too heavy for her to carry
 French,Pourquoi mon épée pèse-t-elle soudain si lourd ??<lf>  <lf> Qu'est-ce qui s'est passé ??
 Italian,Perché all'improvviso la mia spada è diventata così pesante?<lf> <lf> Cos'è successo?
@@ -3400,7 +3400,7 @@ Swedish,Varför känns mitt svärd plötsligt så tungt ??<lf> <lf>Vad hände??
 Thai,ทำไมดาบของฉันถึงรู้สึกหนักมาก ??<lf> <lf>เกิดอะไรขึ้น??
 Arabic,
 Key,Forest_Intro
-English_US,GAH! I can't carry it!
+English_US,А-АХ! Я не могу его нести!
 Description,
 French,ARGH ! Je ne peux plus la porter !
 Italian,Ah! Non posso sollevarla!
@@ -3419,7 +3419,7 @@ Swedish,Gah! Jag kan inte bära det!
 Thai,กอ ฉันพกพาไปไม่ได้!
 Arabic,
 Key,Forest_Intro
-English_US,"Stop this {{Alta}}, pick your sword up. Pick it up!<lf> <lf>What are you doing??"
+English_US,"Прекрати это, {{Alta}}, подними меч. Подними его!<lf><lf>Что ты делаешь??"
 Description,
 French,"Arrête ça, {{Alta}}, ramasse ton épée. Ramasse-la !<lf> <lf> Qu'est-ce que tu fabriques ??"
 Italian,"Adesso basta, {{Alta}}, raccogli la tua spada. Sollevala!<lf><lf>Ma cosa stai facendo?"
@@ -3438,7 +3438,7 @@ Swedish,"Sluta denna alta, plocka upp ditt svärd. Ta upp det!<lf> <lf>Vad gör 
 Thai,หยุดอัลตานี้เลือกดาบของคุณ หยิบมันขึ้นมา!<lf> <lf>คุณกำลังทำอะไร??
 Arabic,
 Key,Forest_Intro
-English_US,"No, no no no! This is impossible!<lf><lf>I've carried this sword with me every single day for more than seven years!"
+English_US,"Нет, нет-нет-нет! Это невозможно!<lf><lf>Я носила этот меч с собой каждый божий день больше семи лет!"
 Description,
 French,"Non, non, non et non ! C'est impossible !<lf>  <lf> Je transporte cette épée avec moi tous les jours depuis plus de sept ans !"
 Italian,"No, no, no! Non è possibile!<lf><lf>Ho impugnato questa spada ogni giorno per più di sette anni!"
@@ -3457,7 +3457,7 @@ Swedish,Du är starkare än det här! Kontrollera dig själv!<lf> <lf>Plocka upp
 Thai,คุณแข็งแกร่งกว่านี้! ควบคุมตัวเอง!<lf> <lf>เลือกดาบ!
 Arabic,
 Key,Forest_Intro
-English_US,It's.. it's a part of my own body at this point...<lf><lf>What's going on? What's wrong with me??
+English_US,Он... на данный момент он уже как часть моего тела...<lf><lf>Что происходит? Что со мной не так??
 Description,"She doesn't literally mean ""part of my own body"", she means it figuratively"
 French,Elle est… elle est comme une partie de mon corps maintenant…<lf>  <lf> Qu'est-ce qui se passe ? Qu'est-ce qui m'arrive ???
 Italian,È... è come se fosse una parte di me...<lf><lf>Cosa sta succedendo? Cosa c'è che non va in me?
@@ -3476,7 +3476,7 @@ Swedish,Vad pågår? Vad är det för fel på mig??<lf> <lf>Det måste vara någ
 Thai,เกิดอะไรขึ้น? ฉันผิดอะไร ??<lf> <lf>ต้องมีบางอย่างผิดปกติกับฉัน
 Arabic,
 Key,Forest_Intro
-English_US,...do I leave the sword here?<lf><lf> Can I do that? Is that okay?
+English_US,...мне оставить меч здесь?<lf><lf>Разве так можно? Это нормально?
 Description,
 French,… je laisse l'épée ici ?<lf>  <lf> Je peux faire ça ? C'est possible ?
 Italian,… Dovrei forse abbandonare la mia spada?<lf><lf>Lasciarla qua? Posso farlo?
@@ -3495,7 +3495,7 @@ Swedish,... lämnar jag svärdet här?<lf><lf> Kan jag göra det? Är det okej?
 Thai,... ฉันทิ้งดาบไว้ที่นี่หรือไม่?<lf><lf> ฉันทำได้ไหม ไม่เป็นไร?
 Arabic,
 Key,Forest_Intro
-English_US,I... I don't know if I have any other choice.<lf> <lf>I'll never find Master {{Winters}} at the pace I'm going.
+English_US,"Я... Я не знаю, есть ли у меня другой выбор.<lf><lf>С такой скоростью я никогда не найду Мастера {{Winters}}."
 Description,
 French,Je… je ne sais pas si j'ai le choix.<lf>  <lf> Je ne trouverai jamais Maîtresse {{Winters}} en allant si lentement.
 Italian,Io... non so se ho altra scelta.<lf><lf>Di questo passo non troverò mai Maestra {{Winters}}.
@@ -3514,7 +3514,7 @@ Swedish,Jag ... Jag vet inte om jag har något annat val.<lf> <lf>Jag hittar ald
 Thai,ฉัน ... ฉันไม่รู้ว่าฉันมีทางเลือกอื่นหรือไม่<lf> <lf>ฉันจะไม่พบ Master Winters ที่ก้าวที่ฉันกำลังจะไป
 Arabic,
 Key,Forest_Intro
-English_US,"I'll just... leave it here for now.<lf> <lf>Then as soon as I find her, we'll come get the sword and resume the training."
+English_US,"Я просто... оставлю его здесь пока что.<lf><lf>А как только я найду её, мы придём за мечом и возобновим тренировки."
 Description,
 French,"Je vais… je vais simplement la laisser là pour l'instant.<lf>  <lf> Ensuite, dès que je l'aurai trouvée, on reviendra prendre l'épée et on reprendra l'entraînement."
 Italian,"La lascerò qui per adesso.<lf><lf>Poi, appena avrò trovato Master {{Winters}}, verremo insieme a riprenderla e inizieremo l'addestramento."
@@ -3533,7 +3533,7 @@ Swedish,Jag ska bara ... lämna det här för nu.<lf> <lf>Sedan så snart jag hi
 Thai,ฉันจะแค่ ... ทิ้งไว้ที่นี่ตอนนี้<lf> <lf>จากนั้นทันทีที่ฉันพบเธอเราจะได้รับดาบและเริ่มการฝึกอบรม
 Arabic,
 Key,Forest_Intro
-English_US,I'll be right back.
+English_US,Я скоро вернусь.
 Description,
 French,Je reviendrai vite.
 Italian,Tornerò al più presto.
@@ -3552,7 +3552,7 @@ Swedish,Jag kommer snart tillbaka.
 Thai,ฉันจะกลับมา.
 Arabic,
 Key,Forest_Intro
-English_US,"Okay, there we go.<lf> <lf>It feels good to move quickly."
+English_US,"Ладно, вот так.<lf><lf>Приятно двигаться быстро."
 Description,
 French,"OK, c'est parti.<lf>  <lf> Ça fait du bien d'aller vite."
 Italian,"Va bene, ci siamo.<lf><lf>È bello poter muoversi velocemente."
@@ -3571,7 +3571,7 @@ Swedish,"Okej, där går vi.<lf> <lf>Det känns bra att röra sig snabbt."
 Thai,โอเคเราไปกันเถอะ<lf> <lf>รู้สึกดีที่จะเคลื่อนไหวอย่างรวดเร็ว
 Arabic,
 Key,Forest_Intro
-English_US,"Y'know, if I keep up this pace, I could...<lf> <lf>...ugh, hang on..."
+English_US,"Знаешь, если я сохраню этот темп, я смогу...<lf><lf>...ох, погоди..."
 Description,
 French,"Tu sais, si je continuais à ce rythme, je pourrais…<lf>  <lf> … pfff, attends…"
 Italian,"Se riuscissi a mantenere questo ritmo, potrei...<lf><lf>… uh, aspetta..."
@@ -3590,7 +3590,7 @@ Swedish,"Vet du, om jag fortsätter denna takt, kunde jag ...<lf> <lf>... ugh, h
 Thai,คุณรู้ไหมถ้าฉันทำตามจังหวะนี้ฉันทำได้ ...<lf> <lf>... อืมแขวนอยู่ ...
 Arabic,
 Key,Forest_Intro
-English_US,Rest a moment
+English_US,Немного отдохнуть
 Description,This is a dialogue choice for the player
 French,Se reposer un instant
 Italian,Riposati un po'
@@ -3609,7 +3609,7 @@ Swedish,Vila ett ögonblick
 Thai,พักสักครู่
 Arabic,
 Key,Forest_Intro
-English_US,Keep moving
+English_US,Продолжать двигаться
 Description,This is a dialogue choice for the player
 French,Continuer d'avancer
 Italian,Vai avanti
@@ -3628,7 +3628,7 @@ Swedish,Fortsätt röra på er
 Thai,เดินต่อไป
 Arabic,
 Key,Forest_Intro
-English_US,"...just for a second. Just a moment, and then back to it."
+English_US,"…всего на секунду. Только на мгновение, а потом снова к делу."
 Description,she's resting
 French,"… juste une seconde. Juste un instant, et je m'y remets."
 Italian,… Solo un secondo. Solo un attimo e poi mi rimetterò in cammino.
@@ -3647,7 +3647,7 @@ Swedish,... bara en sekund. Bara ett ögonblick och sedan tillbaka till det.
 Thai,... เพียงแค่วินาที เพียงชั่วครู่แล้วกลับไปที่มัน
 Arabic,
 Key,Forest_Intro
-English_US,"I'm gathering my energy. I'll summon everything I have, and push until I find Master {{Winters}}."
+English_US,"Я собираюсь с силами. Я призову всё, что у меня есть, и буду идти вперед, пока не найду Мастера {{Winters}}."
 Description,
 French,Je récupère de l'énergie. Je rassemble toutes mes forces et je pousse jusqu'à trouver Maîtresse {{Winters}}.
 Italian,Raccoglierò tutte le energie rimaste e spingerò finché non avrò trovato Maestra {{Winters}}.
@@ -3666,7 +3666,7 @@ Swedish,Jag samlar min energi. Jag kallar allt jag har och pressar tills jag hit
 Thai,ฉันกำลังรวบรวมพลังงานของฉัน ฉันจะเรียกทุกอย่างที่ฉันมีและผลักดันจนกว่าฉันจะพบกับอาจารย์ฤดูหนาว
 Arabic,
 Key,Forest_Intro
-English_US,...oof...
+English_US,...уф...
 Description,The sound of being tired
 French,… pfff…
 Italian,… uff...
@@ -9917,7 +9917,7 @@ Swedish,WANDERSTOP
 Thai,WANDERSTOP
 Arabic,
 Key,MainMenu_Continue
-English_US,Continue
+English_US,Продолжать
 Description,Continue your previously saved game
 French,Continuer
 Italian,Continua
@@ -9936,7 +9936,7 @@ Swedish,Fortsätta
 Thai,ดำเนินการต่อ
 Arabic,
 Key,MainMenu_NewGame
-English_US,New Game
+English_US,Новая игра
 Description,Start a new game
 French,Nouvelle partie
 Italian,Nuova partita
@@ -9955,7 +9955,7 @@ Swedish,Nytt spel
 Thai,เกมส์ใหม่
 Arabic,
 Key,MainMenu_CycleSelect
-English_US,Chapter Select
+English_US,Выбор главы
 Description,
 French,Choix de chapitre
 Italian,Seleziona capitolo
@@ -9974,7 +9974,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MainMenu_Options
-English_US,Options
+English_US,Параметры
 Description,Open the options menu
 French,Options
 Italian,Opzioni
@@ -10012,7 +10012,7 @@ Swedish,Switchprofil
 Thai,เปลี่ยนโปรไฟล์
 Arabic,
 Key,MainMenu_Credits
-English_US,Credits
+English_US,Титры
 Description,View the game's credits
 French,Crédits
 Italian,Ringraziamenti
@@ -10031,7 +10031,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MainMenu_Quit
-English_US,Quit
+English_US,Выход из игры
 Description,Quit the game
 French,Quitter
 Italian,Esci
@@ -10050,7 +10050,7 @@ Swedish,Sluta
 Thai,ล้มเลิก
 Arabic,
 Key,MainMenu_Cycle
-English_US,Chapter {{#NUMBER#}}
+English_US,Глава {{#NUMBER#}}
 Description,"{{#NUMBER#}} will be replaced with a number to make an identifier for each cycle (e.g., ""Chapter 1"", ""Chapter 2""). "
 French,Chapitre {{#NUMBER#}}
 Italian,Capitolo {{#NUMBER#}}
