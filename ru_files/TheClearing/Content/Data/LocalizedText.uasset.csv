@@ -9366,7 +9366,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tutorial_Inventory_Description2A_Toggle
-English_US,"Чтобы открыть карман, <TutorialEmphasis>нажмите</> {{#BUTTON#}}."
+English_US,"Чтобы открыть карман, <TutorialEmphasis>нажмите</> {{#BUTTON#}}"
 Description,
 French,"Pour ouvrir une poche, <TutorialEmphasis>appuie sur</> {{#BUTTON#}}."
 Italian,"Per aprire una sacca, <TutorialEmphasis>premi</> {{#BUTTON#}}."
@@ -9385,7 +9385,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tutorial_Inventory_Description2C_Toggle
-English_US,"После подтверждения нажмите еще раз, чтобы достать предмет."
+English_US,"После подтверждения нажмите ещё раз, чтобы достать предмет."
 Description,
 French,"Après confirmation, appuie à nouveau pour te munir de l'objet."
 Italian,"Una volta confermato, premi di nuovo per prendere l'oggetto."
