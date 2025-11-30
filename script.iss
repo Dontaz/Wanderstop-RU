@@ -1,5 +1,5 @@
 #define MyAppName "Русификатор для Wanderstop"
-#define MyAppVersion "1.0 [20251129]"
+#define MyAppVersion "1.01 [20251130]"
 #define MyAppPublisher "Dontaz"
 #define MyAppURL "https://steamcommunity.com/sharedfiles/filedetails/?id=3479356545"
 #define MyAppBoosty "https://boosty.to/dontaz"
