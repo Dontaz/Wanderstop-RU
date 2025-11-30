@@ -4,7 +4,7 @@
 
 Перевод интерфейса, диалогов и всего остального в игре Wanderstop. Подобраны шрифты. Любителям сюжета и хороших переводов рекомендую подождать версию 1.1, когда будет закончена редактура текста.
 
-![main_img](img\wanderstop_ru.png)
+![main_img](img/wanderstop_ru.png)
 
 ## Ссылки на скачивание
 
@@ -23,6 +23,6 @@
 
 ## Пример перевода
 
-![ex1](img\wanderstop_example_1.png)
+![ex1](img/wanderstop_example_1.png)
 
-![ex2](img\wanderstop_example_2.png)
+![ex2](img/wanderstop_example_2.png)
