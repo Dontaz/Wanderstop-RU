@@ -3343,7 +3343,7 @@ Swedish,"Jag var lat, jag låter mig bli självbelåten."
 Thai,ฉันขี้เกียจฉันปล่อยให้ตัวเองพอใจ
 Arabic,
 Key,Forest_Intro
-English_US,"Я должна убедиться, что это больше никогда не повторится.<lf><lf>Это все, что имеет значение."
+English_US,"Я должна убедиться, что это больше никогда не повторится.<lf><lf>Это всё, что имеет значение."
 Description,
 French,Je dois faire en sorte que ça ne se reproduise plus.<lf>  <lf> C'est tout ce qui compte.
 Italian,Devo assicurarmi che non accada mai più.<lf><lf>Questo è ciò che conta.
@@ -3495,7 +3495,7 @@ Swedish,... lämnar jag svärdet här?<lf><lf> Kan jag göra det? Är det okej?
 Thai,... ฉันทิ้งดาบไว้ที่นี่หรือไม่?<lf><lf> ฉันทำได้ไหม ไม่เป็นไร?
 Arabic,
 Key,Forest_Intro
-English_US,"Я... Я не знаю, есть ли у меня другой выбор.<lf><lf>С такой скоростью я никогда не найду Мастера {{Уинтерс}}."
+English_US,"Я... Я не знаю, есть ли у меня другой выбор.<lf><lf>Такими темпами я никогда не найду Мастера {{Уинтерс}}."
 Description,
 French,Je… je ne sais pas si j'ai le choix.<lf>  <lf> Je ne trouverai jamais Maîtresse {{Winters}} en allant si lentement.
 Italian,Io... non so se ho altra scelta.<lf><lf>Di questo passo non troverò mai Maestra {{Winters}}.
@@ -3647,7 +3647,7 @@ Swedish,... bara en sekund. Bara ett ögonblick och sedan tillbaka till det.
 Thai,... เพียงแค่วินาที เพียงชั่วครู่แล้วกลับไปที่มัน
 Arabic,
 Key,Forest_Intro
-English_US,"Я собираюсь с силами. Я призову всё, что у меня есть, и буду идти вперед, пока не найду Мастера {{Уинтерс}}."
+English_US,"Я собираюсь с силами. Я призову всё, что у меня есть, и буду идти вперёд, пока не найду Мастера {{Уинтерс}}."
 Description,
 French,Je récupère de l'énergie. Je rassemble toutes mes forces et je pousse jusqu'à trouver Maîtresse {{Winters}}.
 Italian,Raccoglierò tutte le energie rimaste e spingerò finché non avrò trovato Maestra {{Winters}}.
@@ -3685,7 +3685,7 @@ Swedish,... oof ...
 Thai,... อืม ...
 Arabic,
 Key,Forest_Intro
-English_US,...просто собираюсь с силами...<lf> <lf>...и сразу же вернусь к делу...
+English_US,...просто собираюсь сил...<lf> <lf>...и сразу же вернусь к делу...
 Description,
 French,… je n'ai qu'à rassembler toutes mes forces…<lf>  <lf> … et je m'y remets…
 Italian,… Devo solo raccogliere le mie energie...<lf><lf>… per rimettermi in cammino...
@@ -3704,7 +3704,7 @@ Swedish,... bara samla min energi ...<lf> <lf>... sedan tillbaka till det ...
 Thai,... แค่รวบรวมพลังงานของฉัน ...<lf> <lf>... แล้วกลับไปที่มัน ...
 Arabic,
 Key,Forest_Intro
-English_US,"Точно! Не останавливайся! Продолжай двигаться!<lf> <lf>Именно это потребовалось, чтобы стать непобедимой."
+English_US,"Точно! Не останавливайся! Продолжай двигаться!<lf> <lf>Это именно то, что нужно, чтобы стать непобедимой."
 Description,
 French,Bon ! T'arrête pas ! Continue d'avancer !<lf>  <lf> C'est exactement comme ça que je suis restée invaincue.
 Italian,Forza! Non fermarti! Continua ad avanzare!<lf><lf>È proprio così che sono rimasta imbattuta.
@@ -3723,7 +3723,7 @@ Swedish,Höger! Sluta inte! Fortsätt röra på er!<lf> <lf>Det här var exakt v
 Thai,ขวา! อย่าหยุด! เดินต่อไป!<lf> <lf>นี่คือสิ่งที่ต้องพ่ายแพ้
 Arabic,
 Key,Forest_Intro
-English_US,"Как только я проявлю себя перед Мастером {{Уинтерс}}, она поймет, что делать дальше."
+English_US,"Как только я проявлю себя перед Мастером {{Уинтерс}}, она будет знать, что делать дальше."
 Description,
 French,"Tant que je fais mes preuves auprès de Maîtresse {{Winters}}, elle saura quoi faire ensuite."
 Italian,"Purché riesca a dimostrare il mio valore a Maestra {{Winters}}, saprà lei cosa fare."
@@ -3837,7 +3837,7 @@ Swedish,"Hah. Det var ett skratt.<lf> <lf>""Gör te""?? Nej tack."
 Thai,"ฮ่า ๆ . นั่นเป็นเสียงหัวเราะ<lf> <lf>""ชงชา""?? ไม่เป็นไรขอบคุณ."
 Arabic,
 Key,Forest_TutorialExitA
-English_US,Что за посмешище этот парень.<lf><lf> «{{Боро}}»<lf><lf> Дурацкое имя.
+English_US,Ну и кадр этот парень.<lf><lf> «{{Боро}}»<lf><lf> Дурацкое имя.
 Description,
 French,"C'est n'importe quoi ce type.<lf>  <lf> ""{{Boro}}"".<lf>  <lf> Quel nom idiot."
 Italian,"Quel tipo è un buffone.<lf><lf>""{{Boro}}""<lf><lf>Che nome stupido."
