@@ -1443,7 +1443,7 @@ Swedish,Uppsättning
 Thai,ชุด
 Arabic,
 Key,Inventory_Prompt_Pot
-English_US,{{#BUTTON#}}  Пересадить в горшок
+English_US,{{#BUTTON#}}  Пересадить
 Description,"Verb, to put a plant into a pot"
 French,{{#BUTTON#}} Empoter
 Italian,{{#BUTTON#}} Metti nel vaso
@@ -1709,7 +1709,7 @@ Swedish,Messbär
 Thai,เครื่องนอน
 Arabic,
 Key,ItemLabel_FruitAD
-English_US,{{Вайпур}} Росток
+English_US,Росток {{Вайпур}}
 Description,
 French,Chou {{waypur}}
 Italian,Germoglio di {{Waypur}}
@@ -1728,7 +1728,7 @@ Swedish,Waypur grodd
 Thai,ต้นกล้า Waypur
 Arabic,
 Key,ItemLabel_FruitBA
-English_US,{{Вритл}} Свёкла
+English_US,Свёкла {{Вритл}}
 Description,
 French,Betterave de {{vreetle}}
 Italian,Barbabietola di {{Vreetle}}
@@ -1747,7 +1747,7 @@ Swedish,Rödbetor
 Thai,Vreetle Beet
 Arabic,
 Key,ItemLabel_FruitBB
-English_US,{{Аззи}} Фрукт
+English_US,Фрукт {{Аззи}}
 Description,
 French,Fruit d'{{azzy}}
 Italian,Frutto di {{Azzy}}
@@ -1861,7 +1861,7 @@ Swedish,Mirakelpomme
 Thai,Miracle Pomme
 Arabic,
 Key,ItemLabel_FruitCC
-English_US,{{Сноква}} Шишка
+English_US,Шишка {{Сноква}}
 Description,"""Cones"" like ""pinecones"""
 French,Cône de {{snok}}
 Italian,Pigna di {{Snok}}
@@ -2469,7 +2469,7 @@ Swedish,
 Thai,
 Arabic,
 Key,ItemLabel_Jam
-English_US,Джем {{Тимоти}}
+English_US,Варенье {{Тимоти}}
 Description,"""jam"" meaning a jar of fruit preservatives"
 French,Confiture de {{Timothy}}
 Italian,Marmellata di {{Timothy}}
@@ -16377,7 +16377,7 @@ Swedish,Tea -begäran:<lf>- något som hjälper till att väcka honom
 Thai,คำขอชา:<lf>- บางสิ่งบางอย่างที่จะช่วยปลุกเขา
 Arabic,
 Key,FieldGuideRequest_Tea_Gerald2
-English_US,"<RequestTitle>Запрос чая:</><lf>• То же, что было в предыдущем чае<lf>• Любимый джем {{Тимоти}}"
+English_US,"<RequestTitle>Запрос чая:</><lf>• То же, что было в предыдущем чае<lf>• Любимое варенье {{Тимоти}}"
 Description,
 French,<RequestTitle>Thé demandé :</><lf>• Tout ce qu'il y avait dans le thé précédent<lf>• Confiture préférée de {{Timothy}}
 Italian,<RequestTitle>Richiesta di tè:</><lf>• Quello che c'era nel tè precedente<lf>• La marmellata preferita di {{Timothy}}
@@ -17612,7 +17612,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Gerald2
-English_US,"Сделайте чай с чайным шариком, Фрукт {{Аззи}} и бросьте в смесь Любимый джем {{Тимоти}}. Поговорите с {{Джеральдом}}, если вам нужно больше джема."
+English_US,"Сделайте чай с чайным шариком, Фруктом {{Аззи}} и бросьте в смесь Любимое варенье {{Тимоти}}. Поговорите с {{Джеральдом}}, если вам нужно больше варенья."
 Description,
 French,"Prépare du thé avec une boule de thé, un fruit d'{{azzy}}, et ajoute-y aussi de la confiture préférée de {{Timothy}}. Va voir {{Gerald}} s'il te faut plus de confiture."
 Italian,"Prepara il tè con una pallina di tè e un frutto d'{{Azzy}}, poi aggiungi anche la marmellata preferita di {{Timothy}} nella miscela. Vai da {{Gerald}} se hai bisogno di altra marmellata."
