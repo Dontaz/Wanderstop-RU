@@ -4502,7 +4502,7 @@ Swedish,...
 Thai,...
 Arabic,
 Key,Forest_Monster
-English_US,Монстр!
+English_US,Чудовище!
 Description,"""Monster"" is a person's name<lf>SCENE DESCRIPTION: Toward the end of the game, Alta has a confrontation in the forest with Monster. These lines are simply the intro to that scene, Alta is running through the forest looking for Monster."
 French,Monstro !
 Italian,Mostro!
@@ -4521,7 +4521,7 @@ Swedish,Monster!
 Thai,มอนสเตอร์
 Arabic,
 Key,Forest_Monster
-English_US,"МОНСТР, ГДЕ ТЫ??"
+English_US,"ЧУДОВИЩЕ, ГДЕ ТЫ??"
 Description,
 French,"MONSTRO, OÙ ES-TU ??"
 Italian,"MOSTRO, DOVE SEI?"
@@ -4616,7 +4616,7 @@ Swedish,"... Fortsätt röra sig, Alta ..."
 Thai,... เคลื่อนไหวต่อไปอัลตา ...
 Arabic,
 Key,Forest_Monster
-English_US,МОНСТР! ТЫ МЕНЯ СЛЫШИШЬ?
+English_US,ЧУДОВИЩЕ! ТЫ МЕНЯ СЛЫШИШЬ?
 Description,
 French,MONSTRO ! TU M'ENTENDS ?
 Italian,MOSTRO! MI SENTI?
@@ -4654,7 +4654,7 @@ Swedish,Okej...<lf> <lf>Jag är här.<lf><lf>Vad nu?
 Thai,ตกลง...<lf> <lf>ฉันอยู่นี่.<lf><lf>อะไรต่อไป?
 Arabic,
 Key,Forest_Zenith1
-English_US,ЧЕЛОВЕК {{Альта}}!!
+English_US,ЧЕЛОВЕК {{АЛЬТА}}!!
 Description,This line is spoken by Zenith. I will mark any line spoken by zenith with the word (zenith)
 French,ÊTRE HUMAIN {{ALTA}} !!
 Italian,ESSERE UMANO {{ALTA}}!!
