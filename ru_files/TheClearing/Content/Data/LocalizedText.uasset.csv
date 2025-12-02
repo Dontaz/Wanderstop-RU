@@ -75,7 +75,7 @@ Swedish,Edge of a Bullet: A Dirk Warhard Roman
 Thai,Edge of a Bullet: A Dirk Warhard นวนิยาย
 Arabic,
 Key,Book_Dirk1_Title2
-English_US,Роман о {{Дирк Вархард}}
+English_US,Роман о {{Дирке Вархарде}}
 Description,See above
 French,Une aventure de {{Dirk Warhard}}
 Italian,Un'avventura di {{Dirk Warhard}}
@@ -94,7 +94,7 @@ Swedish,Edge of a Bullet: A Dirk Warhard Roman
 Thai,Edge of a Bullet: A Dirk Warhard นวนิยาย
 Arabic,
 Key,Book_Dirk2_Title1
-English_US,Самая быстрая живая пуля
+English_US,Самая быстрая пуля на свете
 Description,This is the first half of the book title from cell C5 in the LOCKED_Books spreadsheet
 French,"Balle rapide, balle de vie"
 Italian,Il proiettile più veloce
@@ -132,7 +132,7 @@ Swedish,Jagar kulor: En historia och kritisk teori om Dirk Warhard -romanerna
 Thai,การไล่ล่ากระสุน: ประวัติศาสตร์และทฤษฎีวิกฤตของนวนิยาย Dirk Warhard
 Arabic,
 Key,Book_Dirk3_Title2
-English_US,История и критический анализ романов о {{Дирк Вархард}}
+English_US,История и критическая теория романов о {{Дирке Вархарде}}
 Description,This is the second half of the book title from cell C7 in the LOCKED_Books spreadsheet
 French,Une théorie historique et critique des aventures de {{Dirk Warhard}}
 Italian,Una teoria storica e critica dei romanzi sulle avventure di {{Dirk Warhard}}
@@ -379,7 +379,7 @@ Swedish,Soldatstaty
 Thai,รูปปั้นทหาร
 Arabic,
 Key,NanaCycle02Item08
-English_US,Космическая сфера
+English_US,Космический шар
 Description,An orb that looks like it's from outer space
 French,Globe cosmique
 Italian,Globo cosmico
