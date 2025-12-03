@@ -9917,7 +9917,7 @@ Swedish,WANDERSTOP
 Thai,WANDERSTOP
 Arabic,
 Key,MainMenu_Continue
-English_US,Продолжать
+English_US,Продолжить
 Description,Continue your previously saved game
 French,Continuer
 Italian,Continua
@@ -10012,7 +10012,7 @@ Swedish,Switchprofil
 Thai,เปลี่ยนโปรไฟล์
 Arabic,
 Key,MainMenu_Credits
-English_US,Титры
+English_US,Титры (перевёл Dontaz v1.02)
 Description,View the game's credits
 French,Crédits
 Italian,Ringraziamenti
@@ -10221,7 +10221,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MainMenu_ProfileEmpty
-English_US,Пусто
+English_US,Пустой
 Description,"Adjective used to describe a profile, indicating that it does not contain a saved game"
 French,Vide
 Italian,Vuoto
@@ -10278,7 +10278,7 @@ Swedish,
 Thai,
 Arabic,
 Key,PauseMenu_Resume
-English_US,Продолжить
+English_US,Возобновить
 Description,Command to unpause and resume the game
 French,Reprendre
 Italian,Riprendi
@@ -10354,7 +10354,7 @@ Swedish,alternativ
 Thai,ตัวเลือก
 Arabic,
 Key,PauseMenu_SaveAndQuit
-English_US,Сохранить и выйти
+English_US,Сохранить & Выйти
 Description,Command to save the game and quit
 French,Sauvegarder et quitter
 Italian,Salva ed esci
@@ -10392,7 +10392,7 @@ Swedish,
 Thai,
 Arabic,
 Key,TutorialName_Stashing
-English_US,Убирание предметов
+English_US,Забирание предметов
 Description,
 French,Empocher les objets
 Italian,Riporre oggetti
@@ -10411,7 +10411,7 @@ Swedish,
 Thai,
 Arabic,
 Key,TutorialName_Inventory2
-English_US,Извлечение предметов
+English_US,Возвращение предметов
 Description,
 French,Récupérer les objets
 Italian,Recuperare oggetti
@@ -10582,7 +10582,7 @@ Swedish,Ställa in objekt
 Thai,ตั้งค่ารายการ
 Arabic,
 Key,MenusAndTutorials17
-English_US,Убрать предмет в карман
+English_US,Забрать предмет в карман
 Description,
 French,Ranger un objet tenu
 Italian,Riporre oggetto posseduto
@@ -10620,7 +10620,7 @@ Swedish,Fältguide
 Thai,คู่มือภาคสนาม
 Arabic,
 Key,MenusAndTutorials19
-English_US,Спринт
+English_US,Рывок
 Description,
 French,Sprinter
 Italian,Corsa
@@ -10677,7 +10677,7 @@ Swedish,Kontroll
 Thai,การควบคุม
 Arabic,
 Key,OptionsMenu_Audio
-English_US,Аудио
+English_US,Звук
 Description,Menu option to change the game's audio
 French,Audio
 Italian,Audio
@@ -10753,7 +10753,7 @@ Swedish,
 Thai,
 Arabic,
 Key,OptionsMenu_Gameplay_SprintInput
-English_US,Способ включения спринта
+English_US,Способ включения рывка
 Description,Lets you change the way in which the player can Sprint in the game
 French,Façon de sprinter
 Italian,Modalità di Corsa
@@ -10772,7 +10772,7 @@ Swedish,
 Thai,
 Arabic,
 Key,OptionsMenu_Gameplay_Controls_Choice1
-English_US,НАЖАТЬ И УДЕРЖИВАТЬ
+English_US,НАЖАТЬ & УДЕРЖИВАТЬ
 Description,Indicates that you interact with this button by pressing and holding it
 French,APPUYER ET MAINTENIR
 Italian,PREMI E TIENI PREMUTO
@@ -11741,7 +11741,7 @@ Swedish,
 Thai,
 Arabic,
 Key,OptionsMenu_Graphics_AntiAliasingType_TAA
-English_US,Временное сглаживание (TAA)
+English_US,TAA
 Description,
 French,Anticrénelage temporel
 Italian,Antialiasing temporale
@@ -11931,7 +11931,7 @@ Swedish,
 Thai,
 Arabic,
 Key,OptionsMenu_Graphics_Foliage
-English_US,Качество растительности
+English_US,Качество листвы
 Description,
 French,Qualité des feuillages
 Italian,Qualità del fogliame
@@ -11969,7 +11969,7 @@ Swedish,Textspråk
 Thai,ภาษาข้อความ
 Arabic,
 Key,OptionsMenu_Interface_TextLanguage_English
-English_US,Английский
+English_US,Русский (1.02)
 Description,"NOTE: Please only translate this if it's the target language you're translating into. Otherwise, just leave it blank."
 French,Anglais
 Italian,Inglese
@@ -12463,7 +12463,7 @@ Swedish,Inte alla språk stöds av dyslexivänligt teckensnitt
 Thai,ฟอนต์ที่เป็นมิตรต่อผู้บกพร่องในการอ่านไม่รองรับทุกภาษา
 Arabic,
 Key,OptionsMenu_Interface_ColorblindSupport
-English_US,Режим для дальтоников
+English_US,Режим цветовой слепоты
 Description,This setting determines whether the game is altered to be accessible to colorblind players
 French,Prise en charge du daltonisme
 Italian,Supporto per daltonici
@@ -12710,7 +12710,7 @@ Swedish,
 Thai,
 Arabic,
 Key,OptionsMenu_Controls_Stash
-English_US,Убрать в карман
+English_US,Забрать
 Description,Indicates that this button is used to stash items
 French,Empocher
 Italian,Riponi in tasca
@@ -12767,7 +12767,7 @@ Swedish,
 Thai,
 Arabic,
 Key,OptionsMenu_Controls_Sprint
-English_US,Спринт
+English_US,Рывок
 Description,Indicates that this button is used to make the player sprint
 French,Sprinter
 Italian,Corsa
@@ -12786,7 +12786,7 @@ Swedish,
 Thai,
 Arabic,
 Key,OptionsMenu_Controls_SprintToggle
-English_US,Спринт (вкл/выкл)
+English_US,Рывок (вкл/выкл)
 Description,
 French,Sprinter (activer/désactiver)
 Italian,Corsa (attiva/disattiva)
@@ -12919,7 +12919,7 @@ Swedish,
 Thai,
 Arabic,
 Key,OptionsMenu_Controls_CameraAndInventoryNav
-English_US,Камера и навигация в инвентаре
+English_US,Камера & Навигация в инвентаре
 Description,
 French,Caméra et navigation dans l'inventaire
 Italian,Fotocamera e navigazione nell'inventario
@@ -13128,7 +13128,7 @@ Swedish,
 Thai,
 Arabic,
 Key,OptionsMenu_Remapping_Stash
-English_US,Убрать предмет в карман
+English_US,Забрать предмет
 Description,This piece of UI indicates a function on the controller
 French,Empocher un objet
 Italian,Metti oggetto nella sacca
@@ -13166,7 +13166,7 @@ Swedish,
 Thai,
 Arabic,
 Key,OptionsMenu_Remapping_Sprint
-English_US,Спринт (удерживать)
+English_US,Рывок (удерживать)
 Description,This piece of UI indicates a function on the controller
 French,Sprinter (maintenir)
 Italian,Corsa (tieni premuto)
@@ -13185,7 +13185,7 @@ Swedish,
 Thai,
 Arabic,
 Key,OptionsMenu_Remapping_SprintToggle
-English_US,Спринт (вкл/выкл)
+English_US,Рывок (вкл/выкл)
 Description,This piece of UI indicates a function on the controller
 French,Sprinter (activer/désactiver)
 Italian,Corsa (attiva/disattiva)
@@ -13527,7 +13527,7 @@ Swedish,
 Thai,
 Arabic,
 Key,PauseMenu_QuitToMainMenu
-English_US,Выйти в главное меню
+English_US,Выйти в Главное меню
 Description,Selecting this option will exit the game and return you to the main menu
 French,Quitter pour le menu principal
 Italian,Esci e vai al menu principale
@@ -13888,7 +13888,7 @@ Swedish,Hur man använder temaskinen
 Thai,วิธีใช้เครื่องชงชา
 Arabic,
 Key,FieldGuide_Tasks_TeaMachine1
-English_US,"<Step>ШАГ 1</><lf><Title>Налейте воду</><lf>Поднимитесь по лестнице до веревки, свисающей с потолка. Потяните веревку вниз, чтобы налить свежую порцию воды."
+English_US,"<Step>ШАГ 1</><lf><Title>Налейте воду</><lf>Поднимитесь по лестнице до верёвки, свисающей с потолка. Потяните верёвку вниз, чтобы налить свежую порцию воды."
 Description,
 French,<Step>ÉTAPE 1</><lf><Title>Versez l'eau</><lf>Grimpez à l'échelle jusqu'à atteindre la corde suspendue au plafond. Tirez sur la corde pour remplir d'eau fraîche.
 Italian,<Step>1ª FASE</><lf><Title>Versare l'acqua</><lf>Sali la scala fino a raggiungere la corda sospesa al soffitto. Tira la corda per versare l'acqua fresca.
@@ -13907,7 +13907,7 @@ Swedish,Hur man använder te -maskinen<lf>Steg 1: Häll vattnet<lf><lf>Klättra 
 Thai,วิธีใช้เครื่องชา<lf>ขั้นตอนที่ 1: เทน้ำ<lf><lf>ปีนบันไดจนกว่าคุณจะถึงเชือกห้อยลงมาจากเพดาน ดึงเชือกลงเพื่อเทชุดน้ำสด
 Arabic,
 Key,FieldGuide_Tasks_TeaMachine2
-English_US,"<Step>ШАГ 2</><lf><Title>Нагрейте воду</><lf>Как только вода окажется в шаре, качайте мехи печи, чтобы нагреть её. Продолжайте, пока вода не закипит и не пойдет пар."
+English_US,"<Step>ШАГ 2</><lf><Title>Нагрейте воду</><lf>Как только вода окажется в шаре, качайте мехи печи, чтобы нагреть её. Продолжайте, пока вода не закипит и не пойдёт пар."
 Description,
 French,"<Step>ÉTAPE 2</><lf><Title>Chauffez l'eau</><lf>Une fois le globe rempli d'eau, activez le fourneau pour le faire chauffer. Continuez jusqu'à ébullition et émission de vapeur."
 Italian,"<Step>2ª FASE</><lf><Title>Riscaldare l'acqua</><lf>Quando l'acqua è nell'ampolla, attiva la fornace per riscaldarla. Continua così fino a quando l’acqua bolle e il vapore inizia ad uscire."
@@ -13926,7 +13926,7 @@ Swedish,"Steg 2: Värm vattnet<lf><lf>Pumpa ugnen för att värma vattnet. Forts
 Thai,ขั้นตอนที่ 2: ให้ความร้อนแก่น้ำ<lf><lf>ปั๊มเตาเผาน้ำให้ร้อน เดินต่อไปจนกว่าน้ำจะเดือดคุณจะเห็นไอน้ำเพิ่มขึ้นจากมัน
 Arabic,
 Key,FieldGuide_Tasks_TeaMachine3
-English_US,<Step>ШАГ 3</><lf><Title>Перелейте в инфузор</><lf>Пните вентиль сбоку бака с водой. Это перельет горячую воду в инфузор.
+English_US,<Step>ШАГ 3</><lf><Title>Перелейте в инфузор</><lf>Пните вентиль сбоку бака с водой. Это перельёт горячую воду в инфузор.
 Description,
 French,<Step>ÉTAPE 3</><lf><Title>Transférez dans l'infuseur</><lf>Donnez un coup de pied sur la valve du réservoir pour faire passer l'eau chaude dans l'infuseur.
 Italian,<Step>3ª FASE</><lf><Title>Trasferire nell'infusore</><lf>Dai un colpetto con il piede alla valvola che si trova sul lato del serbatoio per trasferire l'acqua bollente nell'infusore.
@@ -14040,7 +14040,7 @@ Swedish,"Torkning av teblad:<lf><lf>För att torka teblad, ta korgen från under
 Thai,ใบชาแห้ง:<lf><lf>ในการแห้งใบชาคว้าตะกร้าจากห้องบำรุงรักษา<lf><lf>ใช้ตะกร้าเพื่อรวบรวมใบชาที่เติบโตรอบ ๆ สำนักหักบัญชี
 Arabic,
 Key,FieldGuide_Tasks_DryingLeaves2
-English_US,Положите собранные листья в чаши для сушки в мастерской. Чай начнет сушиться сам по себе.<lf><lf>Через пару минут листья свернутся в шарик. Используйте этот шарик для чая!
+English_US,Положите собранные листья в чаши для сушки в мастерской. Чай начнёт сушиться сам по себе.<lf><lf>Через пару минут листья свернутся в шарик. Используйте этот шарик для чая!
 Description,
 French,"Placez votre récolte dans les bols de séchage de la salle de maintenance. Les feuilles commenceront à sécher toutes seules.<lf> <lf>Après quelques minutes, les feuilles coaguleront en forme de boule. C'est cette boule qu'il faut mettre dans l'eau chaude !"
 Italian,Metti le foglie che hai raccolto nelle ciotole per l'essiccazione nella stanza di servizio e inizieranno a seccarsi da sole.<lf>  <lf>Dopo un paio di minuti le foglie si rapprenderanno formando una pallina. Usa questa pallina per preparare il tè!
@@ -14078,7 +14078,7 @@ Swedish,
 Thai,
 Arabic,
 Key,FieldGuide_Tasks_Sweeping
-English_US,"Видите кучи листьев вокруг? Почему бы не взять метлу и не подмести их!<lf><lf>Если вы найдете что-то в листьях, можете оставить это себе."
+English_US,"Видите кучи листьев вокруг? Почему бы не взять метлу и не подмести их!<lf><lf>Если вы найдёте что-то в листьях, можете оставить это себе."
 Description,
 French,"Il y a des feuilles qui traînent partout ? Allez donc prendre un balai pour nettoyer !<lf> <lf>Si vous trouvez quelque chose parmi les feuilles, c'est à vous."
 Italian,"Vedi delle foglie in giro? Prendi la scopa e spazzale via!<lf>  <lf>Se trovi qualcosa tra le foglie, te la puoi prendere."
@@ -14154,7 +14154,7 @@ Swedish,
 Thai,
 Arabic,
 Key,FieldGuide_Tasks_PictureFrames
-English_US,"Вставляйте фотографии в рамки или убирайте те, что уже там. Меняйте их местами как угодно!"
+English_US,"Вставляйте фотографии в рамки или убирайте те, что уже в них. Меняйте их местами как вам угодно!"
 Description,
 French,Vous pouvez encadrer vos photos ou supprimer celles qui sont déjà sous cadre. À vous de les réorganiser comme il vous plaira !
 Italian,Puoi inserire le foto nelle cornici oppure rimuoverle dalle cornici. Le puoi organizzare come preferisci!
@@ -14211,7 +14211,7 @@ Swedish,FOTO KAMERA:<lf><lf>Håll kameran och interagera sedan med den för att 
 Thai,กล่องถ่ายรูป:<lf><lf>ถือกล้องแล้วโต้ตอบกับมันเพื่อดูผ่านเลนส์<lf><lf>ชี้แล้วคลิกเพื่อถ่ายรูป ภาพจะปรากฏขึ้นต่อหน้าคุณ
 Arabic,
 Key,FieldGuide_Tasks_CoffeeTitle
-English_US,Кофейные зерна
+English_US,Кофейные зёрна
 Description,
 French,Grains de café
 Italian,Chicchi di caffè
@@ -14249,7 +14249,7 @@ Swedish,KAFFEBÖNOR:<lf><lf>Kaffeanläggningar kommer att växa runt rensningen.
 Thai,เมล็ดกาแฟ:<lf><lf>พืชกาแฟจะเติบโตรอบ ๆ สำนักหักบัญชี<lf><lf>เพียงแค่เข้าหาหนึ่งและเลือกเมล็ดกาแฟออกจากศูนย์<lf><lf>ถั่วเพียงตัวเดียวเท่านั้นที่จะวางไข่ต่อต้น
 Arabic,
 Key,FieldGuide_Tasks_Coffee2
-English_US,"Кофейные зерна растут прямо из земли, поэтому они довольно грязные. Обязательно пропустите каждое зерно через посудомойку перед приготовлением кофе.<lf><lf>После того как зерно помыто, бросьте его в чайный инфузор, как любой другой ингредиент. Заварка превратится в кофе."
+English_US,"Кофейные зёрна растут прямо из земли, поэтому они довольно грязные. Обязательно пропустите каждое зерно через посудомойку перед приготовлением кофе.<lf><lf>После того как зерно помыто, бросьте его в чайный инфузор, как любой другой ингредиент. Заварка превратится в кофе."
 Description,
 French,"Les grains de café sortent du sol et peuvent être un peu sales. Il faut penser à passer chaque grain au lave-vaisselle avant de faire du café avec.<lf> <lf>Une fois un grain lavé, passez-le dans votre infuseur à thé exactement comme vous le faites avec tout autre ingrédient. Vous obtiendrez du café."
 Italian,"Le piante di caffè escono direttamente dalla terra, per cui i chicchi sono piuttosto sporchi. Assicurati di lavare ciascun chicco prima di prepararci il caffè.<lf>  <lf>Dopo averlo lavato, mettilo nell'infusore per il tè proprio come faresti con qualsiasi altro ingrediente. Così facendo otterrai il caffè."
@@ -14287,7 +14287,7 @@ Swedish,
 Thai,
 Arabic,
 Key,FieldGuide_Tasks_DrinkTea
-English_US,"Чувствуете занятость и перегрузку? Почему бы не присесть с расслабляющей чашечкой чая!<lf><lf>Во время чаепития ваши мысли могут улетать в самые разные места. Поэтому обязательно заваривайте его с ингредиентами, которые вдохновят на интересные размышления."
+English_US,"Чувствуете себя загруженным и подавленным? Почему бы не присесть с расслабляющей чашечкой чая!<lf><lf>Во время чаепития ваши мысли могут улетать в самые разные места. Поэтому обязательно заваривайте его с ингредиентами, которые вдохновят на интересные размышления."
 Description,
 French,"Vous ressentez de la fatigue ? Allez donc vous détendre avec une bonne tasse de thé !<lf> <lf>Quand on déguste du thé, notre imagination voyage dans toutes sortes de lieux. Pensez donc à choisir des ingrédients qui susciteront d'intéressantes pensées."
 Italian,"La vita ti affanna? Prenditi una pausa per goderti una rilassante tazza di tè!<lf>  <lf>Quando bevi il tè, puoi perderti nei tuoi pensieri e divagare negli spazi sconfinati della mente. Assicurati di prepararlo sempre con ingredienti che stimolano la tua immaginazione."
@@ -14553,7 +14553,7 @@ Swedish,
 Thai,
 Arabic,
 Key,FieldGuide_Page
-English_US,СТР.
+English_US,СТРАНИЦА
 Description,An indicator of which page of the book you're on
 French,PAGE
 Italian,PAGINA
@@ -14724,7 +14724,7 @@ Swedish,
 Thai,
 Arabic,
 Key,FieldGuideEntry_SeedC
-English_US,Семечко желтой пальмы
+English_US,Семечко жёлтой пальмы
 Description,
 French,Graine de palmier jaune
 Italian,Seme di palma gialla
@@ -14743,7 +14743,7 @@ Swedish,
 Thai,
 Arabic,
 Key,FieldGuideEntry_SeedD
-English_US,Семечко зеленого куста
+English_US,Семечко зелёного куста
 Description,
 French,Graine de buisson vert
 Italian,Seme di siepe verde
