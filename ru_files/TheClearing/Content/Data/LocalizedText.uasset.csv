@@ -4692,7 +4692,7 @@ Swedish,Vi är med dig!<lf><lf>Är det inte. Härlig!
 Thai,เราอยู่กับคุณ!<lf><lf>ไม่ใช่ น่ายินดี
 Arabic,
 Key,Forest_Zenith1
-English_US,Ого. <lf><lf>Так ты ТОЖЕ всё ещё на поляне?
+English_US,Ого. <lf><lf>Так вы ТОЖЕ всё ещё на поляне?
 Description,
 French,"Waouh… <lf> <lf> Alors, tu es toi AUSSI encore dans la clairière en ce moment ?"
 Italian,Ah...<lf> <lf>Quindi tu sei ANCHE nella radura in questo momento?
@@ -4825,7 +4825,7 @@ Swedish,Ah! Härlig! Vi ser det också!<lf> <lf>Det är ett minne!
 Thai,อา! น่ายินดี เราเห็นด้วย!<lf> <lf>มันเป็นความทรงจำ!
 Arabic,
 Key,Forest_Zenith1
-English_US,"Постой, ты видишь, как я сражаюсь??<lf> <lf>Но это всего лишь моё воспоминание."
+English_US,"Постой, вы видите, как я сражаюсь??<lf> <lf>Но это всего лишь моё воспоминание."
 Description,
 French,"Attends, tu me vois me battre ??<lf>  <lf> Mais ce n'est que ma mémoire."
 Italian,"Aspetta, puoi vedermi combattere?<lf><lf>Ma è solo un mio ricordo."
@@ -5224,7 +5224,7 @@ Swedish,"Ja, behövde bara en sekund.<lf> <lf>Jag är okej nu."
 Thai,ใช่แค่ต้องการวินาที<lf> <lf>ตอนนี้ฉันสบายดี
 Arabic,
 Key,Forest_Zenith1
-English_US,"Вернитесь к тому воспоминанию.<lf> <lf>Скажите мне снова, что вы увидели, причину, по которой я проиграла."
+English_US,"Вернитесь к тому воспоминанию.<lf> <lf>Скажите мне снова, что вы увидели — причину, по которой я проиграла."
 Description,
 French,"Retourne à ce souvenir.<lf> <lf> Dis-moi encore ce que tu as vu, la raison de ma défaite."
 Italian,"Ritorna a quel ricordo.<lf><lf>Raccontami ancora cosa hai visto, il motivo per cui ho perso."
@@ -5395,7 +5395,7 @@ Swedish,Vi kan försöka. För att flytta förändringsstrukturen framåt.
 Thai,เราสามารถลอง. เพื่อย้ายโครงสร้างการเปลี่ยนแปลงไปข้างหน้า
 Arabic,
 Key,Forest_Zenith1
-English_US,"Постой... ты хочешь сказать, что я проиграла те бои по той же причине??<lf><lf>И вы можете это исправить??"
+English_US,"Постойте... вы хотите сказать, что я проиграла те бои по той же причине??<lf><lf>И вы можете это исправить??"
 Description,
 French,Attends… tu es en train de me dire que j'ai perdu tous ces combats pour la même raison ??<lf>  <lf> Et tu peux arranger ça ??
 Italian,Aspetta... quindi stai dicendo che ho perso quegli incontri sempre per lo stesso motivo?<lf><lf>E puoi aggiustare le cose?
@@ -5832,7 +5832,7 @@ Swedish,"Det är inte jag, det är henne."
 Thai,ไม่ใช่ฉันมันเป็นเธอ
 Arabic,
 Key,Forest_Zenith1
-English_US,"Пожалуйста, {{Зенит}}...<lf><lf>...заставь её уйти..."
+English_US,"Пожалуйста, {{Зенит}}...<lf><lf>...заставьте её уйти..."
 Description,
 French,"S'il te plaît, {{Zenith}}…<lf>  <lf> … fais en sorte qu'elle s'en aille…"
 Italian,"Per favore, {{Zenith}}...<lf><lf>… falla andare via..."
@@ -5851,7 +5851,7 @@ Swedish,"Snälla, Zenith ...<cf><cf>... få henne att försvinna ..."
 Thai,ได้โปรด Zenith ...<cf><cf>... ทำให้เธอหายไป ...
 Arabic,
 Key,Forest_Zenith2
-English_US,"Ладно, поехали.<lf> <lf>Давай сделаем это."
+English_US,"Ладно, поехали.<lf> <lf>Давайте сделаем это."
 Description,"SCENE DESCRIPTION: Same as above, except this time Zenith doesn't show up in the forest, frustrating and confusing Alta"
 French,"Très bien, allons-y.<lf>  <lf> Faisons-le."
 Italian,"Va bene, ci siamo.<lf><lf>Facciamolo."
@@ -5870,7 +5870,7 @@ Swedish,"Okej, här går vi.<lf> <lf>Vi gör det."
 Thai,เอาล่ะเราไปกันเถอะ<lf> <lf>มาทำกันเถอะ
 Arabic,
 Key,Forest_Zenith2
-English_US,"{{Зенит}}, я готова, как только ты будешь готов."
+English_US,"{{Зенит}}, я готова, как только вы будете готовы."
 Description,
 French,"{{Zenith}}, je suis prête, quand tu veux."
 Italian,"{{Zenith}}, sono pronta, e tu?"
@@ -5908,7 +5908,7 @@ Swedish,...<lf> <lf>Zenit?
 Thai,...<lf> <lf>สุดยอด?
 Arabic,
 Key,Forest_Zenith2
-English_US,"Эй, ты здесь?<lf> <lf>{{Зенит}}?"
+English_US,"Эй, вы здесь?<lf> <lf>{{Зенит}}?"
 Description,
 French,"Eh, tu es là ?<lf>  <lf> {{Zenith}} ?"
 Italian,"Ehi, ci sei?<lf><lf>{{Zenit}}?"
@@ -5927,7 +5927,7 @@ Swedish,Hej är du där?<lf> <lf>Zenit?
 Thai,เฮ้คุณอยู่ที่นั่นไหม<lf> <lf>สุดยอด?
 Arabic,
 Key,Forest_Zenith2
-English_US,...<lf> <lf>...где ты! Что происходит??
+English_US,...<lf> <lf>...где вы! Что происходит??
 Description,
 French,…<lf>  <lf>  … où es-tu ? Qu'est-ce qui se passe ??
 Italian,...<lf><lf>… Dove sei! Cosa sta succedendo?
@@ -6060,7 +6060,7 @@ Swedish,"Om något finns där ute, och jag saknade det, skulle jag aldrig förl�
 Thai,หากมีสิ่งใดอยู่ข้างนอกและฉันก็พลาดไปฉันจะไม่ให้อภัยตัวเอง
 Arabic,
 Key,Forest_Zenith2
-English_US,{{Зенит}}!!<lf>ТЫ ЗДЕСЬ??
+English_US,{{Зенит}}!!<lf>ВЫ ЗДЕСЬ??
 Description,
 French,{{ZENITH}} !!<lf> TU ES LÀ ??
 Italian,{{ZENITH}}!!<lf> CI SEI?
@@ -6174,7 +6174,7 @@ Swedish,"-Herregud.<lf> <lf>Herregud jag är bara, bara ..."
 Thai,-โอ้พระเจ้า.<lf> <lf>โอ้พระเจ้าฉันแค่แค่ ...
 Arabic,
 Key,Forest_Zenith3
-English_US,{{Зенит}}? Ты здесь?
+English_US,{{Зенит}}? Вы здесь?
 Description,"SCENE DESCRIPTION: Same as above, Zenith and Alta return to the forest and Zenith looks into Alta's past."
 French,{{Zenith}} ? Tu es là ?
 Italian,{{Zenit}}? Ci sei?
@@ -6212,7 +6212,7 @@ Swedish,Ja. Vi är här.<lf> <lf>Vi kan se dig.
 Thai,ใช่. พวกเราอยู่ที่นี่.<lf> <lf>เราเห็นคุณ
 Arabic,
 Key,Forest_Zenith3
-English_US,"Хорошо! Хорошо.<lf>Ладно, давай сделаем это снова.<lf> <lf>Я чувствую, как воспоминания возвращаются.<lf>Вы можете их видеть?"
+English_US,"Хорошо! Хорошо.<lf>Ладно, давайте сделаем это снова.<lf> <lf>Я чувствую, как воспоминания возвращаются.<lf>Вы можете их видеть?"
 Description,
 French,"Bien ! Bien !<lf> OK, on recommence.<lf>  <lf>  Je sens que ma mémoire revient.<lf>  Est-ce que tu les vois ?"
 Italian,Bene! Bene!<lf>Ricominciamo.<lf><lf>Sento che i ricordi ritornano.<lf>Riesci a vederli?
@@ -6250,7 +6250,7 @@ Swedish,"Ja, vi kan se.<lf>Ditt minne.<lf> <lf>Det är ett minne av en kamp.<lf>
 Thai,ใช่เราเห็นได้<lf>ความทรงจำของคุณ<lf> <lf>มันเป็นความทรงจำของการต่อสู้<lf>คุณดูเหมือนจะสูญเสีย
 Arabic,
 Key,Forest_Zenith3
-English_US,"Точно, моя ""структура перемен"".<lf><lf>Что бы это ни значило."
+English_US,"Точно, моя «структура перемен».<lf><lf>Что бы это ни значило."
 Description,
 French,"Oui, ma ""structure de changement"".<lf>  <lf> Appelle ça comme tu veux."
 Italian,"Sì, la mia ""struttura di cambiamento"".<lf><lf>Chiamala come vuoi."
@@ -6288,7 +6288,7 @@ Swedish,Det här är ganska. Intressant.<lf> <lf>Det verkar som om din förändr
 Thai,นี่ค่อนข้าง น่าสนใจ.<lf> <lf>ดูเหมือนว่าโครงสร้างการเปลี่ยนแปลงของคุณถูกบล็อก
 Arabic,
 Key,Forest_Zenith3
-English_US,Чтобы сделать это. Ты должна сначала сосредоточить свой разум. На напряжении.<lf><lf>На дискомфорте. На нехватке. На сдавленности.<lf><lf>Ты можешь это сделать?
+English_US,Чтобы сделать это. Ты должна сначала сосредоточить свой разум. На напряжении.<lf><lf>На дискомфорте. На недостатках. На сдавленности.<lf><lf>Ты можешь это сделать?
 Description,(zenith)
 French,Pour ce faire. Tu dois d'abord te concentrer. Sur la tension.<lf>  <lf> L'inconfort. La faiblesse. La restriction.<lf>  <lf> Tu peux faire ça ?
 Italian,Per farlo. Devi prima concentrare la tua mente. Sulla tensione.<lf><lf>Il disagio. La carenza. La delusione.<lf><lf>Puoi farlo?
@@ -6307,7 +6307,7 @@ Swedish,"Ja, du sa det tidigare."
 Thai,ใช่คุณพูดแบบนั้นมาก่อน
 Arabic,
 Key,Forest_Zenith3
-English_US,"Э-э, я не понимаю.<lf><lf>Ты имеешь в виду, что я должна..."
+English_US,"Э-э, я не понимаю.<lf><lf>Вы имеете в виду, что я должна..."
 Description,"She's saying ""Do you mean that I should think about pain"" but gets cut off"
 French,Euh… je ne comprends pas.<lf>  <lf> Tu veux dire que je devrais-
 Italian,"Ehm, non capisco.<lf><lf>Vuoi dire che dovrei-"
@@ -6326,7 +6326,7 @@ Swedish,Ja! Du sa att du skulle försöka fixa det!<lf> <lf>Det var något du sa
 Thai,ใช่! คุณบอกว่าคุณกำลังจะพยายามแก้ไข!<lf> <lf>มีบางอย่างที่คุณบอกว่าคุณทำได้!
 Arabic,
 Key,Forest_Zenith3
-English_US,"...уф, погоди секунду."
+English_US,"...уф, погодите секунду."
 Description,she's tired
 French,… pfff… attends une seconde.
 Italian,"… uff, aspetta un secondo."
