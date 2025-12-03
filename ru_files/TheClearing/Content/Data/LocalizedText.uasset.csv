@@ -15370,7 +15370,7 @@ Swedish,
 Thai,
 Arabic,
 Key,FieldGuideEntry_SpokeCC_Desc
-English_US,"Шишки {{Сноквы}} известны тем, что облегчают физическую боль при употреблении. На вкус как цитрус, молоко и то, что вы чаще всего ели на завтрак в детстве."
+English_US,"Шишки {{Сноква}} известны тем, что облегчают физическую боль при употреблении. На вкус как цитрус, молоко и то, что вы чаще всего ели на завтрак в детстве."
 Description,
 French,"Les cônes de {{snok}} sont connus pour soulager la douleur physique. Ils ont goût de citron, de lait et de tout ce qu'un enfant peut avoir l'habitude de manger au petit-déjeuner."
 Italian,"Le pigne di {{Snok}} hanno la caratteristica di alleviare il dolore fisico. Hanno il gusto degli agrumi, del latte, o di qualsiasi cosa che si mangiava a colazione da piccoli."
@@ -15465,7 +15465,7 @@ Swedish,Great Valley Blue
 Thai,Great Valley Blue
 Arabic,
 Key,FieldGuideEntry_SpokeDA_Fruit
-English_US,Синие колечки
+English_US,Синие петли
 Description,
 French,Boucles bleues
 Italian,Anelli Blu
@@ -15598,7 +15598,7 @@ Swedish,
 Thai,
 Arabic,
 Key,FieldGuideEntry_SpokeDC_Desc
-English_US,"Насыщенный и шоколадный, считается фруктом подземного мира. Заставляет употреблять слово ""треугольник"" в разговоре."
+English_US,"Насыщенный и шоколадный, считается фруктом подземного мира. Заставляет употреблять слово «треугольник» в разговоре."
 Description,
 French,"Riches et chocolatés. On dit que ce sont les fruits du monde souterrain. Ils forcent à prononcer le mot ""triangle"" dans une conversation."
 Italian,"Ricchi e cioccolatosi, si dice siano il frutto degli inferi. Costringono a usare la parola ""triangolo"" nella conversazione."
@@ -15712,7 +15712,7 @@ Swedish,P'hrillups
 Thai,p'hrillups
 Arabic,
 Key,FieldGuideEntry_LineAC_Name
-English_US,"Папоротник ""Дьявольские волосы"""
+English_US,Папоротник «Дьявольские волосы»
 Description,
 French,Fougère Poil-de-diable
 Italian,Felce Capelli-del-Diavolo
@@ -15997,7 +15997,7 @@ Swedish,
 Thai,
 Arabic,
 Key,FieldGuide_MushroomName_Dupe
-English_US,Гриб-клон
+English_US,Гриб-близнец
 Description,"""Dupe"" meaning ""to duplicate""<lf>""Shroom"" is short for ""mushroom"""
 French,Champi-doublon
 Italian,Fungo Doppio
@@ -16016,7 +16016,7 @@ Swedish,Dupe shroom
 Thai,ตักหน้า Shroom
 Arabic,
 Key,FieldGuide_MushroomName_Shrink
-English_US,Уменьшающий гриб
+English_US,Гриб-малютка
 Description,
 French,Champi-minue
 Italian,Fungo Mini
@@ -16035,7 +16035,7 @@ Swedish,Krympa shroom
 Thai,หด shroom
 Arabic,
 Key,FieldGuide_MushroomName_Color
-English_US,Гриб-оттенок
+English_US,Цветогриб
 Description,"""Hue"" means ""color"""
 French,Champi-nuance
 Italian,Fungo Sfumatura
@@ -16472,7 +16472,7 @@ Swedish,Tea -begäran:<lf>- Frukostflingor
 Thai,คำขอชา:<lf>- ซีเรียลอาหารเช้า
 Arabic,
 Key,FieldGuideRequest_Tea_Nana1
-English_US,"• Заварите горячую воду с двумя кофейными зернами, налейте в чашку.<lf>• Сделайте вторую заварку с теплой водой, {{Вейлинг}}, Сладким {{Милиум}} и одним кофейным зерном. Налейте поверх первой чашки."
+English_US,"• Заварите горячую воду с двумя кофейными зёрнами, налейте в чашку.<lf>• Сделайте вторую заварку с тёплой водой, {{Вейлингом}}, Сладким {{Милиумом}} и одним кофейным зерном. Налейте поверх первой чашки."
 Description,
 French,"• Faire infuser deux grains de café dans l'eau bouillante et verser dans une tasse.<lf>• Préparer une deuxième infusion d'eau chaude avec du {{weyling}}, du {{meelium}} doux et un grain de café. Verser sur la première tasse."
 Italian,"• Mettere due chicchi di caffè in acqua bollente, versare in una tazza.<lf>• Preparare una seconda infusione con acqua calda, un {{Weyling}}, un {{Meelium}} dolce e un chicco di caffè. Versarla nella prima tazza."
@@ -16491,7 +16491,7 @@ Swedish,"- Brygg varmt vatten med fyra kaffebönor, häll det i en kopp.<lf>- G�
 Thai,- ชงน้ำร้อนด้วยเมล็ดกาแฟสี่เมล็ดเทลงในถ้วย<lf>- ทำชงครั้งที่สองด้วยน้ำอุ่นและ weyling เทลงบนกาแฟ
 Arabic,
 Key,FieldGuideRequest_Tea_Nana2
-English_US,"• Заварите горячую воду с тремя кофейными зёрнами, налейте в чашку.<lf>• Сделайте вторую заварку с тёплой водой, {{Вейлинг}}, корицей и одним кофейным зерном. Налейте поверх первой чашки."
+English_US,"• Заварите горячую воду с тремя кофейными зёрнами, налейте в чашку.<lf>• Сделайте вторую заварку с тёплой водой, {{Вейлингом}}, корицей и одним кофейным зерном. Налейте поверх первой чашки."
 Description,
 French,"• Faire infuser trois grains de café dans l'eau bouillante et verser dans une tasse.<lf>• Préparer une deuxième infusion d'eau chaude avec du {{weyling}}, de la cannelle et un grain de café. Verser sur la première tasse."
 Italian,"• Mettere tre chicchi di caffè in acqua bollente, versare in una tazza.<lf>• Preparare una seconda infusione con acqua calda, un {{Weyling}}, della cannella e un chicco di caffè. Versarla nella prima tazza."
@@ -16529,7 +16529,7 @@ Swedish,Tea -begäran:<lf>- Målad kalebass<lf>- bitbär
 Thai,คำขอชา:<lf>- กวนทาสี<lf>- กัด
 Arabic,
 Key,FieldGuideRequest_Tea_Ren2
-English_US,"<RequestTitle>Запрос чая:</><lf>• Фруктовый вкус, который напоминает о ""страсти"""
+English_US,"<RequestTitle>Запрос чая:</><lf>• Фруктовый вкус, который напоминает о «страсти»"
 Description,
 French,"<RequestTitle>Thé demandé :</><lf>• Une saveur fruitée qui apporte la ""passion"" à l'âme"
 Italian,"<RequestTitle>Richiesta di tè:</><lf>• Un sapore fruttato che ricorda la ""passione"""
@@ -16548,7 +16548,7 @@ Swedish,"Tea -begäran:<lf>- En smak som tänker på ""passion"""
 Thai,"คำขอชา:<lf>- รสชาติที่ทำให้นึกถึง ""ความหลงใหล"""
 Arabic,
 Key,FieldGuideRequest_Tea_Ren3
-English_US,"<RequestTitle>Чай ""Серебряный лунный свет"":</><lf>• {{Мазника}}<lf>• {{Чип-Чип}}<lf>• {{Кувырдыня}}<lf>• Гриб"
+English_US,<RequestTitle>Чай «Серебряный лунный свет»:</><lf>• {{Мазника}}<lf>• {{Чип-Чип}}<lf>• {{Кувырдыня}}<lf>• Гриб
 Description,
 French,<RequestTitle>Thé Clair de lune argentée :</><lf>• {{Messberry}}<lf>• {{Chip chip}}<lf>• {{Pellmelon}}<lf>• Champignon
 Italian,<RequestTitle>Tisana Chiaro di Luna:</><lf>• {{Messberry}}<lf>• {{Chip Chip}}<lf>• {{Pellmelon}}<lf>• Fungo
@@ -16605,7 +16605,7 @@ Swedish,Tea -begäran:<lf>- Aeon Brew (fråga Boro)
 Thai,คำขอชา:<lf>- Aeon Brew (ถาม Boro)
 Arabic,
 Key,FieldGuideRequest_Tea_Stargirl1b
-English_US,По порядку:<lf>• Холодная вода<lf>• Гриб-клон<lf>• Росток {{Вайпур}}<lf>• {{Пухоструч}} с измененным цветом<lf>• Синее колечко<lf>• Чайный шарик<lf>• Подождать 1 минуту<lf>• Чайный шарик
+English_US,По порядку:<lf>• Холодная вода<lf>• Гриб-близнец<lf>• Росток {{Вайпур}}<lf>• {{Пухоструч}} с изменённым цветом<lf>• Синяя петля<lf>• Чайный шарик<lf>• Подождать 1 минуту<lf>• Чайный шарик
 Description,
 French,Dans l'ordre :<lf>• Eau froide<lf>• Champi-doublon<lf>• Chou {{waypur}}<lf>• {{Puffpod}} aux couleurs inversées<lf>• Boucle bleue<lf>• Boule de thé<lf>• Attendre 1 minute<lf>• Boule de thé
 Italian,In ordine:<lf>• Acqua fredda<lf>• Fungo Doppio<lf>• Germoglio di {{Waypur}}<lf>• {{Puffpod}} con colori scambiati<lf>• Anello Blu<lf>• Pallina di tè<lf>• Attendere 1 minuto<lf>• Pallina di tè
@@ -16757,7 +16757,7 @@ Swedish,Tea -begäran:<lf>Allt du känner för!
 Thai,คำขอชา:<lf>อะไรก็ได้ที่คุณรู้สึก!
 Arabic,
 Key,FieldGuideRequest_Tea_NanaTrade
-English_US,"Принесите любой предмет для обмена на что-то, принадлежащее {{Nana}}"
+English_US,"Принесите любой предмет для обмена на что-то, принадлежащее {{Бабушке}}"
 Description,
 French,Apporter un objet à troquer chez {{Nana}}
 Italian,Portare un oggetto da barattare con qualcosa di {{Nana}}
@@ -16814,7 +16814,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Batkid3a_Name
-English_US,"Чай ""Чудо-{{Яблочко}}"""
+English_US,Чай «Чудо-{{Яблочко}}»
 Description,
 French,Thé à la {{pomme}} miracle
 Italian,Tè al Miracolo di {{Pomme}}
@@ -16833,7 +16833,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Batkid3b_Name
-English_US,"Чай ""Чудо-{{Яблочко}}"""
+English_US,Чай «Чудо-{{Яблочко}}»
 Description,
 French,Thé à la {{pomme}} miracle
 Italian,Tè al Miracolo di {{Pomme}}
@@ -16852,7 +16852,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Bird1_Name
-English_US,Сложный чай
+English_US,Комплексный чай
 Description,
 French,Thé complexe
 Italian,Tè complesso
@@ -17004,7 +17004,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Gerald2_Name
-English_US,"То, что было у {{Джеральд}} раньше"
+English_US,"То, что было раньше у {{Джеральда}}"
 Description,
 French,Ce que {{Gerald}} a commandé
 Italian,Quello che {{Gerald}} ha ordinato
@@ -17156,7 +17156,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Ren2_Name
-English_US,"Чай ""Серебряный лунный свет"""
+English_US,Чай «Серебряный лунный свет»
 Description,
 French,Thé Clair de lune argentée
 Italian,Tisana Chiaro di Luna
@@ -17213,7 +17213,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Zenith1_Name
-English_US,"""Ценный"" чай"
+English_US,«Ценный» чай
 Description,
 French,"Thé de ""valeur"""
 Italian,"Tè ""Prezioso"""
@@ -17403,7 +17403,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Batkid3a
-English_US,"Сначала поговорите с {{Боро}}, чтобы получить больше информации. Затем вернитесь и проверьте здесь, если вы все еще не знаете, что делать."
+English_US,"Сначала поговорите с {{Боро}}, чтобы получить больше информации. Затем вернитесь сюда и проверьте, если вы всё ещё не знаете, что делать."
 Description,
 French,"Commence par discuter avec {{Boro}} pour obtenir plus d'informations. Ensuite, reviens ici si tu ne sais toujours pas quoi faire."
 Italian,Vai prima da {{Boro}} per ottenere ulteriori informazioni. Poi torna qua se ancora non sai cosa fare.
@@ -17441,7 +17441,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Bird1
-English_US,"Сделайте Призрачный фрукт с измененным цветом, посадив три Гриба-оттенка вокруг растения Призрачная роза, затем полейте Призрачную розу, чтобы получить Призрачный фрукт с измененным цветом. Положите Призрачный фрукт с измененным цветом, обычный Призрачный фрукт и Росток {{Вайпур}} в чайный инфузор вместе с чайным шариком."
+English_US,"Сделайте Призрачный фрукт с изменённым цветом, посадив три Цветогриба вокруг растения Призрачная роза, затем полейте Призрачную розу, чтобы получить Призрачный фрукт с изменённым цветом. Положите Призрачный фрукт с изменённым цветом, обычный Призрачный фрукт и Росток {{Вайпур}} в чайный инфузор вместе с чайным шариком."
 Description,
 French,"Fais pousser un fruit fantôme aux couleurs inversées en plantant trois champis-nuances autour d'une rose fantôme. Ensuite, arrose la rose fantôme pour obtenir un fruit fantôme aux couleurs inversées. Place le fruit fantôme aux couleurs inversées, un fruit fantôme aux couleurs non inversées et un chou {{waypur}} dans l'infuseur avec une boule de thé."
 Italian,"Crea un frutto Fantasma con colori scambiati piantando tre funghi Sfumatura attorno a una pianta di rosa Fantasma, poi annaffia la rosa Fantasma per ottenere un frutto Fantasma con colori scambiati. Metti il ​​frutto Fantasma con colori scambiati, il frutto Fantasma senza colori scambiati e un germoglio di {{Waypur}} nell'infusore del tè insieme a una pallina di tè."
@@ -17517,7 +17517,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_BusinessCoffee3
-English_US,"Смешайте чистое кофейное зерно и {{Кусника}} в чайной машине, затем подавайте."
+English_US,"Смешайте чистое кофейное зерно и {{Куснику}} в чайной машине, затем подавайте."
 Description,
 French,Mélange un grain de café lavé et une {{croqueberry}} dans la machine à thé et sers.
 Italian,"Mescola un chicco di caffè lavato e un {{Biteberry}} nella macchina del tè, e servi."
@@ -17555,7 +17555,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_DH1
-English_US,"Вырастите растение Плачущий {{Вритл}}, окружив розовый цветок тремя голубыми папоротниками. Полейте его и положите Свеклу {{Вритл}}, которая вырастет из него, в чай вместе с чайным шариком."
+English_US,"Вырастите растение Плачущий {{Вритл}}, окружив розовый цветок тремя голубыми папоротниками. Полейте его и положите Свёклу {{Вритл}}, которая вырастет из него, в чай вместе с чайным шариком."
 Description,
 French,Fais pousser un {{vreetle}} pleureur en entourant une fleur rose de trois fougères bleues. Arrose-les et ajoute la betterave de {{vreetle}} qui va y pousser dans le thé avec une boule de thé.
 Italian,Crea un {{Vreetle}} Piangente circondando un fiore rosa con tre felci blu. Annaffiali e quando sarà spuntata la barbabietola di {{Vreetle}} aggiungila nella miscela insieme a una pallina di tè.
@@ -17574,7 +17574,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_DH2
-English_US,"Сделайте чай со Свеклой {{Вритл}} (розовый цветок, окруженный тремя голубыми папоротниками) и для ""мяты"" возьмите {{Чип-Чип}} (голубой папоротник, окруженный тремя голубыми папоротниками). Добавьте чайный шарик."
+English_US,"Сделайте чай со Свёклой {{Вритл}} (розовый цветок, окружённый тремя голубыми папоротниками) и для «мяты» возьмите {{Чип-Чип}} (голубой папоротник, окружённый тремя голубыми папоротниками). Добавьте чайный шарик."
 Description,
 French,"Prépare du thé avec une betterave de {{vreetle}} (fleur rose entourée de trois fougères bleues) et pour la ""menthe"", procure-toi un {{chip chip}} (fougère bleue entourée de trois fougères bleues). Ajoute une boule de thé."
 Italian,"Prepara il tè con una barbabietola di {{Vreetle}} (fiore rosa circondato da tre felci blu) e per la ""menta"", prendi un {{Chip Chip}} (felce blu circondata da tre felci blu). Aggiungi una pallina di tè."
@@ -17631,7 +17631,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Mechanic1
-English_US,"Сделайте чай с Шишками {{Сноква}} (посадите простую желтую пальму в окружении трех других желтых пальм), чтобы уменьшить боль. Чтобы отвлечь их мысли от боли, просто добавьте любой дополнительный фрукт, который может вызвать сильную эмоцию, способную отвлечь их. Каждый фрукт вызовет свою уникальную реакцию."
+English_US,"Сделайте чай с Шишками {{Сноква}} (посадите простую жёлтую пальму в окружении трёх других жёлтых пальм), чтобы уменьшить боль. Чтобы отвлечь их мысли от боли, просто добавьте любой дополнительный фрукт, который может вызвать сильную эмоцию, способную отвлечь их. Каждый фрукт вызовет свою уникальную реакцию."
 Description,
 French,"Pour calmer la douleur, préparez du thé avec des cônes de {{snok}} (plantez un palmier jaune simple entouré de trois autres palmiers jaunes). Pour ne plus penser à la douleur, il suffit d'ajouter tout autre fruit susceptible d'évoquer une émotion forte qui distrait. Chaque fruit apportera sa propre réponse."
 Italian,"Per alleviare il dolore, prepara una tisana con le pigne di {{Snok}} (pianta una palma gialla semplice e circondala con altre tre palme gialle). Per distogliere la mente dal dolore, è sufficiente aggiungere qualsiasi altro frutto che possa evocare un'emozione forte. Ogni frutto provocherà una reazione distinta."
@@ -17669,7 +17669,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Monster2
-English_US,"Чтобы получить ""сладкие хлопья для завтрака"", сделайте чай, используя Шишку {{Сноква}}, затем добавьте {{Свистика}}, чтобы придать ему сладкий вкус. Чтобы получить эффект ""грязи"", вы можете добавить гриб, миниатюрный горшок или немытое кофейное зерно."
+English_US,"Чтобы получить «сладкие хлопья для завтрака», сделайте чай, используя Шишку {{Сноква}}, затем добавьте {{Свистику}}, чтобы придать ему сладкий вкус. Чтобы получить эффект «грязи», вы можете добавить гриб, миниатюрный горшок или немытое кофейное зерно."
 Description,
 French,"Pour obtenir des ""céréales du matin sucrées"", prépare du thé avec un cône de {{snok}} et ajoute du {{whistleberry}} pour donner un goût sucré. Pour obtenir l'effet ""terre"", tu peux ajouter un champignon, un pot miniature ou un grain de café non lavé."
 Italian,"Per ottenere la tisana ""cereali zuccherosi"", prepara la miscela usando una pigna di {{Snok}} e aggiungendo un {{Whistleberry}} per dargli un sapore zuccherino. Per ottenere l'effetto ""terra"", puoi aggiungere un fungo, un vaso in miniatura o un chicco di caffè non lavato."
@@ -17688,7 +17688,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Monster3
-English_US,"Чтобы получить ""сладкие хлопья для завтрака"", сделайте чай, используя Шишку {{Сноква}}, затем добавьте {{Свистика}}, чтобы придать ему сладкий вкус."
+English_US,"Чтобы получить «сладкие хлопья для завтрака», сделайте чай, используя Шишку {{Сноква}}, затем добавьте {{Свистику}}, чтобы придать ему сладкий вкус."
 Description,
 French,"Pour obtenir des ""céréales du matin sucrées"", prépare du thé avec un cône de {{snok}} et ajoute du {{whistleberry}} pour donner un goût sucré."
 Italian,"Per ottenere la tisana ""cereali zuccherosi"", prepara la miscela usando una pigna di {{Snok}} e aggiungendo del {{Whistleberry}} per dargli un sapore zuccherino."
@@ -17726,7 +17726,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Nana2
-English_US,"Нагрейте воду до кипения, положите в неё три мытых кофейных зерна, затем налейте любое количество в чашку. Затем налейте немного свежей воды и нагрейте её совсем чуть-чуть, чтобы полоска нагрева была между 0 и 100. Переместите это в инфузор и бросьте туда Фрукт {{Вейлинг}}, {{Кувырдыню}} и мытое кофейное зерно. Затем вылейте любое количество этой смеси прямо в первую чашку."
+English_US,"Нагрейте воду до кипения, положите в неё три мытых кофейных зерна, затем налейте любое количество этого в чашку. Затем налейте немного свежей воды и нагрейте её совсем чуть-чуть, чтобы полоска нагрева была между 0 и 100. Переместите это в инфузор и бросьте туда Фрукт {{Вейлинг}}, {{Кувырдыню}} и мытое кофейное зерно. Затем вылейте любое количество этой смеси прямо в первую чашку."
 Description,
 French,"Porte de l'eau à ébullition, ajoute-y trois grains de café lavés, puis verse n'importe quelle quantité de ce mélange dans une tasse. Ensuite, verse de l'eau fraîche et fais chauffer légèrement, de façon à ce que la barre de température reste entre 0 et 100. Apporte ta mixture dans l'infuseur et ajoute-y un fruit de {{weyling}}, un {{pellmelon}} et un grain de café lavé. Verse-en n'importe quelle quantité dans la première tasse."
 Italian,"Fai bollire dell'acqua, mettici tre chicchi di caffè lavati, e versa la quantità desiderata in una tazza. In un'altra tazza, scalda leggermente dell'acqua fredda, in modo che la temperatura sia compresa tra 0 e 100, poi versala nell'infusore insieme ad un {{Weyling}}, un {{Pellmelon}} e un chicco di caffè lavato. Versa infine una quantità a piacere di questa miscela direttamente nella prima tazza."
@@ -17802,7 +17802,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Stargirl1
-English_US,"Сначала поговорите с {{Боро}}, чтобы получить больше информации. Затем вернитесь и проверьте здесь, если вы все еще не знаете, что делать."
+English_US,"Сначала поговорите с {{Боро}}, чтобы получить больше информации. Затем вернитесь сюда и проверьте, если вы все ещё не знаете, что делать."
 Description,
 French,"Commence par discuter avec {{Boro}} pour obtenir plus d'informations. Ensuite, reviens ici si tu ne sais toujours pas quoi faire."
 Italian,Vai prima da {{Boro}} per ottenere maggiori informazioni. Poi torna qua se non sai cosa fare.
@@ -17821,7 +17821,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Stargirl1b
-English_US,"Налейте свежую воду, но не нагревайте её. Переместите её в инфузор и добавьте Гриб-клон (можно найти на краю поляны) и Росток {{Вайпур}}. Затем окружите Папоротник {{Пухоструч}} тремя Грибами-оттенками, чтобы изменить его цвет, затем полейте растение с измененным цветом, чтобы получить один из его фруктов, и положите его в инфузор. Затем добавьте Синее колечко. Наконец, добавьте два чайных шарика. Ожидание в одну минуту между двумя чайными шариками помогает вкусу, но не является строго обязательным для приготовления адекватного Варева {{Вечности}}."
+English_US,"Налейте свежую воду, но не нагревайте её. Переместите её в инфузор и добавьте Гриб-близнец (можно найти на краю поляны) и Росток {{Вайпур}}. Затем окружите Папоротник {{Пухоструч}} тремя Цветогрибами, чтобы изменить его цвет, затем полейте растение с изменённым цветом, чтобы получить один из его фруктов, и положите его в инфузор. Затем добавьте Синюю петлю. Наконец, добавьте два чайных шарика. Ожидание в одну минуту между двумя чайными шариками помогает вкусу, но не является строго обязательным для приготовления адекватного Варева {{Вечности}}."
 Description,
 French,"Verse de l'eau fraîche sans la faire chauffer. Place-la dans l'infuseur et ajoute un champi-doublon (on en trouve à la lisière de la clairière) et un chou {{waypur}}. Ensuite, entoure une fougère {{puffpod}} avec trois champis-nuances pour inverser ses couleurs, puis arrose la plante aux couleurs inversées pour récolter un de ses fruits et place-le dans l'infuseur. Ensuite, ajoute une boucle bleue. Enfin, ajoute deux boules de thé. Attendre une minute entre les deux boules de thé améliore le goût, mais ce délai n'est pas indispensable pour préparer une bonne infusion d'{{Aeon}}."
 Italian,"Versa acqua fredda senza scaldarla. Mettila nell'infusore e aggiungi un fungo Doppio (che si può trovare lungo il bordo della radura) e un germoglio di {{Waypur}}. Successivamente, circonda una felce {{Puffpod}} con tre funghi Sfumatura per scambiarne il colore, poi annaffia la pianta scambiata di colore per ottenere uno dei suoi frutti e mettilo nell'infusore. Successivamente, aggiungi un Anello Blu. Infine, aggiungi due palline di tè. Far passare un minuto tra le due palline di tè aiuta a esaltare il sapore, ma non è strettamente necessario per preparare un buon infuso di {{Aeon}}."
@@ -17859,7 +17859,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Zenith2
-English_US,"Сначала сделайте любой Большой гибрид и получите один из его фруктов. Затем уменьшите размер Большого гибрида, окружив его тремя Уменьшающими грибами. Как только он станет маленьким, подберите его переносным горшком и бросьте в воду в инфузоре. Также добавьте фрукт, который вы получили с Большого гибрида, и семечко, которое использовалось для его создания. Налейте напиток и подавайте."
+English_US,"Сначала сделайте любой Большой гибрид и получите один из его фруктов. Затем уменьшите размер Большого гибрида, окружив его тремя Грибами-малютками. Как только он станет маленьким, подберите его переносным горшком и бросьте в воду в инфузоре. Также добавьте фрукт, который вы получили с Большого гибрида, и семечко, которое использовалось для его создания. Налейте напиток и подавайте."
 Description,
 French,"Commence par créer n'importe quel grand hybride et récolte un de ses fruits. Ensuite, réduis sa taille en l'entourant de trois champis-minues. Une fois l'hybride diminué, récolte-le dans un pot portatif et ajoute-le dans l'eau de l'infuseur. Ajoute aussi le fruit récolté sur le grand hybride et une graine qui a servi à le faire pousser. Verse et sers."
 Italian,"Per prima cosa crea un grande ibrido e prendi uno dei suoi frutti. Poi riduci le sue dimensioni circondandolo con tre funghi Mini. Quando l'ibrido si è rimpicciolito, raccoglilo con un pentolino e mettilo nell'acqua dell'infusore. Aggiungi anche il frutto che hai ottenuto dal grande ibrido e un seme che è servito per farlo crescere. Versa la bevanda e servi."
@@ -17878,7 +17878,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_HangingPots
-English_US,"На решетке снаружи на поляне висят на веревках десять горшков. Заполните каждый из них растением, подойдет любое растение. Вы можете использовать семена, чтобы сажать прямо в горшки, или использовать переносные горшки, чтобы переместить любое уже существующее растение."
+English_US,"На решётке снаружи на поляне свисают с верёвок десять горшков. Заполните каждый из них растением, подойдёт любое растение. Вы можете использовать семена, чтобы сажать прямо в горшки, или использовать переносные горшки, чтобы переместить любое уже существующее растение."
 Description,
 French,"Il y a dix pots suspendus aux cordes de la treille qui se trouve dans la clairière. Mets une plante dans chaque pot, n'importe quelle plante fera l'affaire. Tu peux utiliser des graines à semer directement dans les pots ou te servir des pots portatifs pour déplacer toute plante qui existe déjà."
 Italian,Ci sono dieci vasi appesi alle corde del traliccio nella radura. Metti una pianta qualsiasi in ogni vaso. Puoi anche piantare dei semi direttamente nei vasi o far uso dei vasi portatili per spostare delle piante già esistenti.
