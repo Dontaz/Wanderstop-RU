@@ -8625,7 +8625,7 @@ Swedish,Överför vatten till Pouramid
 Thai,ถ่ายโอนน้ำไปเทรัมิด
 Arabic,
 Key,Tutorial_MovementA
-English_US,Используйте {{#BUTTON#}} для перемещения {{Альта}}.
+English_US,Используйте {{#BUTTON#}} для перемещения {{Альты}}.
 Description,"This is an instruction, telling the player to do this thing."
 French,Utilise {{#BUTTON#}} pour déplacer {{Alta}}.
 Italian,Usa {{#BUTTON#}} per muovere {{Alta}}.
@@ -9157,7 +9157,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tutorial_TeaMonologues_Description
-English_US,"<TutorialEmphasis>Разные вкусы чая</> вызовут у {{Альты}} разные мысли, когда она сядет чаёвничать. Указанная наклейка появится в вашем Полевом справочнике рядом с любым фруктом, о котором {{Альта}} высказала свои мысли.<lf><lf>Чайные листья не требуются для приготовления чая для {{Альта}}."
+English_US,"<TutorialEmphasis>Разные вкусы чая</> вызовут у {{Альты}} разные мысли, когда она сядет чаёвничать. Указанная наклейка появится в вашем Полевом справочнике рядом с любым фруктом, о котором {{Альта}} высказала свои мысли.<lf><lf>Чайные листья не требуются для приготовления чая для {{Альты}}."
 Description,
 French,<TutorialEmphasis>Les différentes saveurs des thés</> feront naître des pensées différentes chez {{Alta}} lorsqu'elle s'assoit pour boire. L'étiquette ci-dessus sera imprimée dans ton guide pratique à côté de tous les fruits pour lesquels {{Alta}} a partagé ses pensées.<lf>  <lf> Les feuilles de thé ne sont pas obligatoires quand tu fais du thé pour {{Alta}}.
 Italian,<TutorialEmphasis>I vari gusti del tè</> evocheranno pensieri diversi in {{Alta}} quando si siederà a berli. L'etichetta qui sopra verrà messa nella tua Guida Pratica in corrispondenza dei frutti con cui {{Alta}} ha condiviso i suoi pensieri.<lf><lf>Le foglie di tè non sono obbligatorie quando si prepara una bevanda per {{Alta}}.
@@ -9195,7 +9195,7 @@ Swedish,Inventory Tutorial:
 Thai,การสอนสินค้าคงคลัง:
 Arabic,
 Key,Tutorial_Inventory_Description1A
-English_US,Ваш инвентарь разделен на <TutorialEmphasis>4 кармана</>:
+English_US,Ваш инвентарь разделён на <TutorialEmphasis>4 кармана</>:
 Description,
 French,Ton inventaire se divise en <TutorialEmphasis>4 poches</> :
 Italian,Il tuo inventario è suddiviso in <TutorialEmphasis>4 sacche</>:
@@ -9404,7 +9404,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tutorial_Stashing_Title
-English_US,Убирание предметов
+English_US,Забирание предметов
 Description,As in Stashing Items into your pocket
 French,Empocher les objets
 Italian,Riporre gli oggetti
@@ -9423,7 +9423,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tutorial_Stashing_Description1
-English_US,"Нажмите {{#BUTTON#}}, чтобы убрать предмет. Это переместит его в ваш карман.<lf><lf>{{#BUTTON#}} можно использовать, когда предмет у вас в руке или когда он лежит на земле перед вами."
+English_US,"Нажмите {{#BUTTON#}}, чтобы забрать предмет. Это переместит его в ваш карман.<lf><lf>{{#BUTTON#}} можно использовать, когда предмет у вас в руке или когда он лежит на земле перед вами."
 Description,
 French,"Appuie sur {{#BUTTON#}} pour empocher un objet. Cette opération le déplace dans ta poche.<lf>  <lf>{{#BUTTON#}} peut être utilisé quand tu tiens un objet en main, ou lorsque cet objet se trouve par terre devant toi."
 Italian,Premi {{#BUTTON#}} per riporre un oggetto. Verrà conservato nella tua sacca.<lf>  <lf>Puoi usare {{#BUTTON#}} quando hai un oggetto in mano o quando l'oggetto è a terra di fronte a te.
@@ -9461,7 +9461,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tutorial_InventoryTips_Description1
-English_US,"• Вы можете поменять предмет в руке на предмет из инвентаря, выбрав предмет в инвентаре напрямую. Не нужно сначала убирать предмет из рук.<lf><lf>• В меню параметров можно переключить нажатие кнопки инвентаря: ""вкл/выкл"" или ""нажать и удерживать""."
+English_US,"• Вы можете поменять предмет в руке на предмет из инвентаря, выбрав предмет в инвентаре напрямую. Не нужно сначала убирать предмет из рук.<lf><lf>• В меню параметров можно переключить нажатие кнопки инвентаря: «вкл/выкл» или «нажать и удерживать»."
 Description,
 French,"• Tu peux échanger un objet que tu tiens contre un objet de ton inventaire en sélectionnant directement l'objet dans l'inventaire. Il n'est pas nécessaire de commencer par ranger dans ta poche l'objet que tu tiens.<lf> <lf>• Dans le menu Options, tu peux choisir entre BASCULER et APPPUYER ET MAINTENIR pour ouvrir l'inventaire."
 Italian,"• Puoi scambiare un oggetto che hai in mano con un oggetto nel tuo inventario selezionando direttamente l'oggetto dall'inventario. Non è necessario riporre prima l'oggetto che hai in mano.<lf><lf>• Nel menu delle opzioni, per aprire l'inventario, puoi scegliere tra ""attiva/disattiva"" e ""premi e tieni premuto"" per il funzionamento dei pulsanti."
@@ -9499,7 +9499,7 @@ Swedish,Förfrågningar:
 Thai,คำขอ:
 Arabic,
 Key,Tutorial_Requests_Description2
-English_US,"<TutorialEmphasis>Ваш Полевой справочник</> теперь содержит раздел <TutorialEmphasis>Просьбы</>. Всё, о чём вас просили персонажи, будет записано здесь. Откройте полевой справочник кнопкой {{#BUTTON#}}."
+English_US,"<TutorialEmphasis>Ваш Полевой справочник</> теперь содержит раздел <TutorialEmphasis>Просьбы</>. Всё, о чём вас просили персонажи, будет записано здесь. Откройте Полевой справочник кнопкой {{#BUTTON#}}."
 Description,
 French,<TutorialEmphasis>Ton guide pratique</> contient maintenant une section intitulée <TutorialEmphasis>Demandes</>. Tout ce qu'un personnage t'a demandé y sera consigné. Ton guide pratique s'ouvre avec {{#BUTTON#}}.
 Italian,<TutorialEmphasis>La tua Guida Pratica</> ora contiene una sezione chiamata <TutorialEmphasis>Richieste</>. Tutte le richieste dei vari personaggi verranno registrate qui. Apri la Guida Pratica con {{#BUTTON#}}.
@@ -9575,7 +9575,7 @@ Swedish,
 Thai,
 Arabic,
 Key,PopupConfirmation_Ok
-English_US,{{#BUTTON#}} Ок
+English_US,{{#BUTTON#}} Принять
 Description,Indicate acceptance of the message
 French,{{#BUTTON#}} OK
 Italian,{{#BUTTON#}} OK
@@ -13964,7 +13964,7 @@ Swedish,"Steg 4: Tillsätt te<lf><lf>Kasta en tejoll i infusören, liksom vad so
 Thai,ขั้นตอนที่ 4: เพิ่มชา<lf><lf>โยนลูกชาลงใน infuser เช่นเดียวกับผลไม้และส่วนผสมที่คุณต้องการเพิ่มเพื่อรสชาติ
 Arabic,
 Key,FieldGuide_Tasks_TeaMachine5
-English_US,"<Step>ШАГ 5</><lf><Title>Перелейте на станцию розлива</><lf>Пните вентиль сбоку инфузора, чтобы перелить чай на станцию розлива."
+English_US,"<Step>ШАГ 5</><lf><Title>Перелейте на Пираливку</><lf>Пните вентиль сбоку инфузора, чтобы перелить чай на Пираливку."
 Description,"""Pouramid"" is a pun mashup of the words Pour and Pyramid. The meaning of the name is more important than the pun, so don't translate this directly if it would sacrifice meaning. If you're not able to translate it directly, then just translate all instances of Pouramid as ""pouring station"" instead."
 French,<Step>ÉTAPE 5</><lf><Title>Transférez dans le spirallon</><lf>Donnez un coup de pied sur la valve de l'infuseur pour transférer le thé dans le spirallon.
 Italian,<Step>5ª FASE</><lf><Title>Trasferire nella Spiramide</><lf>Dai un colpetto con il piede alla valvola che si trova sul lato del serbatoio per trasferire l'infuso nella Spiramide.
@@ -13983,7 +13983,7 @@ Swedish,Steg 5: Överför till Pouramid<lf><lf>Kick ventilen på sidan av infus�
 Thai,ขั้นตอนที่ 5: โอนไปยัง Pouramid<lf><lf>เตะวาล์วที่ด้านข้างของ infuser เพื่อถ่ายโอนชาไปที่ pouramid
 Arabic,
 Key,FieldGuide_Tasks_TeaMachine6
-English_US,"<Step>ШАГ 6</><lf><Title>Разлейте чай!</><lf>Поставьте чайную чашку под станцию розлива. Затем потяните за веревку, соединенную со станцией, чтобы налить себе чашечку чая! Вы можете налить несколько чашек из одной партии."
+English_US,"<Step>ШАГ 6</><lf><Title>Разлейте чай!</><lf>Поставьте чайную чашку под Пираливкой. Затем потяните за верёвку, соединённую с Пираливкой, чтобы налить себе чашечку чая! Вы можете налить несколько чашек из одной партии."
 Description,
 French,"<Step>ÉTAPE 6</><lf><Title>Servez le thé !</><lf>Placez une tassé sous le spirallon. Ensuite, tirez sur la corde reliée au spirallon pour vous servir une tasse de thé ! Vous pouvez servir plusieurs tasses à partir de la même tournée."
 Italian,<Step>6ª FASE</><lf><Title>Servire il tè!</><lf>Metti una tazza sotto la Spiramide e tira la corda per versare la bevanda! Puoi preparare più tazze dallo stesso infuso.
