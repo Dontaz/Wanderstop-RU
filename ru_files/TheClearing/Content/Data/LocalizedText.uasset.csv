@@ -20044,7 +20044,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Intro
-English_US,"Нет! Соберись, {{Альта}}, НЕ возвращайся туда снова."
+English_US,"Нет! Приди в себя, {{Альта}}, НЕ скатывайся в это снова."
 Description,"by ""that place"" she means an emotional place"
 French,"Non ! Reprends tes esprits, {{Alta}}, ne retourne pas sur ce terrain-là."
 Italian,"No! Riprenditi, {{Alta}}, non sprofondare di nuovo."
@@ -20082,7 +20082,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Intro
-English_US,"Только один человек в мире достаточно хорош, чтобы снова натренировать меня: Мастер {{Уинтерс}}."
+English_US,"Только один человек в мире достаточно хорош, чтобы вернуть мне былую форму: Мастер {{Уинтерс}}."
 Description,
 French,Il n'y a qu'une personne au monde qui soit suffisamment douée pour me remettre sur le droit chemin : Maitresse {{Winters}}.
 Italian,C'è solo una persona al mondo capace di rimettermi in carreggiata: Maestra {{Winters}}.
@@ -20101,7 +20101,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Intro
-English_US,"В свое время она была непревзойденным бойцом, богом. Она будет знать, что делать."
+English_US,"В своё время она была непревзойденным бойцом, настоящей богиней. Она знает, что делать."
 Description,
 French,"À son époque, c'était une combattante sans pareille, une déesse. Elle saura quoi faire."
 Italian,"A suo tempo è stata una combattente senza rivali, una vera divinità nella lotta. Saprà cosa fare."
@@ -20120,7 +20120,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Intro
-English_US,Её дом находится глубоко в лесу на краю света.
+English_US,"Её дом находится в глубине леса, на самом краю света."
 Description,
 French,Elle demeure au cœur d'une forêt aux confins du monde.
 Italian,La sua dimora si trova nel cuore di una foresta ai confini del mondo.
@@ -20139,7 +20139,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Intro
-English_US,"Я найду её, чего бы это ни стоило."
+English_US,"Я найду её, чего бы мне это ни стоило."
 Description,
 French,Je ferai tout ce qu'il faut pour la trouver.
 Italian,La troverò a qualunque costo.
@@ -20158,7 +20158,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Intro
-English_US,"Я сделаю всё, что она потребует от меня."
+English_US,"Я сделаю всё, что она потребует."
 Description,
 French,Je ferai tout ce qu'elle exige de moi.
 Italian,Farò tutto quello che mi chiederà.
@@ -20196,7 +20196,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Cycle3
-English_US,Я... Я ужасна.
+English_US,Я... я ужасна.
 Description,
 French,Je suis… je suis horrible.
 Italian,Sono... sono orribile.
@@ -20234,7 +20234,7 @@ Swedish,Sprinta
 Thai,วิ่ง
 Arabic,
 Key,Cycle3
-English_US,"Я так хорошо справлялась, всё было так хорошо, а потом я..."
+English_US,"Я так хорошо справлялась, всё шло так хорошо, а потом я..."
 Description,
 French,"J'étais trop douée, tout allait trop bien, et puis j'ai…"
 Italian,"Me la stavo cavando alla grande, andava tutto così bene, e poi io..."
@@ -20253,7 +20253,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Cycle3
-English_US,"О боже, я жалкая."
+English_US,"Боже, какая же я жалкая."
 Description,
 French,"Oh là là, je suis minable."
 Italian,"Oh, sono così patetica."
@@ -20272,7 +20272,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Cycle3
-English_US,"У меня было всё, и я всё это выбросила. Всё, что мне нужно было сделать..."
+English_US,"У меня было всё, и я всё это пустила по ветру. Мне нужно было всего лишь..."
 Description,
 French,J'avais tout et j'ai tout gâché. Tout ce que j'avais à faire…
 Italian,"Avevo tutto, e l'ho buttato via. Tutto quello che dovevo fare..."
@@ -20291,7 +20291,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Cycle3
-English_US,Она была прямо там!
+English_US,Она была прямо передо мной!
 Description,
 French,Elle était là !
 Italian,Era proprio lì!
@@ -20310,7 +20310,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Cycle3
-English_US,"Единственный человек, который мог мне помочь, она была прямо там, а я просто... словно животное!"
+English_US,"Единственный человек, который мог мне помочь, она была совсем рядом, а я просто… повела себя как животное!"
 Description,
 French,"La seule personne qui pouvait m'aider, elle était là et j'ai juste… comme si j'étais un animal !"
 Italian,"L'unica persona che poteva aiutarmi, era proprio lì e io l'ho… io... come fossi un animale!"
@@ -20329,7 +20329,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Cycle3
-English_US,"Я не знаю. Я больше не знаю, чего я заслуживаю."
+English_US,"Я не знаю. Я уже не знаю, чего я заслуживаю."
 Description,
 French,Je ne sais pas. Je ne sais plus ce que je mérite.
 Italian,Non lo so. Non so più cosa merito.
@@ -20348,7 +20348,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Cycle3
-English_US,"Может быть, я ничто."
+English_US,"Может, я — пустое место."
 Description,
 French,Je ne suis peut-être plus rien.
 Italian,Forse niente.
@@ -20367,7 +20367,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Cycle3
-English_US,Да. Ничто.
+English_US,Да. Пустое место.
 Description,
 French,Ouais… plus rien.
 Italian,Sì. Niente.
@@ -20386,7 +20386,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Cycle3
-English_US,Я больше никогда не заслужу ничего подобного.
+English_US,Я больше никогда не заслужу ничего хорошего.
 Description,
 French,Je ne mériterai plus jamais rien de bon.
 Italian,Non mi merito più niente.
@@ -20405,7 +20405,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AA
-English_US,"Кто, по-моему, был несправедлив ко мне?"
+English_US,Кого бы я назвала своими обидчиками?
 Description,
 French,"Qui m'a fait du tort, selon moi ?"
 Italian,Chi mi ha fatto un torto?
@@ -20424,7 +20424,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AA
-English_US,"В смысле, это странно, потому что, очевидно, я сражалась со всеми этими соперниками,"
+English_US,"Знаете, это странно, ведь я сражалась со столькими соперниками..."
 Description,
 French,"C'est vrai, c'est bizarre parce qu'il est évident que j'ai affronté tous ces rivaux,"
 Italian,"Voglio dire, è strano perché ovviamente ho affrontato tanti avversari,"
@@ -20443,7 +20443,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AA
-English_US,"людьми, которые пытались сломить меня самыми разными способами,"
+English_US,"с людьми, которые пытались сломить меня самыми разными способами..."
 Description,
 French,"ce gens qui ont tenté de m'anéantir de toutes sortes de façons,"
 Italian,"persone che hanno cercato di distruggermi in tutti i modi,"
@@ -20462,7 +20462,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AA
-English_US,и я действительно злюсь на многих из них.
+English_US,и на многих из них я действительно держу зло.
 Description,
 French,et j'en veux à beaucoup d'entre eux.
 Italian,e provo risentimento nei loro confronti.
@@ -20500,7 +20500,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AA
-English_US,"Мой отец пришел домой с работы, усадил нас и сказал, что его работы больше не существует."
+English_US,"Отец пришёл домой с работы, усадил нас и сказал, что его работы больше не существует."
 Description,
 French,"Mon père était rentré à la maison, il s'était assis et nous avait annoncé qu'il n'avait plus de travail."
 Italian,"Mio padre tornò a casa dal lavoro, ci fece sedere tutti e ci disse che il suo lavoro non esisteva più."
@@ -20519,7 +20519,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AA
-English_US,Мы снова должны были переезжать. Я снова должна была со всем прощаться.
+English_US,Нам предстояло снова переезжать. Мне предстояло снова со всем прощаться.
 Description,
 French,Nous allions encore devoir déménager. J'allais encore devoir faire mes adieux à tout.
 Italian,Stavamo per traslocare di nuovo. Avrei dovuto dire addio a tutto un'ennesima volta.
@@ -20538,7 +20538,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AA
-English_US,"И это как... ОН потерял работу, вот что я помню. Что он был слабым."
+English_US,"И знаете... ОН потерял работу, вот что я запомнила. Что он был слабым."
 Description,
 French,"Et c'est comme… il avait perdu son travail, c'est ce dont je me souviens. Et il était faible."
 Italian,"Ed è come… LUI aveva perso il lavoro, questo è ciò che ricordo. Che era un debole."
@@ -20557,7 +20557,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AA
-English_US,"Почему я должна менять всю свою жизнь из-за того, что ОН был слишком слаб, чтобы удержаться за что-то?"
+English_US,"Почему я должна была менять всю свою жизнь только потому, что ОН оказался слишком слаб, чтобы удержаться на месте?"
 Description,
 French,Pourquoi ma vie à moi devait se trouver bouleversée uniquement parce que lui était trop faible pour conserver quelque chose ?
 Italian,Perché avrei dovuto cambiare tutta la mia vita a causa della sua inettitudine a tenersi il lavoro?
@@ -20576,7 +20576,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AA
-English_US,Вот что я чувствовала в то время.
+English_US,Так я тогда считала.
 Description,
 French,C'est ce que j'avais ressenti sur le moment.
 Italian,Ecco come mi sentii in quel momento.
@@ -20595,7 +20595,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AA
-English_US,"Затем, годы спустя, я узнала, что на самом деле это была вовсе не его вина."
+English_US,"Потом, спустя годы, я узнала, что на самом деле это вообще не было его виной."
 Description,
 French,"Et puis, des années plus tard, j'ai fini par apprendre qu'il n'y était pour rien."
 Italian,"Poi, anni dopo ho scoperto che in realtà non fu affatto colpa sua."
@@ -20614,7 +20614,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AA
-English_US,Это было что-то совершенно вне его контроля.
+English_US,Это от него совершенно не зависело.
 Description,
 French,Il n'avait absolument aucun contrôle sur toute cette histoire.
 Italian,Era qualcosa su cui non aveva esercitato alcun controllo.
@@ -20633,7 +20633,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AA
-English_US,"Так что, теоретически, я должна была простить его и жить дальше, верно?"
+English_US,"Так что, по идее, я должна была бы простить его и жить дальше, верно?"
 Description,
 French,"Donc, théoriquement, j'aurais dû être capable de lui pardonner et de passer à autre chose, pas vrai ?"
 Italian,"Quindi in teoria avrei dovuto essere in grado di perdonarlo e andare avanti, giusto?"
@@ -20652,7 +20652,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AA
-English_US,"Но я, эм... Я не знаю. Я... По какой-то причине я не смогла."
+English_US,"Но я, эм... я не знаю. Я... Почему-то я не смогла."
 Description,
 French,Mais en fait… je ne sais pas pourquoi… je n'ai pas pu.
 Italian,"Ma io, semplicemente, ehm... non lo so. Io... per qualche ragione... non ci sono riuscita."
@@ -20671,7 +20671,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AA
-English_US,"Словно гнев вырыл траншеи в моей груди, я ничего не могла поделать."
+English_US,"Словно гнев вырыл траншеи у меня в груди, и я ничего не могла с этим поделать."
 Description,
 French,"C'était comme si la colère avait creusé des tranchées dans ma poitrine, c'était au-dessus de mes forces."
 Italian,"Era come se la rabbia avesse scavato delle trincee nel mio cuore, e non potevo farci niente."
@@ -20690,7 +20690,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AA
-English_US,Никакое количество рациональных объяснений не могло заставить его сдвинуться с места.
+English_US,Никакие рациональные объяснения не могли заставить его отступить.
 Description,
 French,"Aucune explication rationnelle, aussi infime qu'elle fut, ne put me faire changer d'avis."
 Italian,Non c'era nessuna spiegazione razionale che riuscisse a rimuoverla.
@@ -20709,7 +20709,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AA
-English_US,"Я всё еще чувствую этот гнев, даже сейчас, и не понимаю почему."
+English_US,"Я всё ещё чувствую эту злость, даже сейчас, и не понимаю почему."
 Description,
 French,"Je ressens toujours cette colère, aujourd'hui encore, et je ne comprends pas pourquoi."
 Italian,"Sento ancora quella rabbia, anche adesso, e non capisco perché."
@@ -20747,7 +20747,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AB
-English_US,"Чувства, вроде... как будто я выиграла турнир,"
+English_US,"Ощущение, типа... словно я выиграла турнир,"
 Description,
 French,"Des sentiments comme… c'est comme si j'avais gagné un tournoi,"
 Italian,"Sensazioni come... è come se avessi vinto un torneo,"
@@ -20766,7 +20766,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AB
-English_US,"и вместо того чтобы немедленно вернуться к тренировкам, как я обычно делаю,"
+English_US,"и вместо того, чтобы сразу вернуться к тренировкам, как я обычно делаю,"
 Description,
 French,"et plutôt que de retourner immédiatement à l'entraînement comme d'habitude,"
 Italian,"e invece di tornare subito ad allenarmi come faccio di solito,"
@@ -20785,7 +20785,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AB
-English_US,"всё, чего я хочу сейчас, — это расслабиться и отпраздновать успех."
+English_US,"всё, чего я сейчас хочу — это расслабиться и отпраздновать успех."
 Description,
 French,tout ce que je souhaite maintenant c'est me détendre et fêter ce succès.
 Italian,tutto ciò che voglio adesso è rilassarmi e godermi la vittoria.
@@ -20823,7 +20823,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AB
-English_US,Я никогда не хотела этого раньше.
+English_US,Я никогда раньше этого не хотела.
 Description,
 French,Je n'avais encore jamais ressenti ça.
 Italian,Non l'ho mai desiderato prima.
@@ -20861,7 +20861,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AB
-English_US,"...типа, в чем ценность такой жизни?"
+English_US,...так в чём ценность такой жизни?
 Description,
 French,… c'est comme si… à quoi bon vivre de cette façon ?
 Italian,Che… che senso ha vivere in questo modo?
@@ -20880,7 +20880,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AB
-English_US,"В смысле, что ты от этого получаешь? Как ты узнаешь, когда ты..."
+English_US,"В смысле, что ты от этого получаешь? Как понять, когда ты..."
 Description,
 French,"C'est vrai, on obtient quoi avec ça ? Comment on sait que…"
 Italian,"Intendo dire, cosa si guadagna da tutto ciò? Come si fa a sapere quando..."
@@ -20899,7 +20899,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AB
-English_US,Когда этого достаточно?? Потому что нет никакого показателя...
+English_US,Когда достаточно?? Ведь нет никакого индикатора...
 Description,
 French,Que ça suffit ?? Il n'y a pas d'indicateur de…
 Italian,Quando il troppo è troppo? Perché non c'è nessun indicatore di...
@@ -20918,7 +20918,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AB
-English_US,"вздох Я просто... Я этого не понимаю. Я не вижу, чего это стоит."
+English_US,"*вздох* Я просто... я этого не понимаю. Я не вижу, в чём тут смысл."
 Description,
 French,*soupir* Je ne… je ne comprends plus. Je ne vois plus à quoi ça sert.
 Italian,*sospiro* Io... non lo capisco. Non ne capisco più il senso.
@@ -20937,7 +20937,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BB
-English_US,"Я не думаю, что у меня есть лучший друг. Или есть?"
+English_US,"Не думаю, что у меня есть лучший друг. Или есть?"
 Description,
 French,Je ne crois pas avoir de meilleur ami. Si ?
 Italian,Non credo di avere un amico vero. O forse ce l'ho?
@@ -20956,7 +20956,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BB
-English_US,"Ближе всех, наверное, тот пацан, который вечно приходил в лавку, где работал мой отец, когда я была маленькой."
+English_US,"Ближе всего к этому, наверное, тот пацан, который вечно заходил в магазин, где работал мой отец, когда я была маленькой."
 Description,
 French,Le plus proche est sans doute ce gamin qui venait toujours dans la boutique où travaillait mon père quand j'étais petite.
 Italian,Quello che forse si avvicina di più ad un amico è un ragazzo che veniva sempre nel negozio dove lavorava mio padre quando ero piccola.
@@ -20975,7 +20975,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BB
-English_US,"Мне он не нравился, но он торчал в лавке так часто, что в какой-то момент просто по умолчанию стал моим другом."
+English_US,"Он мне не нравился, но он околачивался в магазине так часто, что в какой-то момент просто стал моим другом по умолчанию."
 Description,
 French,"Je ne l'aimais pas, mais il traînait si souvent autour de la boutique qu'au bout d'un moment, j'ai fini par en faire mon ami par défaut."
 Italian,"Non mi piaceva questo tizio, ma veniva così spesso nel negozio che a un certo punto eravamo amici senza volerlo."
@@ -20994,7 +20994,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BB
-English_US,"Однажды мы с ним тусуемся, и он говорит: ""Ты же знаешь, что твой отец — неудачник, да?"""
+English_US,"Однажды мы с ним тусуемся, и он говорит: «Ты же знаешь, что твой отец неудачник, да?»"
 Description,
 French,"Un jour, alors qu'on traînait ensemble, il m'a dit : ""Tu sais que ton père c'est un raté, pas vrai ?"""
 Italian,"Un giorno, mentre eravamo insieme, mi disse: ""Sai che tuo padre è un perdente, vero?"""
@@ -21013,7 +21013,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BB
-English_US,"Конечно, я считала своего отца полным неудачником. Я считала его слабым и бесхребетным."
+English_US,"Конечно, я считала своего отца полным неудачником. Я думала, что он слабый и бесхребетный."
 Description,
 French,"Évidemment, je pensais que mon père était un raté complet. Je le trouvais faible et mou."
 Italian,Certo che sapevo che mio padre fosse un fallito completo. Che fosse un debole senza spina dorsale.
@@ -21070,7 +21070,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BB
-English_US,"Я ударила его снова, там, на земле, и он пытался лягаться в ответ,"
+English_US,"Я ударила его снова, там, на земле, и он пытался отбиться,"
 Description,
 French,"Je l'ai encore frappé, il est tombé et il a essayé de me donner un coup de pied,"
 Italian,"Continuai a colpirlo mentre era a terra... cercò di reagire,"
@@ -21108,7 +21108,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BB
-English_US,"А чуть позже мой отец потерял работу, и нам пришлось переехать, и я больше никогда не видела того пацана."
+English_US,"А потом, чуть позже, папа потерял работу, и нам пришлось переехать, и я никогда больше не видела того парня."
 Description,
 French,"Et c'est peu après ça que mon père a perdu son travail et qu'on a dû déménager, et je n'ai plus jamais revu ce gamin."
 Italian,"E poi un po' più in là, mio padre perse il lavoro, e traslocammo. Non ho mai più rivisto quel ragazzo."
@@ -21127,7 +21127,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BB
-English_US,"Помню, как мы переехали, первое, что я сделала, — записалась на бокс."
+English_US,"Помню, после переезда первым делом я записалась на бокс."
 Description,
 French,"Après notre déménagement, je me souviens de la première chose que j'ai faite. Je me suis inscrite à un cours de boxe."
 Italian,"Dopo esserci trasferiti, ricordo che la prima cosa che feci fu quella di iscrivermi a un corso di boxe."
@@ -21146,7 +21146,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BA
-English_US,"О, гадость, как только я пью этот чай, у меня начинают болеть ступни. Фу."
+English_US,"О боже, какая гадость, как только я пью этот чай, у меня начинают болеть ступни. Фу."
 Description,
 French,"Oh, beurk… dès que je bois de ce thé je commence à avoir mal aux pieds."
 Italian,"Oh, che pena... appena bevo questo tè, i piedi iniziano a farmi male."
@@ -21165,7 +21165,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BA
-English_US,"У меня и так болят ноги от лазания по этим лестницам, мне не нужно больше боли."
+English_US,"Ноги и так болят от лазания по этим лестницам, мне не нужно ещё больше боли."
 Description,
 French,"À force de grimper à cette échelle, ils me font déjà assez souffrir comme ça, je n'ai pas besoin d'en rajouter."
 Italian,"Mi facevano già male per aver salito queste scale, non ho bisogno di altro dolore."
@@ -21184,7 +21184,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BA
-English_US,"Ну, в смысле, я нормально отношусь к боли, но это должна быть ХОРОШАЯ боль."
+English_US,"Ну, в смысле, я не против боли, но это должна быть ХОРОШАЯ боль."
 Description,
 French,"Enfin, moi, la douleur, ça ne me dérange pas, mais il faut que ce soit de la BONNE douleur."
 Italian,"Voglio dire, il dolore mi sta bene, ma deve essere un dolore BUONO."
@@ -21203,7 +21203,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BA
-English_US,"Думаю, у меня бесконечная терпимость к боли, пока она хорошая, пока она, ну знаешь... правильная."
+English_US,"Думаю, у меня бесконечная терпимость к боли, пока она хорошая, пока она, ну знаете... правильная."
 Description,
 French,"Je crois avoir une tolérance infinie à la douleur tant qu'elle est bonne, tant que c'est de la… enfin, de la bonne douleur."
 Italian,"Ho una tolleranza infinita al dolore buono, purché sia sempre dello stesso tipo."
@@ -21222,7 +21222,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BA
-English_US,"Вот почему всё в этом лесу было таким невыносимым, потому что это всё время ощущается как плохая боль, неправильная, и я..."
+English_US,"Вот почему всё в этом лесу было так невыносимо — потому что это постоянно ощущается как плохая боль, неправильная, и я..."
 Description,
 French,"C'est pour ça que tout est nul dans cette forêt, c'est parce que ça ne provoque que de la mauvaise douleur, pas de la bonne, et je…"
 Italian,"In questa foresta mi sembra tutto così miserabile proprio perché continua a provocare un dolore cattivo, del tipo sbagliato, e io..."
@@ -21241,7 +21241,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BA
-English_US,"О боже, я надеюсь, что это окажется хорошей болью."
+English_US,"О боже, надеюсь, это окажется хорошей болью."
 Description,
 French,"Oh là là, pourvu que ça se transforme en bonne douleur."
 Italian,"Oh cielo, spero che questo si riveli un dolore buono."
@@ -21279,7 +21279,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AC
-English_US,Что ЭТО такое?? Я никогда раньше не пробовала ничего подобного.
+English_US,Что ЭТО такое?? Я никогда не пробовала ничего подобного.
 Description,
 French,Mais c'est quoi ÇA ? C'est la première fois que je goûte un truc pareil !
 Italian,Cos'è questo? Non ho mai provato niente del genere prima.
@@ -21298,7 +21298,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AC
-English_US,"Это как, эм... как миндаль или, э-э... Нет, скорее как сладковатая... резина??"
+English_US,"Это как, эм... как миндаль или, э-э... Нет, скорее как сладкая такая... резина??"
 Description,
 French,"On dirait… hum… des amandes ou, euh… non, c'est plus comme un genre de… de gomme sucrée ??"
 Italian,"È ​​come… ehm... come mandorle o, ehm... no, più come una specie di gomma zuccherata?"
@@ -21317,7 +21317,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AC
-English_US,"Хм. Ладно. По сути, это если бы праздничный торт был на вкус как салат."
+English_US,"Хм. Ладно. Это, по сути, если бы праздничный торт был на вкус как салат."
 Description,
 French,"Hum… OK. En fait, c'est comme si un gâteau d'anniversaire avait un goût de salade."
 Italian,Hmm. Sì. Fondamentalmente è come una torta di compleanno con il sapore dell'insalata.
@@ -21336,7 +21336,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AC
-English_US,"Или нет, если бы салат был на вкус как праздничный торт. Да, да, думаю, это оно."
+English_US,"Или нет, если бы салат был на вкус как торт. Да, да, думаю, так и есть."
 Description,
 French,"Ou non, c'est plutôt comme si une salade avait un goût de gâteau d'anniversaire. Ouais, ouais, c'est plutôt ça !"
 Italian,"Anzi, no, è come se l'insalata avesse il sapore della torta di compleanno. Sì, ecco, penso che sia così."
@@ -21355,7 +21355,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AC
-English_US,"Ого, я сделала это. Я разгадала."
+English_US,"Ого, у меня получилось. Я поняла."
 Description,
 French,Waouh ! J'ai réussi. J'ai trouvé.
 Italian,Uao. Ce l'ho fatta. Ho capito.
@@ -21374,7 +21374,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AC
-English_US,"...........ладно, погоди, нет-нет. Это, по сути, как жареная выпечка, но с такими слоями ледяного металлического привкуса, типа того."
+English_US,"...........так, погодите, нет-нет. Это по сути как жареный пирожок, но чувствуются слои ледяного металлического привкуса, типа того."
 Description,
 French,"… OK, attends… non, non. En fait, c'est comme une pâte frite, mais avec ces couches de saveurs métalliques glacées."
 Italian,"… Anzi, no… no. Fondamentalmente è come una pasta fritta con degli strati di sapore metallico ghiacciato."
@@ -21393,7 +21393,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AC
-English_US,"Это... О нет, это затянется надолго. Нет-нет, ладно, мне надо остановиться."
+English_US,"Это... О нет, сейчас начнётся. Нет-нет, ладно, мне надо остановиться."
 Description,
 French,"C'est… Oh non, ça va être tout un bazar. Non, non, OK, il faut que j'arrête."
 Italian,"È come... oh no, non me ne esco più da qua. No, no, devo fermarmi."
@@ -21412,7 +21412,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_AC
-English_US,"Я больше этим не занимаюсь, я всё, мы закончили."
+English_US,"Я больше этим не занимаюсь, с меня хватит, мы закончили."
 Description,
 French,"J'arrête avec ça, terminé. C'est terminé."
 Italian,Meglio farla finita adesso.
@@ -21431,7 +21431,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BC
-English_US,"Воу, погоди, я, наверное, выпила это слишком быстро."
+English_US,"Воу, погоди, я, наверное, выпила слишком быстро."
 Description,
 French,Waouh ! Attends… j'ai dû boire ça trop vite.
 Italian,"Uaooo! Un momento, devo aver bevuto troppo in fretta."
@@ -21450,7 +21450,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BC
-English_US,"У меня, э-э, появляется чувство, э-э......"
+English_US,"У меня, э, такое чувство, э..."
 Description,
 French,Je… euh… je ressens comme un genre de…
 Italian,"Inizio... uh... ad avere una sensazione di, uh……"
@@ -21469,7 +21469,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BC
-English_US,Воу......... ох......
+English_US,Воу...... о......
 Description,
 French,Waouh… oh…
 Italian,Uaooo... ooh……
@@ -21488,7 +21488,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BC
-English_US,"Ох, я...... Постой."
+English_US,"О, я...... Постойте."
 Description,
 French,"Oh, je suis… attends…"
 Italian,"Oh, sono... aspetta…"
@@ -21507,7 +21507,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BC
-English_US,Погоди... Ха. Ух ты. хихикает вздох
+English_US,Погодите... Ха. Ого. *хихикает* *вздох*
 Description,
 French,Attends… euh… waouh ! *rire bête* *soupir*
 Italian,Aspetta... eh... uao! *risatina* *sospiro*
@@ -21526,7 +21526,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BC
-English_US,"О боже мой! Ладно, я начинаю приходить в себя, да."
+English_US,"О божечки! Ладно, я начинаю приходить в себя, да."
 Description,
 French,"Oh là là ! OK, je commence à revenir là, ouais."
 Italian,"Oh, bene! Bene, sto tornando in me, sì."
@@ -21545,7 +21545,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BC
-English_US,"Ух ты, эм... Я даже не знаю, как это описать. Это было..."
+English_US,"Ого, эм... Я даже не знаю, как это описать. Это было..."
 Description,
 French,Waouh ! Hum… je ne vois même pas comment décrire ça. C'était…
 Italian,"Uao, uh... come potrei descriverlo. È stato..."
@@ -21564,7 +21564,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BC
-English_US,"Я просто чувствовала такую легкость. Я чувствовала себя как-то странно свободной, так, как никогда раньше."
+English_US,"Я просто чувствовала такую лёгкость. Я чувствовала себя странно свободной, так, как никогда раньше."
 Description,
 French,"Je me suis sentie si légère. Je me suis sentie étrangement libre, comme jamais."
 Italian,"Mi sentivo così leggera. Mi sentivo stranamente libera, come non mi sono sentita mai."
@@ -21621,7 +21621,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BC
-English_US,"Я снова в себе, и я просто чувствую себя так... гадко. Фу."
+English_US,"Я вернулась в себя, и я чувствую себя так... мерзко. Фу."
 Description,
 French,Je reviens en moi et je me sens tellement… sale. Beurk…
 Italian,Sono rinvenuta e mi sento così... disgustosa. Blea…
@@ -21640,7 +21640,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BC
-English_US,"Я, эм... Я не могу повторить это снова. Нет-нет, ни за что."
+English_US,"Я, эм... я не могу повторить это. Нет-нет, ни за что."
 Description,
 French,"Je… hum… pas question que je le refasse. Non, non, hors de question."
 Italian,"Io, ehm... non posso farlo di nuovo. No, no, non esiste proprio."
@@ -21716,7 +21716,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_CA
-English_US,"""Невинность"". Я ненавижу это слово."
+English_US,«Невинность». Ненавижу это слово.
 Description,
 French,"""Innocence"". Je déteste ce mot."
 Italian,Innocenza. Una parola che odio.
@@ -21735,7 +21735,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_CA
-English_US,"Знаешь, иногда я смотрю на других людей, и они всё еще не усвоили этот фундаментальный урок о том, что ВСЁ достигается тяжелым трудом,"
+English_US,"Знаете, иногда я смотрю на других людей, и они всё ещё не усвоили этот фундаментальный урок о том, что ВСЁ достигается тяжким трудом,"
 Description,
 French,"Tu vois, il m'arrive de regarder certaines personnes et de constater qu'elles n'ont toujours pas retenu cette leçon fondamentale qui dit que TOUT vient du travail,"
 Italian,"Sai, a volte osservo le persone e mi accorgo che non hanno ancora imparato la lezione fondamentale su come TUTTO derivi dal duro lavoro,"
@@ -21754,7 +21754,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_CA
-English_US,"и я думаю про себя: ""ЭТО невинность. Этот человек всё еще совершенно наивен""."
+English_US,и я думаю про себя: «ВОТ ЭТО невинность. Этот человек всё ещё абсолютно наивен».
 Description,
 French,"et alors, je me dis : ""C'est ça l'innocence. Cette personne est complètement naïve."""
 Italian,"e penso tra me e me, ""Quello è il vero significato dell'innocenza, quella è l'irresponsabilità""."
@@ -21773,7 +21773,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_CA
-English_US,"Как будто они всё еще живут во сне, где всё будет хорошо."
+English_US,"Будто они всё ещё живут во сне, где всё будет хорошо."
 Description,
 French,C'est comme si elles vivaient dans un rêve où tout allait bien se passer.
 Italian,È come se vivessero in un sogno in cui tutto va a finire bene.
@@ -21811,7 +21811,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_CB
-English_US,"ЭТО на вкус как кожа? Полагаю, я не знаю, какая кожа на вкус."
+English_US,"ЭТО на вкус как кожа? Наверное, я не знаю, какая кожа на вкус."
 Description,
 French,C'est le goût du cuir ? Encore faudrait-il que je connaisse le goût du cuir…
 Italian,È il sapore del cuoio? Non credo di sapere che sapore abbia il cuoio.
@@ -21830,7 +21830,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_CB
-English_US,"Знаешь, работа с кожей была единственной вещью, в которой мой отец был хорош."
+English_US,"Знаете, работа с кожей была единственной вещью, в которой мой отец был хорош."
 Description,
 French,"Tu vois, le travail du cuir était la seule chose pour laquelle mon père était doué."
 Italian,La lavorazione del cuoio era l'unica cosa in cui mio padre era bravo.
@@ -21849,7 +21849,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_CB
-English_US,"Он всегда делал людям подарки на дни рождения, вещи вроде обуви, сумочки или чего-то такого."
+English_US,"Он всегда делал людям подарки на их день рождения, вещи вроде обуви или сумочки, или чего угодно."
 Description,
 French,"Il offrait toujours des choses aux gens pour leur anniversaire, ça pouvait être une paire de chaussures ou bien un sac à main."
 Italian,"Faceva sempre regali ai compleanni, cose come scarpe o borse."
@@ -21868,7 +21868,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_CB
-English_US,"Но для него это всегда было хобби. Он отказывался заниматься этим профессионально, ну знаешь, воспринимать это всерьез."
+English_US,"Но для него это всегда было хобби. Он отказывался заниматься этим профессионально, ну знаете, воспринимать всерьёз."
 Description,
 French,"Mais ça restait un passe-temps pour lui. Il ne voulait pas en faire un travail, tu vois, prendre ça au sérieux."
 Italian,"Ma per lui è sempre stato un passatempo. Si rifiutava di farlo professionalmente, sai, di prenderlo sul serio."
@@ -21887,7 +21887,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_CB
-English_US,"И это убивало меня, потому что... Да ладно, это то, в чем ты хорош!"
+English_US,"И это меня убивало, потому что... Да ладно, это то, в чём ты хорош!"
 Description,
 French,"Et moi, ça me rendait dingue parce que… allez quoi ! T'es doué avec le cuir !"
 Italian,"E questo mi ha sempre fatto infuriare, perché... era l'unica cosa che gli riusciva bene!"
@@ -21906,7 +21906,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_CB
-English_US,"Или ты МОГ БЫ быть хорош в этом, ДЕЙСТВИТЕЛЬНО хорош."
+English_US,"Или ты МОГ бы быть хорош в этом, ПО-НАСТОЯЩЕМУ хорош."
 Description,
 French,"Et même… tu pourrais devenir vraiment doué, vraiment très, très bon !"
 Italian,"Una cosa in cui sarebbe potuto migliorare, diventare DAVVERO bravo."
@@ -21925,7 +21925,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_CB
-English_US,"Так что, по-моему, это была такая трата таланта. Я говорила ему это, говорила, что это пустая трата."
+English_US,"Так что, по-моему, это была такая пустая трата таланта. Я сказала ему это, сказала, что это всё впустую."
 Description,
 French,"Alors, dans mon esprit, c'était du gâchis. Je le lui ai dit, je lui ai dit que c'était du gâchis."
 Italian,"E nella mia mente, era un vero spreco. Gliel'ho detto… gli ho detto che era uno spreco."
@@ -21944,7 +21944,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_CB
-English_US,"И я помню, боже, как он посмотрел на меня, когда я это сказала, типа..."
+English_US,"И я помню, боже, тот взгляд, которым он посмотрел на меня, когда я это сказала..."
 Description,
 French,Et je me souviens encore… le regard qu'il m'a lancé quand je lui ai dit ça…
 Italian,E ricordo perfettamente il suo sguardo mentre glielo confessavo.
@@ -21963,7 +21963,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_CB
-English_US,"Словно я сказала ему самую унизительную вещь. Я никогда раньше не видела, чтобы он так злился."
+English_US,"Словно я сказала ему самую унизительную вещь на свете. Я никогда раньше не видела, чтобы он так злился."
 Description,
 French,C'était comme si je lui avais dit la chose la plus dégradante. Je ne l'avais encore jamais vu en colère à ce point.
 Italian,Come se gli avessi detto la cosa più umiliante. Non l'avevo mai visto così indignato.
@@ -21982,7 +21982,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_CB
-English_US,"Я, э-э... Хотела бы я, чтобы он был таким чаще. Злым."
+English_US,"Я, э... я бы хотела, чтобы он был таким почаще. Злым."
 Description,
 French,Je… euh… j'aurais bien aimé qu'il le soit plus souvent. En colère.
 Italian,"Io, uh... avrei voluto che si fosse indignato più spesso."
