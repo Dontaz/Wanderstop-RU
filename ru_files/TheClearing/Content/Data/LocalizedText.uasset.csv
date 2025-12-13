@@ -23255,7 +23255,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DC
-English_US,"Весь тот день, следующий день, как будто у меня на горле были тиски."
+English_US,"Весь тот день и весь следующий было такое чувство, словно мне на горло наложили тиски."
 Description,A vise is a piece of hardware used for clamping two things together
 French,"Toute la journée, et la suivante, c'était comme si j'avais un étau autour de la gorge."
 Italian,"Fino al giorno successivo, mi sentii come se avessi un morso alla gola."
@@ -23274,7 +23274,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DC
-English_US,"Я перепробовала всё, чтобы это прошло, всё, что могла придумать."
+English_US,"Я перепробовала всё, чтобы это прошло, всё, что только приходило в голову."
 Description,
 French,"J'ai tout essayé pour m'en débarrasser, tout ce que j'ai pu imaginer."
 Italian,"Provai di tutto per farla andare via, tutto quello che mi veniva in mente."
@@ -23293,7 +23293,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DC
-English_US,"Наконец, я сделала вот что: перед сном я записала точное время следующего дня, когда я планировала пойти в зал и тренироваться."
+English_US,"Наконец, я сделала вот что: перед сном я записала точное время, когда на следующий день я планирую пойти в зал и потренироваться."
 Description,
 French,"Avant d'aller me coucher, j'ai fini par écrire l'heure exacte à laquelle je prévoyais d'aller à l'entraînement le lendemain."
 Italian,"Così, prima di andare a letto, annotai su un foglio l’ora esatta in cui avevo intenzione di andare ad allenarmi il giorno successivo."
@@ -23331,7 +23331,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DC
-English_US,"Следующей ночью, если я не строила планы на следующий день, удушье возвращалось."
+English_US,"Следующей ночью, если я не строила планы на грядущий день, удушье возвращалось."
 Description,
 French,"Le soir d'après, tant que je n'avais pas prévu l'entraînement du lendemain, la sensation d'étouffement est revenue."
 Italian,"La notte dopo, pianificai minuziosamente il giorno successivo prima di andare a dormire, per non essere afflitta di nuovo da quella sensazione di soffocamento."
@@ -23350,7 +23350,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DC
-English_US,"Так продолжалось каждую ночь, каждый божий день, один за другим, за другим, за другим."
+English_US,"И так продолжалось каждую ночь, каждый божий день, один за другим, один за другим, один за другим."
 Description,
 French,"Et ça a continué ainsi soir après soir, tous les jours, les uns après les autres, après les uns, après les autres."
 Italian,"Da allora, ho ripetuto lo stesso rituale prima di andare a dormire, giorno dopo giorno."
@@ -23369,7 +23369,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DD
-English_US,"Ладно, вымышленные названия популярных песен, посмотрим."
+English_US,"Ладно, выдуманные названия популярных песен, посмотрим."
 Description,
 French,"OK, des noms de chansons populaires inventées, voyons…"
 Italian,"Allora, titoli inventati di canzoni popolari, vediamo..."
@@ -23388,7 +23388,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DD
-English_US,"Эм... как насчет, Солнечная... Песня."
+English_US,Эм... как насчёт... Солнечная... Песня.
 Description,
 French,Hum… pourquoi pas… Mon rayon… de soleil ?
 Italian,Ehm... che ne dici di… Raggio… di sole…
@@ -23426,7 +23426,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DD
-English_US,"Э-э, хех, о боже, это отстой."
+English_US,"Э-э, хех, боже, какой отстой."
 Description,
 French,"Euh… ah… non, c'est nul…"
 Italian,Ehm… ehm... oh... fanno tutti schifo.
@@ -23445,7 +23445,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DD
-English_US,Это не... Я вообще не знаю популярной музыки!
+English_US,Это не... я вообще не знаю популярную музыку!
 Description,
 French,Rien à voir avec des chansons populaires !
 Italian,Niente a che vedere con le canzoni popolari!
@@ -23464,7 +23464,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DD
-English_US,Э-э... {{Типпи Таппи... Зиппи... Заппи.}}
+English_US,Э-э-э... {{Типпи-Тэппи... Зиппи... Заппи.}}
 Description,
 French,Euh… {{Tippy Tappy… Zippy… Zappy.}}
 Italian,Ehm... {{Tippy Tappy... Zippy... Zappy.}}
@@ -23483,7 +23483,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DD
-English_US,"Ладно, неважно, это может быть песней."
+English_US,"Конечно, пофиг, сойдёт за песню."
 Description,
 French,"Ouais, si on veut, ça pourrait être une chanson."
 Italian,"Ma certo, volendo... potrebbe essere una canzone."
@@ -23521,7 +23521,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DD
-English_US,Э-э...
+English_US,Э-э-э...
 Description,
 French,Euh…
 Italian,Ehm...
@@ -23540,7 +23540,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DD
-English_US,"Ты Классный Ангел... Песен, И Твой, Милый, Так, Танцуй И Делай... Песенную. Штуку."
+English_US,"Ты Славный Ангел... Песен, И Твой, Сладкий, Так Что, Танцуй И Делай... Песенную. Штуку."
 Description,"This is meant to just be a random collection of words strung together into a very bad-sounding song, it's not meant to be gramatically correct"
 French,T'es un ange super chouette de… chanson et tes… tout doux… alors tu danses sur une… chanson. Machin.
 Italian,"Sei un angelo meraviglioso di... canzoni, e la tua danza è sempre dolce e fai una... canzone. Amore. Felicità. Petali di rose."
@@ -23559,7 +23559,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DD
-English_US,"Вот, ты доволен? Это песня."
+English_US,"Вот, довольны? Это песня."
 Description,
 French,"Et voilà, t'es contente ? C'est une chanson."
 Italian,"Ecco, sei felice? Eccoti una canzone."
@@ -23578,7 +23578,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DD
-English_US,"Это глупая, ужасная песня, но мне всё равно."
+English_US,"Это тупая, ужасная песня, но мне вообще плевать."
 Description,
 French,"C'est une chanson stupide et affreuse, mais ça m'est égal."
 Italian,"È una canzone stupida, orribile, e non me ne importa."
@@ -23597,7 +23597,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DD
-English_US,"Хех, оставь меня в покое."
+English_US,"Хех, отстаньте от меня."
 Description,
 French,"Ah, laisse-moi tranquille !"
 Italian,Eh... lasciami in pace.
@@ -23616,7 +23616,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BD
-English_US,"Когда мне было 15, это было после того, как я сбежала из дома, а потом вернулась,"
+English_US,"Когда мне было 15, уже после того, как я сбежала из дома, а потом вернулась,"
 Description,
 French,"À l'âge de 15 ans, j'avais fugué avant de rentrer à la maison."
 Italian,"Quando avevo 15 anni, dopo che ero scappata di casa e poi ero tornata,"
@@ -23654,7 +23654,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BD
-English_US,"почему я всегда настаивала на том, что случится что-то плохое и что всем нужно лучше всё контролировать."
+English_US,"почему я всегда настаивала на том, что случится что-то плохое и что всем нужно всё держать под контролем."
 Description,
 French,pourquoi je répétais sans cesse que ça allait mal finir et que tout le monde devait être davantage en contrôle.
 Italian,perché insistevo sempre che sarebbero successe cose brutte e che tutti dovevano avere più controllo sulle loro azioni.
@@ -23673,7 +23673,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BD
-English_US,"Кто-то обидел меня, спросила она? Я была в какой-то опасности?"
+English_US,"Обидел ли меня кто-то, спросила она? Была ли я в какой-то опасности?"
 Description,
 French,"Elle m'avait demandé si quelqu'un m'avait fait du mal, si j'étais en danger."
 Italian,"Mi chiese se qualcuno mi aveva fatto del male, e se ero in pericolo."
@@ -23730,7 +23730,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BD
-English_US,"Как объяснить ей, что я просто должна была быть готовой."
+English_US,"Как объяснить ей, что я просто должна была быть готова."
 Description,
 French,Comment lui expliquer que je devais tout simplement me tenir prête ?
 Italian,Come spiegarle che dovevo semplicemente essere pronta?
@@ -23787,7 +23787,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BD
-English_US,"и говорит: ""{{Альта}}, тебе нужно считать вещи?"""
+English_US,"и говорит: «{{Альта}}, тебе нужно считать вещи?»"
 Description,
 French,"et elle a dit : ""{{Alta}}, as-tu besoin de compter les choses ?"""
 Italian,"e mi disse: ""{{Alta}}, senti il bisogno di contare le cose?"""
@@ -23825,7 +23825,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BD
-English_US,"Она сказала: ""Знаешь, считать вещи без причины, куда бы ты ни пошла,"
+English_US,"Она сказала: «Ну знаешь, считать предметы без причины, везде, куда бы ты ни пошла,"
 Description,
 French,"Elle a ajouté : ""Tu sais, compter les choses sans raison, partout où tu vas,"
 Italian,"Continuò: ""Intendo, contare le cose senza motivo, ovunque tu vada,"
@@ -23844,7 +23844,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BD
-English_US,"и что-то плохое случится, если ты перестанешь считать?"""
+English_US,"иначе случится что-то плохое, если перестанешь считать?»"
 Description,
 French,"parce que sinon il va arriver un malheur si tu arrêtes de compter ?"""
 Italian,"e se smetti di contare hai paura che può accadere qualcosa di brutto?"""
@@ -23863,7 +23863,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BD
-English_US,"Я... нет, никогда. По сей день я не чувствовала ничего подобного, вообще."
+English_US,"Я... нет, никогда. По сей день я никогда ничего подобного не чувствовала, совсем."
 Description,
 French,"Je… non, jamais. Jusqu'alors, je n'avais jamais eu besoin de faire un truc pareil."
 Italian,"Io... no, mai. Non ho mai provato niente del genere."
@@ -23882,7 +23882,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BD
-English_US,"Но... я просто... не знаю почему, я сказала ей ""да""."
+English_US,"Но... я просто... не знаю почему, я сказала ей «да»."
 Description,
 French,"Mais… je sais pas… j'ignore pourquoi, mais je lui ai dit oui."
 Italian,Invece... poi... non so perché… le dissi di sì.
@@ -23920,7 +23920,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BD
-English_US,"Хорошо, сказала она, есть способы справиться с этим."
+English_US,"Ладно, сказала она, есть способы с этим справиться."
 Description,
 French,"""C'est pas grave, a-t-elle répondu, il y a des moyens de gérer ça."
 Italian,"Mi disse: ""ci sono dei modi per affrontare la cosa."
@@ -23939,7 +23939,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_BD
-English_US,"Никогда не подавай виду, если можешь."
+English_US,"Никогда не подавай виду, если можешь сдержаться."
 Description,
 French,N'en laisse jamais rien paraître si tu dois continuer.
 Italian,"Non darlo mai a vedere, se puoi evitarlo."
@@ -23977,7 +23977,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DB
-English_US,"Ого, это действительно заставляет чувствовать себя более сосредоточенной, более бдительной, более..."
+English_US,"Ого, это и правда заставляет чувствовать себя более сосредоточенной, более бдительной, более..."
 Description,
 French,"Oh, waouh ! C'est vraiment ce qui te fait te sentir plus concentrée, plus vigilante, plus…"
 Italian,"Oh, sì! Mi fa sentire più concentrata, più vigile, più..."
@@ -24015,7 +24015,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DB
-English_US,"Потому что перед боем твой разум — это просто мешанина шума,"
+English_US,"Потому что перед боем в разуме сплошной шумовой беспорядок,"
 Description,
 French,"Parce qu'avant un combat, ton esprit n'est qu'un méli-mélo de bruits,"
 Italian,"Perché prima di un combattimento, la mente è solo un'accozzaglia di rumori,"
@@ -24034,7 +24034,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DB
-English_US,"это как болото, и ты ничего не можешь разобрать."
+English_US,"словно болото, в котором ничего не разобрать."
 Description,
 French,c'est comme un marécage dont tu ne tires rien.
 Italian,è come una palude in cui non si riesce a distinguere nulla.
@@ -24053,7 +24053,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DB
-English_US,"А потом начинается бой, всё затихает, и внезапно включается фокус."
+English_US,"А потом начинается бой, всё затихает, и внезапно включается предельная концентрация."
 Description,
 French,"Et puis le combat débute et tout devient calme et, soudain, la concentration est là."
 Italian,E poi... inizia il combattimento e tutto si calma... in quel preciso momento entra in gioco la concentrazione.
@@ -24072,7 +24072,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DB
-English_US,Вот так. Теперь ты в деле.
+English_US,Вот оно. Теперь ты в своей колее.
 Description,
 French,C'est parti. Tu es lancée.
 Italian,Ecco fatto. Adesso sei nel vivo della lotta.
@@ -24091,7 +24091,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DB
-English_US,"Теперь ты знаешь, что делать. Всё становится ясным."
+English_US,"Теперь ты знаешь, что делать. Всё начинает проясняться."
 Description,
 French,"Là, tu sais quoi faire. Tout devient clair."
 Italian,Ora sai cosa fare. Tutto diventa chiaro.
@@ -24148,7 +24148,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DB
-English_US,Всё имеет смысл. Всё ясно.
+English_US,Всё обретает смысл. Всё четко.
 Description,
 French,Tout fait sens. Tout est clair.
 Italian,Tutto ha senso. Tutto è chiaro.
@@ -24167,7 +24167,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DB
-English_US,Ничего не болит. Ничего не подводит.
+English_US,Боли нет. Ошибок нет.
 Description,
 French,Rien ne fait mal. Rien ne rate.
 Italian,Niente fa male. Niente fallisce.
@@ -24186,7 +24186,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DB
-English_US,Давай. Давай. Давай. Давай.
+English_US,Вперёд. Вперёд. Вперёд. Вперёд.
 Description,
 French,Go. Go. Go. Go.
 Italian,Vai. Vai. Vai. Vai.
@@ -24205,7 +24205,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DB
-English_US,Это чувство... оно....
+English_US,Это чувство... это...
 Description,
 French,Cette sensation est… c'est…
 Italian,Questa sensazione è... è...
@@ -24224,7 +24224,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DB
-English_US,"...это она, та, кто выглядит как я, не так ли?"
+English_US,"...это она, та, что похожа на меня, да?"
 Description,
 French,"… c'est elle, la personne qui me ressemble, pas vrai ?"
 Italian,"...è lei, la persona che mi somiglia, non è vero?"
@@ -24262,7 +24262,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DB
-English_US,"Боже, я ОБОЖАЮ это чувство, это просто... так я чувствую себя живой. Я не хочу отказываться от этого чувства."
+English_US,"Боже, я ОБОЖАЮ это чувство, это просто... так я чувствую себя живой. Я не хочу отпускать это чувство."
 Description,
 French,"Oh là là, que cette sensation est bonne ! C'est comme ça que j'aime me sentir en vie. Je ne veux pas que ça s'arrête."
 Italian,È una sensazione che mi fa sentire così viva. Non voglio rinunciarci.
@@ -24281,7 +24281,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_DB
-English_US,"Пожалуйста, я... не могу ли я как-то сохранить это невероятное чувство, я... я не могу потерять это."
+English_US,"Пожалуйста, я... разве я не могу как-то сохранить это невероятное чувство, я... я не могу это потерять."
 Description,
 French,Pitié… comment conserver cette incroyable sensation ? Je ne veux pas perdre ça.
 Italian,Ti prego… c'è un modo di salvare questa sensazione incredibile? Io… non posso perderla.
@@ -24319,7 +24319,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Water
-English_US,"В 99% случаев вода не имеет вкуса, но когда ты часами тренировалась до изнеможения,"
+English_US,"В 99% случаев у воды нет вкуса, но когда ты часами изматываешь себя тренировками,"
 Description,
 French,"99 % du temps, l'eau n'a aucun goût, mais quand on passe des heures à s'entraîner à mort,"
 Italian,"Il 99% delle volte l'acqua è insapore, ma quando hai trascorso ore e ore ad allenarti,"
@@ -24338,7 +24338,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Water
-English_US,"заставляя себя делать больше, чем когда-либо раньше,"
+English_US,"выходя за пределы всех своих прежних возможностей,"
 Description,
 French,"à repousser ses limites comme jamais,"
 Italian,"spingendoti oltre i tuoi limiti,"
@@ -24357,7 +24357,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Water
-English_US,"окровавленная, потная, сломленная до основания,"
+English_US,"в крови, в поту, стёртая до самого основания,"
 Description,
 French,"à suer sang et eau et à puiser au plus profond de soi,"
 Italian,"sudando sangue e riducendoti a pezzi,"
@@ -24376,7 +24376,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Water
-English_US,"ТОГДА, когда ты пьешь чашку воды, она невероятна на вкус."
+English_US,"ТОГДА, когда выпиваешь чашку воды, у неё невероятный вкус."
 Description,
 French,"alors, on boit un verre d'eau d'un goût incroyable."
 Italian,un bicchiere d'acqua ha un sapore incredibile.
@@ -24395,7 +24395,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Water
-English_US,"Нет в мире радости, которая когда-либо сравнится с этим первым глотком."
+English_US,Никакая радость в мире не сравнится с этим первым глотком.
 Description,
 French,Aucun autre plaisir au monde ne peut rivaliser avec cette première gorgée.
 Italian,Non c'è gioia al mondo che possa paragonarsi a quel primo sorso.
@@ -24433,7 +24433,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Water
-English_US,Что еще похоже на это?
+English_US,Что ещё работает так же?
 Description,
 French,Existe-t-il autre chose de comparable ?
 Italian,Esiste altro che abbia lo stesso effetto?
@@ -24452,7 +24452,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Mushrooms
-English_US,"После того как я сбежала из дома, я проводила много времени в одном спортзале."
+English_US,"После того как я сбежала из дома, я проводила кучу времени в одном спортзале."
 Description,
 French,"Quand j'ai fui la maison, j'ai passé beaucoup de temps dans une salle de sport."
 Italian,"Dopo essere scappata di casa, ho trascorso molto tempo in palestra."
@@ -24490,7 +24490,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Mushrooms
-English_US,"В общем, этот парень считал грибы панацеей от всего на свете,"
+English_US,"Короче, этот парень считал грибы панацеей, типа, лекарством от всего на свете,"
 Description,"""cureall"" means something that can fix anything"
 French,"Enfin, ce type pensait que les champignons étaient une panacée, un remède universel,"
 Italian,"Comunque, questo tizio pensava che i funghi fossero una panacea per tutto,"
@@ -24509,7 +24509,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Mushrooms
-English_US,так что он всегда готовил грибы по-разному и уговаривал меня поесть.
+English_US,так что он вечно готовил грибы самыми разными способами и уговаривал меня попробовать.
 Description,
 French,alors il faisait toutes sortes de recettes à base de champignons pour m'encourager à en manger.
 Italian,perciò li cucinava sempre in tanti modi e mi incoraggiava a mangiarli.
@@ -24528,7 +24528,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Mushrooms
-English_US,"Я ненавидела грибы, ненавидела их."
+English_US,"Я ненавидела грибы, просто ненавидела."
 Description,
 French,"Je détestais les champignons, je les détestais."
 Italian,"Ma io odiavo i funghi, con tutto il cuore."
@@ -24547,7 +24547,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Mushrooms
-English_US,"Но просто... свобода наконец быть самой по себе, я начала ассоциировать эту свободу с грибами."
+English_US,"Но просто... та свобода, когда я наконец оказалась сама по себе — я начала ассоциировать эту свободу с грибами."
 Description,
 French,Mais bon… le simple fait d'être libre et livrée à moi-même m'a fait associer cette liberté aux champignons.
 Italian,"Però... per il semplice fatto di essere finalmente libera, iniziai ad associare quella libertà ai funghi."
@@ -24566,7 +24566,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Mushrooms
-English_US,"Даже сейчас, чувствуя вкус грибов в этом чае, я испытываю чувство, которое всё еще ненавижу, но в котором отчаянно нуждаюсь."
+English_US,"Даже сейчас, чувствуя вкус грибов в этом чае, я испытываю чувство, которое всё ещё ненавижу, но в котором отчаянно нуждаюсь."
 Description,
 French,"Aujourd'hui encore, le goût des champignons dans ce thé, ça me fait penser que je déteste toujours autant ça, mais que j'en ai désespérément besoin."
 Italian,"Ancora adesso, il sapore dei funghi in questo tè, mi dà la stessa sensazione di odio ma anche di disperato bisogno."
@@ -24585,7 +24585,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Plain
-English_US,"У меня когда-то был тренер, который был одержим чаем."
+English_US,"Был у меня один тренер, помешанный на чае."
 Description,
 French,J'ai eu un entraîneur qui était obsédé par le thé.
 Italian,Una volta ho avuto un allenatore ossessionato dal tè.
@@ -24604,7 +24604,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Plain
-English_US,"Он заставлял нас сидеть и пить его, и всегда утверждал, что в чае заключена вся эта глубокая мудрость."
+English_US,"Он заставлял нас сидеть и пить его, и вечно утверждал, что в чае скрыта какая-то глубокая мудрость."
 Description,
 French,Il me forçait à m'installer pour en boire et il ne cessait de dire que le thé renfermait une grande sagesse.
 Italian,"Mi forzava a berlo, e sosteneva sempre che nel tè ci fosse una profonda saggezza."
@@ -24623,7 +24623,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Plain
-English_US,Но это была просто болтовня.
+English_US,Но это была лишь болтовня.
 Description,
 French,Mais ce n'était que des mots.
 Italian,Ma erano solo parole.
@@ -24642,7 +24642,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Plain
-English_US,"Он вел себя так, будто это было бы очевидно, если бы мы только были внимательны,"
+English_US,"Он вёл себя так, будто это должно быть очевидно, стоит нам только проявить внимание,"
 Description,
 French,"Il faisait comme si c'était une évidence, comme s'il suffisait d'être attentif,"
 Italian,"Ci trattava come se fosse ovvio che, se solo avessimo prestato attenzione,"
@@ -24661,7 +24661,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Plain
-English_US,что каким-то образом мудрость раскроется сама собой.
+English_US,что эта мудрость как-то сама собой откроется.
 Description,
 French,comme si cette sagesse finirait par se révéler toute seule.
 Italian,la saggezza si sarebbe rivelata.
@@ -24680,7 +24680,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Plain
-English_US,"Когда я пью это, я вспоминаю его."
+English_US,Этот напиток напоминает мне о нём.
 Description,
 French,"En buvant ça, je me souviens de lui."
 Italian,Bere questo tè mi ricorda lui.
@@ -24699,7 +24699,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Plain
-English_US,"Фу. В следующий раз надо добавить какой-нибудь вкус, что-то большее, чем просто чайные листья."
+English_US,"Фу. В следующий раз надо добавить какого-то вкуса, чего-то большего, чем просто чайные листья."
 Description,
 French,"Beurk… il faudra que j'ajoute une saveur la prochaine fois, pas juste quelques feuilles de thé."
 Italian,Uh. La prossima volta dovrei aggiungere un po' di sapore oltre alle semplici foglie di tè.
@@ -24737,7 +24737,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Coffee
-English_US,"Он щелкает переключателем во мне, запускает мотор, который может работать долго, очень долго."
+English_US,"Он словно щёлкает во мне переключателем, заводит мотор, который может пахать очень, очень долго."
 Description,"""flips a switch"" and ""starts a motor"" are both metaphors indicating that a person is becoming active"
 French,"C'est un interrupteur, ça fait démarrer un moteur qui peut tourner très, très longtemps."
 Italian,È un interruttore che mette in moto un motore e lo fa durare molto più a lungo.
@@ -24756,7 +24756,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Coffee
-English_US,"Он не делает мои тренировки лучше, он просто настраивает меня на нужный лад."
+English_US,"Он не делает меня лучше в тренировках, просто создаёт нужный настрой."
 Description,
 French,"Ça ne me rend pas meilleure à l'entraînement, ça me met simplement dans un état d'esprit."
 Italian,"Non mi rende più brava nell'allenamento, ma mi fa entrare in uno stato mentale."
@@ -24775,7 +24775,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Coffee
-English_US,"И всё же вот я здесь, пью кофе, и я просто ничего не чувствую."
+English_US,"И всё же, вот она я, пью кофе и просто ничего не чувствую."
 Description,
 French,"Et pourtant, j'ai beau boire du café, je ne ressens plus rien."
 Italian,"Eppure, adesso che bevo il caffè, non sento proprio niente."
@@ -24813,7 +24813,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Coffee
-English_US,Это хорошо? Это плохо?? Я... я не знаю.
+English_US,Хорошо это? Или плохо?? Я... я не знаю.
 Description,
 French,Est-ce bien ? Est-ce mal ? Je… je ne sais pas.
 Italian,È un bene? È un male? Io... non lo so.
@@ -24851,7 +24851,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_SMT
-English_US,"О боже, что это за чертовщина?!"
+English_US,"О господи, что это за хрень?!"
 Description,
 French,"Oh là là, mais qu'est-ce que c'est que ça ?!"
 Italian,"Oh cielo, ma che diavolo è questo?"
@@ -24870,7 +24870,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_SMT
-English_US,"Всё моё лицо горит, такое чувство, что меня сейчас вырвет."
+English_US,"У меня всё лицо горит, такое чувство, что меня сейчас вырвет."
 Description,
 French,"J'ai le visage en feu, c'est comme si j'allais vomir."
 Italian,"Ho la faccia in fiamme, è quasi come se stessi per vomitare."
@@ -24889,7 +24889,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_SMT
-English_US,"Уф, погоди, погоди..."
+English_US,"Уф, погодите, погодите..."
 Description,
 French,"Aïe… tiens bon, tiens bon…"
 Italian,"Uff... resisti, resisti..."
@@ -24908,7 +24908,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_SMT
-English_US,фух фух
+English_US,*фух* *фух*
 Description,"Breathing heavily, struggling with something physically"
 French,*pfff* *pfff*
 Italian,*puff* *puff*
@@ -24927,7 +24927,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_SMT
-English_US,"Я... Я не могу ясно мыслить, весь мой мозг... как будто... меня поглощает..."
+English_US,"Я... я не могу ясно мыслить, весь мой мозг... словно... меня поглощает..."
 Description,
 French,"Je… je n'ai pas les idées claires, j'ai le cerveau comme… comme si on m'avalait…"
 Italian,"Non... non riesco a pensare lucidamente, il mio cervello è... come se... fossi ingoiata da..."
@@ -24946,7 +24946,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_SMT
-English_US,фух
+English_US,*фух*
 Description,
 French,*pfff*
 Italian,*puff*
@@ -24965,7 +24965,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_SMT
-English_US,"угх... ого, ладно, думаю, теперь начинает отпускать..."
+English_US,"ух... ого, ладно, кажется, начинает отпускать..."
 Description,
 French,"argh… waouh… bon, je crois que ça commence à se calmer…"
 Italian,"uh... bene, credo che stia iniziando a scemare..."
@@ -25003,7 +25003,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_SMT
-English_US,"Вздох... ладно, так когда придет чувство сосредоточенности и спокойствия?"
+English_US,"Вздох... ладно, и когда должно прийти чувство сосредоточенности и спокойствия?"
 Description,
 French,Bon… OK… quand est-ce que je vais retrouver un peu d'équilibre et de calme ?
 Italian,Allora... ahimè... quando riuscirò a ritrovare un po' di equilibrio e calmarmi?
@@ -25022,7 +25022,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_SMT
-English_US,"Я пока ничего не чувствую, только ужас."
+English_US,"Я пока ничего не чувствую, только то, что мне хреново."
 Description,
 French,"Je ne ressens toujours rien, c'est affreux."
 Italian,"Non sento ancora niente, è terribile."
@@ -25041,7 +25041,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_SMT
-English_US,"...э-э, спокойствие уже на подходе? Ау??"
+English_US,"...эм, спокойствие уже на подходе? Алло??"
 Description,
 French,… euh… le calme est de retour ? Y a quelqu'un ??
 Italian,… La calma… sta arrivando oppure non vuole saperne?
@@ -25079,7 +25079,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_SMT
-English_US,"Ну, я чувствую, будто мне в горло залили магму, кроме этого — ничего."
+English_US,"Ну, у меня такое чувство, будто мне в глотку залили магму, а кроме этого — ничего."
 Description,
 French,"Ah, c'est comme si on m'avait versé du magma dans la gorge, je ne ressens rien d'autre."
 Italian,"Mi sento come se mi avessero versato del magma in gola, e a parte questo, non sento niente."
@@ -25098,7 +25098,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_SMT
-English_US,Пфф. Что за чушь.
+English_US,Пфф. Чушь собачья.
 Description,
 French,Pfff… c'est n'importe quoi…
 Italian,Che mucchio di sciocchezze.
@@ -25117,7 +25117,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Book
-English_US,"Это просто... чай с книгами внутри. Это безвкусно, вообще никакого вкуса."
+English_US,"Это просто... чай с книгами внутри. У него вкус пустоты, вообще никакого аромата."
 Description,
 French,"C'est juste… du thé avec des livres dedans. Ça n'a goût de rien, il n'y a absolument aucune saveur."
 Italian,"È solo... un tè con dentro dei libri. Non ha sapore, non ha alcun sapore."
@@ -25136,7 +25136,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Book
-English_US,"Да, определенно не секретный рецепт, просто этот клиент никогда раньше не пил чай."
+English_US,"Да уж, определённо не секретный рецепт, просто этот клиент никогда раньше не пил чай."
 Description,
 French,"Ouais, c'est vraiment pas une recette secrète, ce client n'avait jamais bu de thé."
 Italian,"Di certo non si tratta di una ricetta segreta, quel cliente non ha mai bevuto il tè."
@@ -25155,7 +25155,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Aeon
-English_US,"Интересно, от него по всему телу пробегает странная дрожь."
+English_US,"Интересно, от него по всему телу бегут странные мурашки."
 Description,
 French,"Intéressant, on dirait que ça envoie des frissons bizarres dans tout le corps."
 Italian,"Interessante, fa venire degli strani brividi in tutto il corpo."
@@ -25193,7 +25193,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Aeon
-English_US,Как будто я могла бы встать и потанцевать или типа того.
+English_US,Будто я могу сейчас встать и станцевать или типа того.
 Description,
 French,Je pourrais presque me lever et me mettre à danser.
 Italian,Mi fa venir voglia di alzarmi e ballare.
@@ -25212,7 +25212,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Aeon
-English_US,"Да, окей, я понимаю, как это можно использовать в большом ритуале, меня немного трясет, и я готова двигаться."
+English_US,"Да, окей, я понимаю, как это можно использовать в большом ритуале, у меня лёгкий мандраж и готовность двигаться."
 Description,
 French,"Ouais, bon… je vois comment ça pourrait servir dans un rituel important, ça me rend nerveuse et prête à bouger."
 Italian,"Adesso capisco perché viene usato durante un rituale, mi rende un po' nevrotica e incline a muovermi."
@@ -25250,7 +25250,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_Aeon
-English_US,"Придется пить эту штуку довольно регулярно, чтобы продержаться всю церемонию."
+English_US,"Нужно пить эту штуку довольно регулярно, чтобы продержаться всю церемонию."
 Description,
 French,Il faudrait boire de ce truc sans arrêt pour que ça dure toute une cérémonie.
 Italian,Si dovrebbe bere questa roba di continuo per arrivare alla fine di un'intera cerimonia.
@@ -25269,7 +25269,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_LargeHybrid
-English_US,"Хм. {{Зенит}} сказал, что в растении есть, что, ""энергия""?"
+English_US,"Хм. {{Зенит}} сказал, что в растении есть, как там, «энергия»?"
 Description,
 French,"Euh… {{Zenith}} a dit qu'il y a… quoi… une ""énergie"" dans la plante ?"
 Italian,"Uh. {{Zenith}} ha detto che c'è… tipo… ""un'energia"" nella pianta?"
@@ -25288,7 +25288,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_LargeHybrid
-English_US,"Я, э-э... Я особо не чувствую ничего особенного на вкус."
+English_US,"Я, э-э... я не чувствую во вкусе ничего особенного."
 Description,
 French,Je… euh… je ne trouve aucun goût particulier.
 Italian,"Ma io, uh... non riesco a provare niente di speciale."
@@ -25307,7 +25307,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_LargeHybrid
-English_US,"Просто, типа... горько."
+English_US,"Просто, типа... горький."
 Description,
 French,C'est juste un peu… amer.
 Italian,È solo un po'... amara.
@@ -25326,7 +25326,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_LargeHybrid
-English_US,Вздох... со всей этой мистикой я никогда не могу понять: это чушь или я просто чего-то совершенно не догоняю.
+English_US,"Вздох... со всей этой мистической чепухой я никогда не могу понять: то ли это бред, то ли я просто совершенно этого не улавливаю."
 Description,
 French,"Ah… avec toutes ces histoires mystiques, je ne sais jamais si c'est n'importe quoi ou si je passe complètement à côté de quelque chose."
 Italian,"Ahimè… con tutta questa roba mistica, non so mai se sono sciocchezze o se mi sfugge completamente qualcosa."
@@ -25364,7 +25364,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_LargeHybrid
-English_US,Я не понимаю. Я ничего не чувствую.
+English_US,Я не врубаюсь. Я ничего не чувствую.
 Description,
 French,Je ne comprends pas. Je ne ressens rien.
 Italian,Non capisco. Non sento proprio niente.
@@ -25383,7 +25383,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_LargeHybrid
-English_US,"Я не чувствую себя мистической, или божественной, или какой там я должна себя чувствовать."
+English_US,"Я не чувствую ничего мистического, божественного или что я там должна чувствовать."
 Description,
 French,Je ne ressens rien de mystique ou de divin que je serais censée ressentir.
 Italian,Non provo niente di mistico e tantomeno divino.
@@ -25402,7 +25402,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tea_LargeHybrid
-English_US,Я чувствую только усталость.
+English_US,"Всё, что я чувствую — это усталость."
 Description,
 French,Je me sens juste fatiguée.
 Italian,Tutto quello che provo è tanta stanchezza.
@@ -25421,7 +25421,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MasterWinters
-English_US,Ладно... Я помню. Я добралась до её дома.
+English_US,Ладно... Я вспомнила. Я добралась до её дома.
 Description,
 French,OK… je me souviens. Je suis allée chez elle.
 Italian,Bene... adesso ricordo. Sono arrivata nella sua dimora.
@@ -25592,7 +25592,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MasterWinters
-English_US,Она наблюдала за мной всё это время. Она слушала.
+English_US,Она смотрела на меня всё это время. Она слушала.
 Description,
 French,"Elle m'a observée, sans arrêt. Elle écoutait."
 Italian,Mi ha contemplato per tutto il tempo che ho parlato. Mi ha ascoltato.
@@ -25611,7 +25611,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MasterWinters
-English_US,А потом... что случилось потом... потом мы сели на её кухне.
+English_US,А потом... что случилось потом... потом мы сели у неё на кухне.
 Description,
 French,"Et puis… que s'est-il passé alors… ? Alors, on s'est assises dans sa cuisine."
 Italian,E dopo... cosa è successo?... Dopo ci siamo accomodate in cucina.
@@ -25630,7 +25630,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MasterWinters
-English_US,"Я сказала ей, что хочу, чтобы она меня тренировала, чтобы вернула меня к самой себе."
+English_US,"Я сказала ей, что хочу, чтобы она меня тренировала, чтобы вернула меня к моей лучшей форме."
 Description,
 French,"Je lui ai dit que je voulais qu'elle m'entraîne, pour que je redevienne qui je suis vraiment."
 Italian,"Le ho detto che volevo che mi allenasse, che mi aiutasse a ritrovare la mia identità."
@@ -25725,7 +25725,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MasterWinters
-English_US,"Я помню это теперь, она наконец смотрит на меня после всего этого и говорит:"
+English_US,"Я теперь помню это, она наконец поднимает на меня глаза после всего этого и говорит:"
 Description,
 French,"Ça me revient maintenant, je la revois qui me regarde après tout ça et qui me dit…"
 Italian,Adesso mi sovviene… finalmente mi guarda e mi dice:
@@ -25782,7 +25782,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MasterWinters
-English_US,"Я не могу быть той, кто научит тебя этому, ибо на освоение этого требуется очень много времени, а у меня осталось не так много лет."
+English_US,"Я не могу быть той, кто научит тебя этому, ибо на освоение этого уходит очень много времени, а у меня осталось не так уж много лет."
 Description,
 French,"Je ne peux pas t'enseigner ça, parce que c'est très long à maîtriser, et il ne me reste pas assez d'années."
 Italian,"Non posso essere io a insegnartelo, perché ci vuole molto tempo per impararlo alla perfezione, e non mi restano abbastanza anni per farlo."
@@ -25801,7 +25801,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MasterWinters
-English_US,"Ты, должно быть, очень разочарована, ты проделала такой долгий путь и так много работала, просто чтобы добраться сюда."
+English_US,"Ты, должно быть, очень разочарована: ты проделала такой долгий путь и так истязала себя, просто чтобы добраться сюда."
 Description,
 French,"Tu es sûrement très déçue, tu as fait un long chemin et travaillé dur pour parvenir jusqu'ici."
 Italian,"Devi essere molto delusa, hai fatto tanta strada e hai lavorato sodo solo per arrivare fin qui."
@@ -25839,7 +25839,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MasterWinters
-English_US,"Мы можем гулять в саду, обсуждать наше прошлое и то, к чему мы стремимся, эти темы — благодатная почва для ума."
+English_US,"Мы можем гулять в саду, обсуждать наше прошлое и наши стремления, эти темы — благодатная почва для ума."
 Description,"""rich soil for the mind"" means that the mind flourishes with thoughts like these, as seeds in fertile soul would"
 French,"On peut aller marcher dans le jardin, discuter de notre passé et de nos aspirations, ces sujets sont comme de riches engrais pour l'esprit."
 Italian,"Potremmo passeggiare nel giardino, parlare del nostro passato e discutere le nostre aspirazioni. Questi argomenti sono un terreno fertile per la mente."
@@ -25858,7 +25858,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MasterWinters
-English_US,"Конечно, если ты пожелаешь уйти, я буду рада проводить тебя. Это полностью зависит от тебя."
+English_US,"Конечно, если ты пожелаешь уйти, я с радостью провожу тебя. Решать только тебе."
 Description,
 French,"Bien sûr, si tu préfères partir, je t'escorterai avec plaisir. C'est à toi de voir."
 Italian,"Ma se vuoi andartene, sarò felice di accompagnarti alla porta. È una tua scelta."
@@ -25877,7 +25877,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MasterWinters
-English_US,"Я сидела там, просто слушая, как она говорит всё это, говоря мне, что меня нельзя тренировать."
+English_US,"Я сидела там, просто слушая, как она говорит всё это, говорит мне, что меня нельзя тренировать."
 Description,
 French,"Je me suis assise là, en écoutant ce qu'elle avait à dire, en réalisant qu'elle ne m'entraînerait pas."
 Italian,"Ero seduta lì, ad ascoltarla mentre mi diceva che non poteva allenarmi."
@@ -25934,7 +25934,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MasterWinters
-English_US,"Эй, всё в порядке, ты будешь в порядке."
+English_US,"Эй, всё в порядке, с тобой всё будет хорошо."
 Description,
 French,"Allez, tout va bien, tout va s'arranger pour toi."
 Italian,"Ehi, va tutto bene, andrà tutto bene."
@@ -25953,7 +25953,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MasterWinters
-English_US,"Я знаю, как тебе помочь"
+English_US,"Я знаю, как тебе помочь."
 Description,
 French,Je sais comment t'aider.
 Italian,So come aiutarti.
@@ -25972,7 +25972,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MasterWinters
-English_US,Что я наделала?? Зачем я это сделала?! Я не пыталась этого сделать!
+English_US,Что я наделала?? Зачем я это сделала?! Я не пыталась это сделать!
 Description,The lines from here to row 376 are all meant to sound shocked and aggressive
 French,Qu'est-ce qui m'a pris ? Pourquoi j'ai fait ça ? Ce n'était pas mon intention !
 Italian,Ma cosa ho fatto? Perché l'ho fatto? Non avevo alcuna intenzione di farlo!
@@ -26029,7 +26029,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MasterWinters
-English_US,"Нет, нет, нет, я контролирую ситуацию. Я контролирую."
+English_US,"Нет, нет, нет, я контролирую себя. Я себя контролирую."
 Description,
 French,"Non, non, non, je suis en contrôle ! Je suis en contrôle !"
 Italian,"No, no, no, ho il controllo. Ho il controllo."
@@ -26086,7 +26086,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MasterWinters
-English_US,"Да что с тобой, черт возьми, не так?!"
+English_US,"Да что с тобой, чёрт возьми, такое?!"
 Description,
 French,Mais qu'est-ce qui cloche chez toi ?
 Italian,Che diavolo ti prende?
@@ -26105,7 +26105,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MasterWinters
-English_US,Убирайся от меня к черту! Не подходи!
+English_US,Убирайся от меня к чертям! Не подходи!
 Description,
 French,Ne t'approche pas de moi ! Dégage !
 Italian,Non ti avvicinare! Stai lontana!
@@ -26124,7 +26124,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MasterWinters
-English_US,Ты сумасшедшая?! Убирайся из моего дома! Вон!!
+English_US,Ты сумасшедшая?! Вон из моего дома! Убирайся!!
 Description,
 French,Tu es folle ? Sors de ma maison ! Sors d'ici !
 Italian,Sei pazza? Vattene da casa mia! Fuori!
@@ -26143,7 +26143,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MasterWinters
-English_US,"Это было худшее, что я когда-либо чувствовала в своей жизни."
+English_US,"Это было худшее чувство, которое я когда-либо испытывала в жизни."
 Description,
 French,C'est la pire chose que j'aie ressentie de toute ma vie.
 Italian,È la cosa peggiore che abbia mai provato in vita mia.
@@ -26219,7 +26219,7 @@ Swedish,
 Thai,
 Arabic,
 Key,MasterWinters
-English_US,Как будто этого никогда не было.
+English_US,Будто этого никогда не было.
 Description,
 French,Comme s'il ne s'était rien passé.
 Italian,Come se non fosse mai successo.
@@ -26238,7 +26238,7 @@ Swedish,
 Thai,
 Arabic,
 Key,FinalInterstitial
-English_US,Я хочу заслужить это. Я хочу заслужить твоё доверие. Дашь мне шанс?
+English_US,Я хочу заслужить это. Я хочу заслужить твоё доверие. Ты можешь дать мне шанс?
 Description,"""give me a shot"" means to trust me with an opportunity."
 French,Je veux la gagner. Je veux gagner ta confiance. Tu peux me laisser ma chance ?
 Italian,Voglio guadagnarmela. Voglio guadagnarmi la tua fiducia. Puoi darmi una possibilità?
@@ -26257,7 +26257,7 @@ Swedish,
 Thai,
 Arabic,
 Key,FinalInterstitial
-English_US,Постоянно. Навсегда. Так должно быть.
+English_US,Насовсем. Навсегда. Так должно быть.
 Description,"""it has to"" meaning ""this thing must happen"""
 French,Éternellement. Pour toujours. C'est obligé.
 Italian,Permanente. Per sempre. Per forza.
