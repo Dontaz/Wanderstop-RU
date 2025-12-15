@@ -892,7 +892,7 @@ Swedish,Monster
 Thai,สัตว์ประหลาด
 Arabic,
 Key,Nana
-English_US,{{Бабушка}}
+English_US,{{Бабуля}}
 Description,Character name
 French,{{Nana}}
 Italian,{{Nana}}
@@ -16757,7 +16757,7 @@ Swedish,Tea -begäran:<lf>Allt du känner för!
 Thai,คำขอชา:<lf>อะไรก็ได้ที่คุณรู้สึก!
 Arabic,
 Key,FieldGuideRequest_Tea_NanaTrade
-English_US,"Принесите любой предмет для обмена на что-то, принадлежащее {{Бабушке}}"
+English_US,"Принесите любой предмет для обмена на что-то, принадлежащее {{Бабуле}}"
 Description,
 French,Apporter un objet à troquer chez {{Nana}}
 Italian,Portare un oggetto da barattare con qualcosa di {{Nana}}
@@ -17099,7 +17099,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Nana1_Name
-English_US,Кофе для {{Бабушки}}
+English_US,Кофе для {{Бабули}}
 Description,
 French,Café pour {{Nana}}
 Italian,Caffè per {{Nana}}
@@ -17118,7 +17118,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Nana2_Name
-English_US,Кофе для {{Бабушки}}
+English_US,Кофе для {{Бабули}}
 Description,
 French,Café pour {{Nana}}
 Italian,Caffè per {{Nana}}
@@ -17973,7 +17973,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_NanaTrade
-English_US,"Принесите любой предмет {{Бабушке}} и посмотрите, обменяет ли она его."
+English_US,"Принесите любой предмет {{Бабуле}} и посмотрите, обменяет ли она его."
 Description,
 French,Apporte n'importe quel objet à {{Nana}} pour voir si elle accepte un troc.
 Italian,Porta un oggetto qualsiasi a {{Nana}} e vedi se accetta uno scambio.
