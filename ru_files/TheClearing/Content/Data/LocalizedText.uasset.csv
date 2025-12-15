@@ -8568,7 +8568,7 @@ Swedish,Pumpa ugn för att värma vatten
 Thai,ปั๊มเตาเผาน้ำอุ่น
 Arabic,
 Key,Tutorial_TransferToInfuser
-English_US,Перелейте воду в инфузор.
+English_US,Перелейте воду в заварник.
 Description,"This is an instruction, telling the player to do this thing.<lf>""Infuser"" is a device where tea is infused into water"
 French,Transfère l'eau dans l'infuseur.
 Italian,Trasferisci l'acqua nell'infusore.
@@ -8758,7 +8758,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tutorial_Valve_Infuser
-English_US,Сначала положите чайный шарик и фрукт {{Чип-Чип}} в инфузор.
+English_US,Сначала положите чайный шарик и фрукт {{Чип-Чип}} в заварник.
 Description,"This is an instruction, telling the player to do this thing."
 French,Mets d'abord une boule de thé et un fruit {{chip chip}} dans l'infuseur.
 Italian,Per prima cosa metti una pallina di tè e un frutto {{Chip Chip}} nell'infusore.
@@ -8777,7 +8777,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tutorial_Infuser
-English_US,"Возьмите предмет в руку, чтобы бросить его в инфузор."
+English_US,"Возьмите предмет в руку, чтобы бросить его в заварник."
 Description,"This is an instruction, telling the player to do this thing."
 French,Prends un objet dans ta main pour le jeter dans l'infuseur.
 Italian,Metti in mano un oggetto per gettarlo nell'infusore.
@@ -13926,7 +13926,7 @@ Swedish,"Steg 2: Värm vattnet<lf><lf>Pumpa ugnen för att värma vattnet. Forts
 Thai,ขั้นตอนที่ 2: ให้ความร้อนแก่น้ำ<lf><lf>ปั๊มเตาเผาน้ำให้ร้อน เดินต่อไปจนกว่าน้ำจะเดือดคุณจะเห็นไอน้ำเพิ่มขึ้นจากมัน
 Arabic,
 Key,FieldGuide_Tasks_TeaMachine3
-English_US,<Step>ШАГ 3</><lf><Title>Перелейте в инфузор</><lf>Пните вентиль сбоку бака с водой. Это перельёт горячую воду в инфузор.
+English_US,<Step>ШАГ 3</><lf><Title>Перелейте в заварник</><lf>Пните вентиль сбоку бака с водой. Это перельёт горячую воду в заварник.
 Description,
 French,<Step>ÉTAPE 3</><lf><Title>Transférez dans l'infuseur</><lf>Donnez un coup de pied sur la valve du réservoir pour faire passer l'eau chaude dans l'infuseur.
 Italian,<Step>3ª FASE</><lf><Title>Trasferire nell'infusore</><lf>Dai un colpetto con il piede alla valvola che si trova sul lato del serbatoio per trasferire l'acqua bollente nell'infusore.
@@ -13945,7 +13945,7 @@ Swedish,Steg 3: Överför till Infuser<lf><lf>Sparka ventilen på sidan av vatte
 Thai,ขั้นตอนที่ 3: โอนไปยัง infuser<lf><lf>เตะวาล์วที่ด้านข้างของถังเก็บน้ำ สิ่งนี้จะถ่ายโอนน้ำร้อนไปยัง infuser
 Arabic,
 Key,FieldGuide_Tasks_TeaMachine4
-English_US,"<Step>ШАГ 4</><lf><Title>Добавьте чай</><lf>Бросьте чайный шарик в инфузор, а также любые фрукты и ингредиенты для вкуса. Цвет воды не изменится, пока вы не добавите чайный шарик."
+English_US,"<Step>ШАГ 4</><lf><Title>Добавьте чай</><lf>Бросьте чайный шарик в заварник, а также любые фрукты и ингредиенты для вкуса. Цвет воды не изменится, пока вы не добавите чайный шарик."
 Description,
 French,"<Step>ÉTAPE 4</><lf><Title>Ajoutez le thé</><lf>Jetez une boule de thé dans l'infuseur, accompagnée de tous les fruits et ingrédients à ajouter pour la saveur. La couleur de l'eau ne changera pas tant que vous n'ajoutez pas la boule de thé."
 Italian,"<Step>4ª FASE</><lf><Title>Aggiungere gli ingredienti</><lf>Metti una pallina di tè nell'infusore, insieme alla frutta e agli ingredienti che desideri aggiungere per insaporire. Il colore dell'acqua cambierà quando aggiungerai la pallina di tè."
@@ -13964,7 +13964,7 @@ Swedish,"Steg 4: Tillsätt te<lf><lf>Kasta en tejoll i infusören, liksom vad so
 Thai,ขั้นตอนที่ 4: เพิ่มชา<lf><lf>โยนลูกชาลงใน infuser เช่นเดียวกับผลไม้และส่วนผสมที่คุณต้องการเพิ่มเพื่อรสชาติ
 Arabic,
 Key,FieldGuide_Tasks_TeaMachine5
-English_US,"<Step>ШАГ 5</><lf><Title>Перелейте на Пираливку</><lf>Пните вентиль сбоку инфузора, чтобы перелить чай на Пираливку."
+English_US,"<Step>ШАГ 5</><lf><Title>Перелейте на Пираливку</><lf>Пните вентиль сбоку заварника, чтобы перелить чай на Пираливку."
 Description,"""Pouramid"" is a pun mashup of the words Pour and Pyramid. The meaning of the name is more important than the pun, so don't translate this directly if it would sacrifice meaning. If you're not able to translate it directly, then just translate all instances of Pouramid as ""pouring station"" instead."
 French,<Step>ÉTAPE 5</><lf><Title>Transférez dans le spirallon</><lf>Donnez un coup de pied sur la valve de l'infuseur pour transférer le thé dans le spirallon.
 Italian,<Step>5ª FASE</><lf><Title>Trasferire nella Spiramide</><lf>Dai un colpetto con il piede alla valvola che si trova sul lato del serbatoio per trasferire l'infuso nella Spiramide.
@@ -14249,7 +14249,7 @@ Swedish,KAFFEBÖNOR:<lf><lf>Kaffeanläggningar kommer att växa runt rensningen.
 Thai,เมล็ดกาแฟ:<lf><lf>พืชกาแฟจะเติบโตรอบ ๆ สำนักหักบัญชี<lf><lf>เพียงแค่เข้าหาหนึ่งและเลือกเมล็ดกาแฟออกจากศูนย์<lf><lf>ถั่วเพียงตัวเดียวเท่านั้นที่จะวางไข่ต่อต้น
 Arabic,
 Key,FieldGuide_Tasks_Coffee2
-English_US,"Кофейные зёрна растут прямо из земли, поэтому они довольно грязные. Обязательно пропустите каждое зерно через посудомойку перед приготовлением кофе.<lf><lf>После того как зерно помыто, бросьте его в чайный инфузор, как любой другой ингредиент. Заварка превратится в кофе."
+English_US,"Кофейные зёрна растут прямо из земли, поэтому они довольно грязные. Обязательно пропустите каждое зерно через посудомойку перед приготовлением кофе.<lf><lf>После того как зерно помыто, бросьте его в чайный заварник, как любой другой ингредиент. Заварка превратится в кофе."
 Description,
 French,"Les grains de café sortent du sol et peuvent être un peu sales. Il faut penser à passer chaque grain au lave-vaisselle avant de faire du café avec.<lf> <lf>Une fois un grain lavé, passez-le dans votre infuseur à thé exactement comme vous le faites avec tout autre ingrédient. Vous obtiendrez du café."
 Italian,"Le piante di caffè escono direttamente dalla terra, per cui i chicchi sono piuttosto sporchi. Assicurati di lavare ciascun chicco prima di prepararci il caffè.<lf>  <lf>Dopo averlo lavato, mettilo nell'infusore per il tè proprio come faresti con qualsiasi altro ingrediente. Così facendo otterrai il caffè."
@@ -17365,7 +17365,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Batkid1
-English_US,"Бросьте книгу в воду в инфузоре. Вы можете использовать любую книгу, даже эту! Нагрев или чайный шарик не требуются."
+English_US,"Бросьте книгу в воду в заварник. Вы можете использовать любую книгу, даже эту! Нагрев или чайный шарик не требуются."
 Description,
 French,"Jette un livre dans l'eau d'infusion. Tu peux utiliser n'importe quel livre, même celui-ci ! Il n'y a besoin ni de chauffer ni de boule de thé."
 Italian,"Metti un libro nell'acqua dell'infusore. Puoi usare qualsiasi libro, anche questo! Non è richiesta nessuna temperatura alta o pallina di tè."
@@ -17441,7 +17441,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Bird1
-English_US,"Сделайте Призрачный фрукт с изменённым цветом, посадив три Цветогриба вокруг растения Призрачная роза, затем полейте Призрачную розу, чтобы получить Призрачный фрукт с изменённым цветом. Положите Призрачный фрукт с изменённым цветом, обычный Призрачный фрукт и Росток {{Вайпур}} в чайный инфузор вместе с чайным шариком."
+English_US,"Сделайте Призрачный фрукт с изменённым цветом, посадив три Цветогриба вокруг растения Призрачная роза, затем полейте Призрачную розу, чтобы получить Призрачный фрукт с изменённым цветом. Положите Призрачный фрукт с изменённым цветом, обычный Призрачный фрукт и Росток {{Вайпур}} в чайный заварник вместе с чайным шариком."
 Description,
 French,"Fais pousser un fruit fantôme aux couleurs inversées en plantant trois champis-nuances autour d'une rose fantôme. Ensuite, arrose la rose fantôme pour obtenir un fruit fantôme aux couleurs inversées. Place le fruit fantôme aux couleurs inversées, un fruit fantôme aux couleurs non inversées et un chou {{waypur}} dans l'infuseur avec une boule de thé."
 Italian,"Crea un frutto Fantasma con colori scambiati piantando tre funghi Sfumatura attorno a una pianta di rosa Fantasma, poi annaffia la rosa Fantasma per ottenere un frutto Fantasma con colori scambiati. Metti il ​​frutto Fantasma con colori scambiati, il frutto Fantasma senza colori scambiati e un germoglio di {{Waypur}} nell'infusore del tè insieme a una pallina di tè."
@@ -17707,7 +17707,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Nana1
-English_US,"Нагрейте воду до кипения, положите в неё два мытых кофейных зерна, затем налейте любое количество в чашку. Затем налейте немного свежей воды и нагрейте её совсем чуть-чуть, чтобы полоска нагрева была между 0 и 100. Переместите это в инфузор и бросьте туда Фрукт {{Вейлинг}}, Сладкий {{Милиум}} и мытое кофейное зерно. Затем вылейте любое количество этой смеси прямо в первую чашку."
+English_US,"Нагрейте воду до кипения, положите в неё два мытых кофейных зерна, затем налейте любое количество в чашку. Затем налейте немного свежей воды и нагрейте её совсем чуть-чуть, чтобы полоска нагрева была между 0 и 100. Переместите это в заварник и бросьте туда Фрукт {{Вейлинг}}, Сладкий {{Милиум}} и мытое кофейное зерно. Затем вылейте любое количество этой смеси прямо в первую чашку."
 Description,
 French,"Fais bouillir de l'eau, ajoute-y deux grains de café lavés, puis verse n'importe quelle quantité de ce mélange dans une tasse. Ensuite, verse de l'eau fraîche et fais-la chauffer juste un peu, de façon à ce que la barre de température reste entre 0 et 100. Mets ta mixture dans l'infuseur et ajoute-y un fruit de {{weyling}}, un {{meelium}} doux et un grain de café lavé. Verse-en n'importe quelle quantité dans la première tasse."
 Italian,"Fai bollire dell'acqua, mettici due chicchi di caffè lavati, e versa la quantità desiderata in una tazza. In un'altra tazza, scalda leggermente dell'acqua fredda, in modo che la temperatura sia compresa tra 0 e 100, poi versala nell'infusore insieme ad un {{Weyling}}, un {{Meelium}} dolce e un chicco di caffè lavato. Versa infine una quantità a piacere di questa miscela direttamente nella prima tazza."
@@ -17726,7 +17726,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Nana2
-English_US,"Нагрейте воду до кипения, положите в неё три мытых кофейных зерна, затем налейте любое количество этого в чашку. Затем налейте немного свежей воды и нагрейте её совсем чуть-чуть, чтобы полоска нагрева была между 0 и 100. Переместите это в инфузор и бросьте туда Фрукт {{Вейлинг}}, {{Кувырдыню}} и мытое кофейное зерно. Затем вылейте любое количество этой смеси прямо в первую чашку."
+English_US,"Нагрейте воду до кипения, положите в неё три мытых кофейных зерна, затем налейте любое количество этого в чашку. Затем налейте немного свежей воды и нагрейте её совсем чуть-чуть, чтобы полоска нагрева была между 0 и 100. Переместите это в заварник и бросьте туда Фрукт {{Вейлинг}}, {{Кувырдыню}} и мытое кофейное зерно. Затем вылейте любое количество этой смеси прямо в первую чашку."
 Description,
 French,"Porte de l'eau à ébullition, ajoute-y trois grains de café lavés, puis verse n'importe quelle quantité de ce mélange dans une tasse. Ensuite, verse de l'eau fraîche et fais chauffer légèrement, de façon à ce que la barre de température reste entre 0 et 100. Apporte ta mixture dans l'infuseur et ajoute-y un fruit de {{weyling}}, un {{pellmelon}} et un grain de café lavé. Verse-en n'importe quelle quantité dans la première tasse."
 Italian,"Fai bollire dell'acqua, mettici tre chicchi di caffè lavati, e versa la quantità desiderata in una tazza. In un'altra tazza, scalda leggermente dell'acqua fredda, in modo che la temperatura sia compresa tra 0 e 100, poi versala nell'infusore insieme ad un {{Weyling}}, un {{Pellmelon}} e un chicco di caffè lavato. Versa infine una quantità a piacere di questa miscela direttamente nella prima tazza."
@@ -17821,7 +17821,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Stargirl1b
-English_US,"Налейте свежую воду, но не нагревайте её. Переместите её в инфузор и добавьте Гриб-близнец (можно найти на краю поляны) и Росток {{Вайпур}}. Затем окружите Папоротник {{Пухоструч}} тремя Цветогрибами, чтобы изменить его цвет, затем полейте растение с изменённым цветом, чтобы получить один из его фруктов, и положите его в инфузор. Затем добавьте Синюю петлю. Наконец, добавьте два чайных шарика. Ожидание в одну минуту между двумя чайными шариками помогает вкусу, но не является строго обязательным для приготовления адекватного Варева {{Вечности}}."
+English_US,"Налейте свежую воду, но не нагревайте её. Переместите её в заварник и добавьте Гриб-близнец (можно найти на краю поляны) и Росток {{Вайпур}}. Затем окружите Папоротник {{Пухоструч}} тремя Цветогрибами, чтобы изменить его цвет, затем полейте растение с изменённым цветом, чтобы получить один из его фруктов, и положите его в заварник. Затем добавьте Синюю петлю. Наконец, добавьте два чайных шарика. Ожидание в одну минуту между двумя чайными шариками помогает вкусу, но не является строго обязательным для приготовления адекватного Варева {{Вечности}}."
 Description,
 French,"Verse de l'eau fraîche sans la faire chauffer. Place-la dans l'infuseur et ajoute un champi-doublon (on en trouve à la lisière de la clairière) et un chou {{waypur}}. Ensuite, entoure une fougère {{puffpod}} avec trois champis-nuances pour inverser ses couleurs, puis arrose la plante aux couleurs inversées pour récolter un de ses fruits et place-le dans l'infuseur. Ensuite, ajoute une boucle bleue. Enfin, ajoute deux boules de thé. Attendre une minute entre les deux boules de thé améliore le goût, mais ce délai n'est pas indispensable pour préparer une bonne infusion d'{{Aeon}}."
 Italian,"Versa acqua fredda senza scaldarla. Mettila nell'infusore e aggiungi un fungo Doppio (che si può trovare lungo il bordo della radura) e un germoglio di {{Waypur}}. Successivamente, circonda una felce {{Puffpod}} con tre funghi Sfumatura per scambiarne il colore, poi annaffia la pianta scambiata di colore per ottenere uno dei suoi frutti e mettilo nell'infusore. Successivamente, aggiungi un Anello Blu. Infine, aggiungi due palline di tè. Far passare un minuto tra le due palline di tè aiuta a esaltare il sapore, ma non è strettamente necessario per preparare un buon infuso di {{Aeon}}."
@@ -17859,7 +17859,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Zenith2
-English_US,"Сначала сделайте любой Большой гибрид и получите один из его фруктов. Затем уменьшите размер Большого гибрида, окружив его тремя Грибами-малютками. Как только он станет маленьким, подберите его переносным горшком и бросьте в воду в инфузоре. Также добавьте фрукт, который вы получили с Большого гибрида, и семечко, которое использовалось для его создания. Налейте напиток и подавайте."
+English_US,"Сначала сделайте любой Большой гибрид и получите один из его фруктов. Затем уменьшите размер Большого гибрида, окружив его тремя Грибами-малютками. Как только он станет маленьким, подберите его переносным горшком и бросьте в воду в заварнике. Также добавьте фрукт, который вы получили с Большого гибрида, и семечко, которое использовалось для его создания. Налейте напиток и подавайте."
 Description,
 French,"Commence par créer n'importe quel grand hybride et récolte un de ses fruits. Ensuite, réduis sa taille en l'entourant de trois champis-minues. Une fois l'hybride diminué, récolte-le dans un pot portatif et ajoute-le dans l'eau de l'infuseur. Ajoute aussi le fruit récolté sur le grand hybride et une graine qui a servi à le faire pousser. Verse et sers."
 Italian,"Per prima cosa crea un grande ibrido e prendi uno dei suoi frutti. Poi riduci le sue dimensioni circondandolo con tre funghi Mini. Quando l'ibrido si è rimpicciolito, raccoglilo con un pentolino e mettilo nell'acqua dell'infusore. Aggiungi anche il frutto che hai ottenuto dal grande ibrido e un seme che è servito per farlo crescere. Versa la bevanda e servi."
