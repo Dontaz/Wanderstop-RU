@@ -1747,7 +1747,7 @@ Swedish,Rödbetor
 Thai,Vreetle Beet
 Arabic,
 Key,ItemLabel_FruitBB
-English_US,Фрукт {{Аззи}}
+English_US,Плод {{Аззи}}
 Description,
 French,Fruit d'{{azzy}}
 Italian,Frutto di {{Azzy}}
@@ -1823,7 +1823,7 @@ Swedish,Bitbär
 Thai,การกัด
 Arabic,
 Key,ItemLabel_FruitCB
-English_US,Фрукт {{Вейлинг}}
+English_US,Плод {{Вейлинг}}
 Description,
 French,Fruit de {{weyling}}
 Italian,Frutto di {{Weyling}}
@@ -1956,7 +1956,7 @@ Swedish,Prisma peppar
 Thai,ปริซึมพริกไทย
 Arabic,
 Key,ItemLabel_FruitDD
-English_US,Призрачный фрукт
+English_US,Призрачный плод
 Description,
 French,Fruit fantôme
 Italian,Frutto Fantasma
@@ -2602,7 +2602,7 @@ Swedish,
 Thai,
 Arabic,
 Key,ItemLabel_Shroom_Shrink
-English_US,Гриб-малютка
+English_US,Сжимогрибушка
 Description,"Shrink meaning ""to shrink something down to a smaller size"""
 French,Champi-minue
 Italian,Fungo Mini
@@ -8758,7 +8758,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tutorial_Valve_Infuser
-English_US,Сначала положите чайный шарик и фрукт {{Чип-Чип}} в заварник.
+English_US,Сначала положите чайный шарик и плод {{Чип-Чип}} в заварник.
 Description,"This is an instruction, telling the player to do this thing."
 French,Mets d'abord une boule de thé et un fruit {{chip chip}} dans l'infuseur.
 Italian,Per prima cosa metti una pallina di tè e un frutto {{Chip Chip}} nell'infusore.
@@ -8986,7 +8986,7 @@ Swedish,På tangentbordet: f
 Thai,บนคีย์บอร์ด: F
 Arabic,
 Key,Tutorial_FruitEffects_Title
-English_US,Эффекты фруктов
+English_US,Эффекты плодов
 Description,The effect that comes from consuming fruits
 French,Effets des fruits
 Italian,Effetti dei frutti
@@ -9005,7 +9005,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tutorial_FruitEffects_Description
-English_US,"<TutorialEmphasis>Ваш Полевой справочник</> также содержит информацию о разных фруктах и различных эффектах, которые они дают при употреблении."
+English_US,"<TutorialEmphasis>Ваш Полевой справочник</> также содержит информацию о разных плодах и различных эффектах, которые они дают при употреблении."
 Description,
 French,<TutorialEmphasis>Ton guide pratique</> recense aussi les informations sur les différents fruits et leurs divers effets quand on les consomme.
 Italian,<TutorialEmphasis>La tua Guida Pratica</> contiene anche le informazioni sui frutti e i loro vari effetti quando vengono consumati.
@@ -9157,7 +9157,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tutorial_TeaMonologues_Description
-English_US,"<TutorialEmphasis>Разные вкусы чая</> вызовут у {{Альты}} разные мысли, когда она сядет чаёвничать. Указанная наклейка появится в вашем Полевом справочнике рядом с любым фруктом, о котором {{Альта}} высказала свои мысли.<lf><lf>Чайные листья не требуются для приготовления чая для {{Альты}}."
+English_US,"<TutorialEmphasis>Разные вкусы чая</> вызовут у {{Альты}} разные мысли, когда она сядет чаёвничать. Указанная наклейка появится в вашем Полевом справочнике рядом с любым плодом, о котором {{Альта}} высказала свои мысли.<lf><lf>Чайные листья не требуются для приготовления чая для {{Альты}}."
 Description,
 French,<TutorialEmphasis>Les différentes saveurs des thés</> feront naître des pensées différentes chez {{Alta}} lorsqu'elle s'assoit pour boire. L'étiquette ci-dessus sera imprimée dans ton guide pratique à côté de tous les fruits pour lesquels {{Alta}} a partagé ses pensées.<lf>  <lf> Les feuilles de thé ne sont pas obligatoires quand tu fais du thé pour {{Alta}}.
 Italian,<TutorialEmphasis>I vari gusti del tè</> evocheranno pensieri diversi in {{Alta}} quando si siederà a berli. L'etichetta qui sopra verrà messa nella tua Guida Pratica in corrispondenza dei frutti con cui {{Alta}} ha condiviso i suoi pensieri.<lf><lf>Le foglie di tè non sono obbligatorie quando si prepara una bevanda per {{Alta}}.
@@ -10468,7 +10468,7 @@ Swedish,
 Thai,
 Arabic,
 Key,TutorialName_FruitEffects
-English_US,Эффекты фруктов
+English_US,Эффекты плодов
 Description,
 French,Effets des fruits
 Italian,Effetti dei frutti
@@ -13945,7 +13945,7 @@ Swedish,Steg 3: Överför till Infuser<lf><lf>Sparka ventilen på sidan av vatte
 Thai,ขั้นตอนที่ 3: โอนไปยัง infuser<lf><lf>เตะวาล์วที่ด้านข้างของถังเก็บน้ำ สิ่งนี้จะถ่ายโอนน้ำร้อนไปยัง infuser
 Arabic,
 Key,FieldGuide_Tasks_TeaMachine4
-English_US,"<Step>ШАГ 4</><lf><Title>Добавьте чай</><lf>Бросьте чайный шарик в заварник, а также любые фрукты и ингредиенты для вкуса. Цвет воды не изменится, пока вы не добавите чайный шарик."
+English_US,"<Step>ШАГ 4</><lf><Title>Добавьте чай</><lf>Бросьте чайный шарик в заварник, а также любые плоды и ингредиенты для вкуса. Цвет воды не изменится, пока вы не добавите чайный шарик."
 Description,
 French,"<Step>ÉTAPE 4</><lf><Title>Ajoutez le thé</><lf>Jetez une boule de thé dans l'infuseur, accompagnée de tous les fruits et ingrédients à ajouter pour la saveur. La couleur de l'eau ne changera pas tant que vous n'ajoutez pas la boule de thé."
 Italian,"<Step>4ª FASE</><lf><Title>Aggiungere gli ingredienti</><lf>Metti una pallina di tè nell'infusore, insieme alla frutta e agli ingredienti che desideri aggiungere per insaporire. Il colore dell'acqua cambierà quando aggiungerai la pallina di tè."
@@ -14667,7 +14667,7 @@ Swedish,
 Thai,
 Arabic,
 Key,FieldGuideEntry_Fruit
-English_US,ФРУКТ
+English_US,ПЛОД
 Description,
 French,FRUIT
 Italian,FRUTTA
@@ -14800,7 +14800,7 @@ Swedish,
 Thai,
 Arabic,
 Key,FieldGuideEntry_SpokeAA_Desc
-English_US,"Освежающий фрукт с мятной начинкой. Его употребление напоминает вам о тех, кто был к вам несправедлив."
+English_US,"Освежающий плод с мятной начинкой. Его употребление напоминает вам о тех, кто был к вам несправедлив."
 Description,
 French,"Un fruit plein de menthe, rafraîchissant pour le palais. En consommer rappelle les gens qui vous ont fait du tort."
 Italian,Un frutto rinfrescante al sapore di menta. Consumarlo fa ricordare coloro che ti hanno fatto del male.
@@ -15066,7 +15066,7 @@ Swedish,Azzys blomma
 Thai,ดอกไม้ของ Azzy
 Arabic,
 Key,FieldGuideEntry_SpokeBB_Fruit
-English_US,Фрукт {{Аззи}}
+English_US,Плод {{Аззи}}
 Description,
 French,Fruit d'{{azzy}}
 Italian,Frutto d'{{Azzy}}
@@ -15294,7 +15294,7 @@ Swedish,Vingsträd
 Thai,ต้นไม้ Weyling
 Arabic,
 Key,FieldGuideEntry_SpokeCB_Fruit
-English_US,Фрукт {{Вейлинг}}
+English_US,Плод {{Вейлинг}}
 Description,
 French,Fruit de {{weyling}}
 Italian,{{Weyling}}
@@ -15484,7 +15484,7 @@ Swedish,
 Thai,
 Arabic,
 Key,FieldGuideEntry_SpokeDA_Desc
-English_US,"Фрукт сожалений; съев его, человек с большей вероятностью признается в своих ошибках. На вкус как абрикосы."
+English_US,"Плод сожалений; съев его, человек с большей вероятностью признается в своих ошибках. На вкус как абрикосы."
 Description,
 French,Le fruit des regrets. En manger pousse à confesser ses erreurs. A le goût de l'abricot.
 Italian,"Il frutto del rammarico, che spinge a confessare i propri errori. Ha il sapore di albicocca."
@@ -15598,7 +15598,7 @@ Swedish,
 Thai,
 Arabic,
 Key,FieldGuideEntry_SpokeDC_Desc
-English_US,"Насыщенный и шоколадный, считается фруктом подземного мира. Заставляет употреблять слово «треугольник» в разговоре."
+English_US,"Насыщенный и шоколадный, считается плодом подземного мира. Заставляет употреблять слово «треугольник» в разговоре."
 Description,
 French,"Riches et chocolatés. On dit que ce sont les fruits du monde souterrain. Ils forcent à prononcer le mot ""triangle"" dans une conversation."
 Italian,"Ricchi e cioccolatosi, si dice siano il frutto degli inferi. Costringono a usare la parola ""triangolo"" nella conversazione."
@@ -15636,7 +15636,7 @@ Swedish,Spöke
 Thai,ผีกุหลาบ
 Arabic,
 Key,FieldGuideEntry_SpokeDD_Fruit
-English_US,Призрачные фрукты
+English_US,Призрачные плоды
 Description,
 French,Fruits fantômes
 Italian,Frutti Fantasma
@@ -16016,7 +16016,7 @@ Swedish,Dupe shroom
 Thai,ตักหน้า Shroom
 Arabic,
 Key,FieldGuide_MushroomName_Shrink
-English_US,Гриб-малютка
+English_US,Сжимогрибушка
 Description,
 French,Champi-minue
 Italian,Fungo Mini
@@ -16111,7 +16111,7 @@ Swedish,Krympa den stora hybriden ner till pot-kantstorlek
 Thai,ลดขนาดลูกผสมขนาดใหญ่ลงไปที่ขนาดหม้อ
 Arabic,
 Key,FieldGuide_MushroomDesc_Color
-English_US,Меняет цвет Большого гибрида (и его фруктов) на альтернативную палитру
+English_US,Меняет цвет Большого гибрида (и его плодов) на альтернативную палитру
 Description,
 French,Change la couleur du grand hybride (et de ses fruits) vers une autre palette.
 Italian,Cambia il colore del grande ibrido (e dei suoi frutti) in una tonalità alternativa.
@@ -16130,7 +16130,7 @@ Swedish,
 Thai,
 Arabic,
 Key,FieldGuide_MushroomDesc_Sprout
-English_US,Заставляет Большой гибрид производить безделушки вместо фруктов
+English_US,Заставляет Большой гибрид производить безделушки вместо плодов
 Description,"""trinket"" meaning a small toy or knick-knack"
 French,"Avec ça, le grand hybride produit des babioles au lieu de fruits."
 Italian,Fa produrre dei ninnoli al posto dei frutti al grande Ibrido.
@@ -16206,7 +16206,7 @@ Swedish,Tea -begäran:<lf>- Miracle Pomme (fråga Boro)
 Thai,คำขอชา:<lf>- Miracle Pomme (ถาม Boro)
 Arabic,
 Key,FieldGuideRequest_Tea_Batkid3b
-English_US,"<RequestTitle>Запрос чая:</><lf>• Чудо-{{Яблочко}} (окружите Дерево {{Вейлинг}} тремя Цветогрибами).<lf>• Если хотите сделать напиток более восхитительным, можете добавить два других фрукта для цвета."
+English_US,"<RequestTitle>Запрос чая:</><lf>• Чудо-{{Яблочко}} (окружите Дерево {{Вейлинг}} тремя Цветогрибами).<lf>• Если хотите сделать напиток более восхитительным, можете добавить два других плода для цвета."
 Description,
 French,"<RequestTitle>Thé demandé :</><lf>• {{Pomme}} miracle (entourer un arbre à {{weyling}} de trois champis-nuance)<lf>• Pour faire une boisson encore plus savoureuse, on peut ajouter deux autres fruits pour la couleur."
 Italian,"<RequestTitle>Richiesta di tè:</><lf>• Miracolo di {{Pomme}} (circonda un albero di {{Weyling}} con tre funghi Sfumatura)<lf>• Per renderlo ancora più piacevole, puoi dargli colore con l'aggiunta di altri due frutti."
@@ -16225,7 +16225,7 @@ Swedish,Tea -begäran:<lf>- Miracle Pomme (Surround a Messberry Plant med 3 Colo
 Thai,คำขอชา:<lf>- Miracle Pomme (ล้อมรอบโรงงาน Messberry ที่มีเห็ด 3 สี wap)
 Arabic,
 Key,FieldGuideRequest_Tea_Bird1
-English_US,<RequestTitle>Запрос чая:</><lf>• Лаванда<lf>• Призрачный фрукт<lf>• Призрачный фрукт с изменённым цветом
+English_US,<RequestTitle>Запрос чая:</><lf>• Лаванда<lf>• Призрачный плод<lf>• Призрачный плод с изменённым цветом
 Description,
 French,<RequestTitle>Thé demandé :</><lf>• Lavande<lf>• Fruit fantôme<lf>• Fruit fantôme aux couleurs inversées
 Italian,<RequestTitle>Richiesta di tè:</><lf>• Lavanda<lf>• Frutto Fantasma<lf>• Frutto Fantasma con colori scambiati
@@ -16282,7 +16282,7 @@ Swedish,
 Thai,
 Arabic,
 Key,FieldGuideRequest_Tea_Business3
-English_US,"<RequestTitle>Запрос:</><lf>• Кофе, содержащий фрукт с минимальным вкусом"
+English_US,"<RequestTitle>Запрос:</><lf>• Кофе, содержащий плод с минимальным вкусом"
 Description,
 French,<RequestTitle>Demande :</><lf>• Café avec un fruit aussi peu goûteux que possible
 Italian,<RequestTitle>Richiesta:</><lf>• Caffè con un frutto con meno sapore possibile
@@ -16529,7 +16529,7 @@ Swedish,Tea -begäran:<lf>- Målad kalebass<lf>- bitbär
 Thai,คำขอชา:<lf>- กวนทาสี<lf>- กัด
 Arabic,
 Key,FieldGuideRequest_Tea_Ren2
-English_US,"<RequestTitle>Запрос чая:</><lf>• Фруктовый вкус, который напоминает о «страсти»"
+English_US,"<RequestTitle>Запрос чая:</><lf>• Плодовый вкус, который напоминает о «страсти»"
 Description,
 French,"<RequestTitle>Thé demandé :</><lf>• Une saveur fruitée qui apporte la ""passion"" à l'âme"
 Italian,"<RequestTitle>Richiesta di tè:</><lf>• Un sapore fruttato che ricorda la ""passione"""
@@ -16624,7 +16624,7 @@ Swedish,I ordning:<lf>- Kallt vatten<lf>- dupe shroom<lf>- Waypur Sprout<lf>- Te
 Thai,ตามลำดับ:<lf>- น้ำเย็น<lf>- ตักหน้า Shroom<lf>- ต้นกล้า Waypur<lf>- ลูกชา<lf>- รอ 1 นาที<lf>- ลูกชา
 Arabic,
 Key,FieldGuideRequest_Tea_Zenith1
-English_US,"<RequestTitle>Запрос чая:</><lf>• Сделанный с чем-то ценным. Может быть что угодно, не только фрукт."
+English_US,"<RequestTitle>Запрос чая:</><lf>• Сделанный с чем-то ценным. Может быть что угодно, не только плод."
 Description,
 French,"<RequestTitle>Thé demandé :</><lf>• Préparation à base de quelque chose de valeur. N'importe quoi, mais pas juste un fruit."
 Italian,"<RequestTitle>Richiesta di tè:</><lf>• Un tè fatto con qualcosa di valore. Può essere qualsiasi cosa, non esclusivamente un frutto."
@@ -16643,7 +16643,7 @@ Swedish,Tea -begäran:<lf>- gjord med något som är av värde.
 Thai,คำขอชา:<lf>- ทำกับสิ่งที่มีค่า
 Arabic,
 Key,FieldGuideRequest_Tea_Zenith2
-English_US,"<RequestTitle>Запрос:</><lf>• Чай, приготовленный с использованием растения Большой гибрид в качестве ингредиента. Также включите фрукт с Большого гибрида и семечко, из которого вырос Большой гибрид."
+English_US,"<RequestTitle>Запрос:</><lf>• Чай, приготовленный с использованием растения Большой гибрид в качестве ингредиента. Также включите плод с Большого гибрида и семечко, из которого вырос Большой гибрид."
 Description,
 French,<RequestTitle>Demande :</><lf>• Un thé préparé avec une plante de type Grand hybride comme ingrédient. Inclure aussi un fruit du grand hybride et une graine qui a produit le grand hybride.
 Italian,<RequestTitle>Richiesta:</><lf>• Un infuso preparato usando un grande ibrido come ingrediente. Includere anche un frutto del grande ibrido e un seme che ha prodotto il grande ibrido.
@@ -17422,7 +17422,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Batkid3b
-English_US,"Чудо-{{Яблочко}} — это версия Фрукта {{Вейлинг}} с изменённым цветом. Сначала вы должны вырастить Дерево {{Вейлинг}}, посадив жёлтую пальму в центре трёх розовых цветов, затем окружите Дерево {{Вейлинг}} тремя Цветогрибами. Это изменит цвет растения. Полейте растение, и оно даст вам Чудо-{{Яблочко}}, которое является необходимым чайным ингредиентом.<lf><lf>Дополнительные фрукты не обязательны, они просто делают напиток немного красочнее."
+English_US,"Чудо-{{Яблочко}} — это версия Плода {{Вейлинг}} с изменённым цветом. Сначала вы должны вырастить Дерево {{Вейлинг}}, посадив жёлтую пальму в центре трёх розовых цветов, затем окружите Дерево {{Вейлинг}} тремя Цветогрибами. Это изменит цвет растения. Полейте растение, и оно даст вам Чудо-{{Яблочко}}, которое является необходимым чайным ингредиентом.<lf><lf>Дополнительные плоды не обязательны, они просто делают напиток немного красочнее."
 Description,
 French,"La {{pomme}} miracle est une version aux couleurs inversées d'un fruit de {{weyling}}. Tu dois d'abord faire pousser un arbre à {{weyling}} en plantant un palmier jaune au centre de trois fleurs roses. Ensuite, entoure l'arbre à {{weyling}} de trois champis-nuances. Cela modifiera la couleur de la plante. Arrose la plante pour obtenir une {{pomme}} miracle, qui est l'ingrédient de thé dont tu as besoin.<lf>  <lf>Les fruits supplémentaires ne sont pas nécessaires, il donnent simplement un peu plus de couleurs à la boisson."
 Italian,"Il Miracolo di {{Pomme}} è la versione con colori scambiati del frutto di {{Weyling}}. Per prima cosa devi creare un albero di {{Weyling}} piantando una palma gialla in mezzo a tre fiori rosa e poi circondare l'albero di {{Weyling}} con tre funghi Sfumatura. Questo cambierà il colore della pianta. Annaffia la pianta per ottenere un Miracolo di {{Pomme}}, l'ingrediente di cui hai bisogno per l'infuso.<lf>  <lf>L'aggiunta di altri frutti non è necessaria, rende solo la bevanda un po' più colorata."
@@ -17441,7 +17441,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Bird1
-English_US,"Сделайте Призрачный фрукт с изменённым цветом, посадив три Цветогриба вокруг растения Призрачная роза, затем полейте Призрачную розу, чтобы получить Призрачный фрукт с изменённым цветом. Положите Призрачный фрукт с изменённым цветом, обычный Призрачный фрукт и Росток {{Вайпур}} в чайный заварник вместе с чайным шариком."
+English_US,"Сделайте Призрачный плод с изменённым цветом, посадив три Цветогриба вокруг растения Призрачная роза, затем полейте Призрачную розу, чтобы получить Призрачный плод с изменённым цветом. Положите Призрачный плод с изменённым цветом, обычный Призрачный плод и Росток {{Вайпур}} в чайный заварник вместе с чайным шариком."
 Description,
 French,"Fais pousser un fruit fantôme aux couleurs inversées en plantant trois champis-nuances autour d'une rose fantôme. Ensuite, arrose la rose fantôme pour obtenir un fruit fantôme aux couleurs inversées. Place le fruit fantôme aux couleurs inversées, un fruit fantôme aux couleurs non inversées et un chou {{waypur}} dans l'infuseur avec une boule de thé."
 Italian,"Crea un frutto Fantasma con colori scambiati piantando tre funghi Sfumatura attorno a una pianta di rosa Fantasma, poi annaffia la rosa Fantasma per ottenere un frutto Fantasma con colori scambiati. Metti il ​​frutto Fantasma con colori scambiati, il frutto Fantasma senza colori scambiati e un germoglio di {{Waypur}} nell'infusore del tè insieme a una pallina di tè."
@@ -17593,7 +17593,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Gerald1
-English_US,"Сделайте чай с чайным шариком и Фруктом {{Аззи}}. Чтобы получить Цветок {{Аззи}}, посадите простой розовый цветок, а затем окружите его тремя другими розовыми цветами в виде лучей."
+English_US,"Сделайте чай с чайным шариком и Плодом {{Аззи}}. Чтобы получить Цветок {{Аззи}}, посадите простой розовый цветок, а затем окружите его тремя другими розовыми цветами в виде лучей."
 Description,
 French,"Prépare du thé avec une boule de thé et un fruit d'{{azzy}}. Pour produire une fleur d'{{azzy}}, plante une fleur rose simple et entoure-la de trois autres fleurs roses dans un motif en rayon."
 Italian,"Prepara il tè con una pallina di tè e un frutto d'{{Azzy}}. Per produrre il fiore d'{{Azzy}}, pianta un singolo fiore rosa e poi circondalo con altri tre fiori rosa con un motivo a raggiera."
@@ -17612,7 +17612,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Gerald2
-English_US,"Сделайте чай с чайным шариком, Фруктом {{Аззи}} и бросьте в смесь Любимое варенье {{Тимоти}}. Поговорите с {{Джеральдом}}, если вам нужно больше варенья."
+English_US,"Сделайте чай с чайным шариком, Плодом {{Аззи}} и бросьте в смесь Любимое варенье {{Тимоти}}. Поговорите с {{Джеральдом}}, если вам нужно больше варенья."
 Description,
 French,"Prépare du thé avec une boule de thé, un fruit d'{{azzy}}, et ajoute-y aussi de la confiture préférée de {{Timothy}}. Va voir {{Gerald}} s'il te faut plus de confiture."
 Italian,"Prepara il tè con una pallina di tè e un frutto d'{{Azzy}}, poi aggiungi anche la marmellata preferita di {{Timothy}} nella miscela. Vai da {{Gerald}} se hai bisogno di altra marmellata."
@@ -17631,7 +17631,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Mechanic1
-English_US,"Сделайте чай с Шишками {{Сноква}} (посадите простую жёлтую пальму в окружении трёх других жёлтых пальм), чтобы уменьшить боль. Чтобы отвлечь их мысли от боли, просто добавьте любой дополнительный фрукт, который может вызвать сильную эмоцию, способную отвлечь их. Каждый фрукт вызовет свою уникальную реакцию."
+English_US,"Сделайте чай с Шишками {{Сноква}} (посадите простую жёлтую пальму в окружении трёх других жёлтых пальм), чтобы уменьшить боль. Чтобы отвлечь их мысли от боли, просто добавьте любой дополнительный плод, который может вызвать сильную эмоцию, способную отвлечь их. Каждый плод вызовет свою уникальную реакцию."
 Description,
 French,"Pour calmer la douleur, préparez du thé avec des cônes de {{snok}} (plantez un palmier jaune simple entouré de trois autres palmiers jaunes). Pour ne plus penser à la douleur, il suffit d'ajouter tout autre fruit susceptible d'évoquer une émotion forte qui distrait. Chaque fruit apportera sa propre réponse."
 Italian,"Per alleviare il dolore, prepara una tisana con le pigne di {{Snok}} (pianta una palma gialla semplice e circondala con altre tre palme gialle). Per distogliere la mente dal dolore, è sufficiente aggiungere qualsiasi altro frutto che possa evocare un'emozione forte. Ogni frutto provocherà una reazione distinta."
@@ -17707,7 +17707,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Nana1
-English_US,"Нагрейте воду до кипения, положите в неё два мытых кофейных зерна, затем налейте любое количество в чашку. Затем налейте немного свежей воды и нагрейте её совсем чуть-чуть, чтобы полоска нагрева была между 0 и 100. Переместите это в заварник и бросьте туда Фрукт {{Вейлинг}}, Сладкий {{Милиум}} и мытое кофейное зерно. Затем вылейте любое количество этой смеси прямо в первую чашку."
+English_US,"Нагрейте воду до кипения, положите в неё два мытых кофейных зерна, затем налейте любое количество в чашку. Затем налейте немного свежей воды и нагрейте её совсем чуть-чуть, чтобы полоска нагрева была между 0 и 100. Переместите это в заварник и бросьте туда Плод {{Вейлинг}}, Сладкий {{Милиум}} и мытое кофейное зерно. Затем вылейте любое количество этой смеси прямо в первую чашку."
 Description,
 French,"Fais bouillir de l'eau, ajoute-y deux grains de café lavés, puis verse n'importe quelle quantité de ce mélange dans une tasse. Ensuite, verse de l'eau fraîche et fais-la chauffer juste un peu, de façon à ce que la barre de température reste entre 0 et 100. Mets ta mixture dans l'infuseur et ajoute-y un fruit de {{weyling}}, un {{meelium}} doux et un grain de café lavé. Verse-en n'importe quelle quantité dans la première tasse."
 Italian,"Fai bollire dell'acqua, mettici due chicchi di caffè lavati, e versa la quantità desiderata in una tazza. In un'altra tazza, scalda leggermente dell'acqua fredda, in modo che la temperatura sia compresa tra 0 e 100, poi versala nell'infusore insieme ad un {{Weyling}}, un {{Meelium}} dolce e un chicco di caffè lavato. Versa infine una quantità a piacere di questa miscela direttamente nella prima tazza."
@@ -17726,7 +17726,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Nana2
-English_US,"Нагрейте воду до кипения, положите в неё три мытых кофейных зерна, затем налейте любое количество этого в чашку. Затем налейте немного свежей воды и нагрейте её совсем чуть-чуть, чтобы полоска нагрева была между 0 и 100. Переместите это в заварник и бросьте туда Фрукт {{Вейлинг}}, {{Кувырдыню}} и мытое кофейное зерно. Затем вылейте любое количество этой смеси прямо в первую чашку."
+English_US,"Нагрейте воду до кипения, положите в неё три мытых кофейных зерна, затем налейте любое количество этого в чашку. Затем налейте немного свежей воды и нагрейте её совсем чуть-чуть, чтобы полоска нагрева была между 0 и 100. Переместите это в заварник и бросьте туда Плод {{Вейлинг}}, {{Кувырдыню}} и мытое кофейное зерно. Затем вылейте любое количество этой смеси прямо в первую чашку."
 Description,
 French,"Porte de l'eau à ébullition, ajoute-y trois grains de café lavés, puis verse n'importe quelle quantité de ce mélange dans une tasse. Ensuite, verse de l'eau fraîche et fais chauffer légèrement, de façon à ce que la barre de température reste entre 0 et 100. Apporte ta mixture dans l'infuseur et ajoute-y un fruit de {{weyling}}, un {{pellmelon}} et un grain de café lavé. Verse-en n'importe quelle quantité dans la première tasse."
 Italian,"Fai bollire dell'acqua, mettici tre chicchi di caffè lavati, e versa la quantità desiderata in una tazza. In un'altra tazza, scalda leggermente dell'acqua fredda, in modo che la temperatura sia compresa tra 0 e 100, poi versala nell'infusore insieme ad un {{Weyling}}, un {{Pellmelon}} e un chicco di caffè lavato. Versa infine una quantità a piacere di questa miscela direttamente nella prima tazza."
@@ -17745,7 +17745,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Ren1
-English_US,"Сделайте чай с чайным шариком и любым фруктом. Правильного ответа нет, вы просто получите разную реакцию в зависимости от свойств фрукта, который вы использовали."
+English_US,"Сделайте чай с чайным шариком и любым плодом. Правильного ответа нет, вы просто получите разную реакцию в зависимости от свойств плода, который вы использовали."
 Description,
 French,"Prépare du thé avec une boule de thé et n'importe quel fruit. Il n'y a pas de ""bonne"" réponse, tu obtiendras simplement une réponse différente selon les attributs du fruit que tu utilises."
 Italian,"Prepara il tè con una pallina di tè e un frutto qualsiasi. Non esiste un risultato assoluto, otterrai un risultato diverso a seconda degli attributi del frutto usato."
@@ -17821,7 +17821,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Stargirl1b
-English_US,"Налейте свежую воду, но не нагревайте её. Переместите её в заварник и добавьте Гриб-близнец (можно найти на краю поляны) и Росток {{Вайпур}}. Затем окружите Папоротник {{Пухоструч}} тремя Цветогрибами, чтобы изменить его цвет, затем полейте растение с изменённым цветом, чтобы получить один из его фруктов, и положите его в заварник. Затем добавьте Синюю петлю. Наконец, добавьте два чайных шарика. Ожидание в одну минуту между двумя чайными шариками помогает вкусу, но не является строго обязательным для приготовления адекватного Варева {{Вечности}}."
+English_US,"Налейте свежую воду, но не нагревайте её. Переместите её в заварник и добавьте Гриб-близнец (можно найти на краю поляны) и Росток {{Вайпур}}. Затем окружите Папоротник {{Пухоструч}} тремя Цветогрибами, чтобы изменить его цвет, затем полейте растение с изменённым цветом, чтобы получить один из его плодов, и положите его в заварник. Затем добавьте Синюю петлю. Наконец, добавьте два чайных шарика. Ожидание в одну минуту между двумя чайными шариками помогает вкусу, но не является строго обязательным для приготовления адекватного Варева {{Вечности}}."
 Description,
 French,"Verse de l'eau fraîche sans la faire chauffer. Place-la dans l'infuseur et ajoute un champi-doublon (on en trouve à la lisière de la clairière) et un chou {{waypur}}. Ensuite, entoure une fougère {{puffpod}} avec trois champis-nuances pour inverser ses couleurs, puis arrose la plante aux couleurs inversées pour récolter un de ses fruits et place-le dans l'infuseur. Ensuite, ajoute une boucle bleue. Enfin, ajoute deux boules de thé. Attendre une minute entre les deux boules de thé améliore le goût, mais ce délai n'est pas indispensable pour préparer une bonne infusion d'{{Aeon}}."
 Italian,"Versa acqua fredda senza scaldarla. Mettila nell'infusore e aggiungi un fungo Doppio (che si può trovare lungo il bordo della radura) e un germoglio di {{Waypur}}. Successivamente, circonda una felce {{Puffpod}} con tre funghi Sfumatura per scambiarne il colore, poi annaffia la pianta scambiata di colore per ottenere uno dei suoi frutti e mettilo nell'infusore. Successivamente, aggiungi un Anello Blu. Infine, aggiungi due palline di tè. Far passare un minuto tra le due palline di tè aiuta a esaltare il sapore, ma non è strettamente necessario per preparare un buon infuso di {{Aeon}}."
@@ -17859,7 +17859,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Zenith2
-English_US,"Сначала сделайте любой Большой гибрид и получите один из его фруктов. Затем уменьшите размер Большого гибрида, окружив его тремя Грибами-малютками. Как только он станет маленьким, подберите его переносным горшком и бросьте в воду в заварнике. Также добавьте фрукт, который вы получили с Большого гибрида, и семечко, которое использовалось для его создания. Налейте напиток и подавайте."
+English_US,"Сначала сделайте любой Большой гибрид и получите один из его плодов. Затем уменьшите размер Большого гибрида, окружив его тремя Сжимогрибушками. Как только он станет маленьким, подберите его переносным горшком и бросьте в воду в заварнике. Также добавьте плод, который вы получили с Большого гибрида, и семечко, которое использовалось для его создания. Налейте напиток и подавайте."
 Description,
 French,"Commence par créer n'importe quel grand hybride et récolte un de ses fruits. Ensuite, réduis sa taille en l'entourant de trois champis-minues. Une fois l'hybride diminué, récolte-le dans un pot portatif et ajoute-le dans l'eau de l'infuseur. Ajoute aussi le fruit récolté sur le grand hybride et une graine qui a servi à le faire pousser. Verse et sers."
 Italian,"Per prima cosa crea un grande ibrido e prendi uno dei suoi frutti. Poi riduci le sue dimensioni circondandolo con tre funghi Mini. Quando l'ibrido si è rimpicciolito, raccoglilo con un pentolino e mettilo nell'acqua dell'infusore. Aggiungi anche il frutto che hai ottenuto dal grande ibrido e un seme che è servito per farlo crescere. Versa la bevanda e servi."
@@ -17935,7 +17935,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Pluffins
-English_US,"Чтобы покормить {{пухлика}}, сделайте любой напиток (ингредиенты технически не требуются, но если вы добавите фрукты и чайные листья, это заставит {{пухлика}} поменять цвет). Поставьте чай на землю рядом с {{пухликом}}, и {{пухлик}} подойдёт и выпьет его. Напоите чаем пять {{пухликов}}, чтобы выполнить задачу."
+English_US,"Чтобы покормить {{пухлика}}, сделайте любой напиток (ингредиенты технически не требуются, но если вы добавите плоды и чайные листья, это заставит {{пухлика}} поменять цвет). Поставьте чай на землю рядом с {{пухликом}}, и {{пухлик}} подойдёт и выпьет его. Напоите чаем пять {{пухликов}}, чтобы выполнить задачу."
 Description,
 French,"Pour nourrir un {{pluffin}}, prépare n'importe quelle boisson (les ingrédients ne sont pas ""techniquement"" requis, mais si tu ajoutes des fruits et des feuilles de thé, le {{pluffin}} changera de couleur). Dépose le thé par terre à proximité d'un {{pluffin}}. En se déplaçant, le {{pluffin}} s'approchera et viendra le boire. Donne du thé à cinq {{pluffins}} pour accomplir cette tâche."
 Italian,"Per nutrire un {{pluffin}}, prepara una bevanda qualsiasi (gli ingredienti non sono obbligatori, ma se includi frutta e foglie di tè, il {{pluffin}} cambierà colore). Metti la bevanda a terra accanto a un {{pluffin}} per farlo avvicinare a bere. Dai il tè a cinque {{pluffin}} per completare l'incarico."
@@ -17954,7 +17954,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_BoroFinalTea
-English_US,"Сделайте чай с чайным шариком и любым фруктом. Правильного ответа нет, вы просто получите разную реакцию в зависимости от свойств фрукта, который вы использовали."
+English_US,"Сделайте чай с чайным шариком и любым плодом. Правильного ответа нет, вы просто получите разную реакцию в зависимости от свойств плода, который вы использовали."
 Description,
 French,"Prépare du thé avec une boule de thé et n'importe quel fruit. Il n'y a pas de ""bonne"" réponse, tu obtiendras simplement une réponse différente selon les attributs du fruit que tu utilises."
 Italian,"Prepara il tè con una pallina di tè e un frutto qualsiasi. Non esiste un risultato assoluto, otterrai un risultato diverso a seconda degli attributi del frutto usato."
@@ -18524,7 +18524,7 @@ Swedish,Whew! Mycket information hittills! Vad sägs om att vi tar lite andning 
 Thai,วววววววววววววววว มีข้อมูลมากมาย! แล้วเราจะใช้ชีวิตเล็กน้อยและผ่อนคลายสักครู่ด้วยภาพที่สงบเงียบของปลาที่สวยงาม
 Arabic,
 Key,Book_Gardening
-English_US,Фрукты
+English_US,Плоды
 Description,
 French,Les fruits
 Italian,I frutti
@@ -18581,7 +18581,7 @@ Swedish,"Du trodde inte att dina växter bara skulle sitta där i marken och int
 Thai,คุณไม่คิดว่าพืชของคุณจะนั่งอยู่ที่นั่นบนพื้นดินไม่ทำอะไรเลยใช่มั้ย ห่าไม่! พืชเป็นสิ่งมีชีวิต! และเช่นเดียวกับคุณและฉันพวกเขาจำเป็นต้องสร้างบางสิ่งบางอย่างเพื่อให้รู้สึกถึงจุดประสงค์ในชีวิต
 Arabic,
 Key,Book_Gardening
-English_US,"Как только вы сделали свой гибрид, продолжайте и лейте на него ЕЩЁ воды. Каждый раз, когда вы это делаете, он будет производить новый фрукт."
+English_US,"Как только вы сделали свой гибрид, продолжайте и лейте на него ЕЩЁ воды. Каждый раз, когда вы это делаете, он будет производить новый плод."
 Description,
 French,"Une fois que votre hybride est créé, continuez et arrosez-le encore un peu. Chaque fois que vous le faites, il produit un nouveau fruit."
 Italian,"Una volta creato il tuo ibrido, versaci ANCORA un po' d'acqua. Ogni volta che lo farai, produrrà un nuovo frutto."
@@ -18600,7 +18600,7 @@ Swedish,"När du har gjort din hybrid, gå vidare och häll lite mer vatten på 
 Thai,เมื่อคุณทำไฮบริดของคุณไปข้างหน้าแล้วเทน้ำอีกหน่อย ทุกครั้งที่คุณทำมันจะผลิตผลไม้ใหม่
 Arabic,
 Key,Book_Gardening
-English_US,"Малые гибриды и Большие гибриды будут что-то выращивать на своих листьях:<lf><lf>- Малые гибриды будут выращивать больше семян растений, позволяя вам сажать ещё БОЛЬШЕ Простых растений.<lf><lf>- Большие гибриды будут выращивать фрукты. Фрукты сочные и вкусные, а если заварить их в воде, получатся всевозможные виды чая. И что ещё лучше, каждый Большой гибрид выращивает свой собственный уникальный фрукт со своими уникальными свойствами! Проверьте свой Полевой справочник для получения дополнительной информации обо всех этих фруктах и их эффектах."
+English_US,"Малые гибриды и Большие гибриды будут что-то выращивать на своих листьях:<lf><lf>- Малые гибриды будут выращивать больше семян растений, позволяя вам сажать ещё БОЛЬШЕ Простых растений.<lf><lf>- Большие гибриды будут выращивать плоды. Плоды сочные и вкусные, а если заварить их в воде, получатся всевозможные виды чая. И что ещё лучше, каждый Большой гибрид выращивает свой собственный уникальный плод со своими уникальными свойствами! Проверьте свой Полевой справочник для получения дополнительной информации обо всех этих плодах и их эффектах."
 Description,
 French,"Les hybrides petits et grands font pousser quelque chose à partir de leurs feuilles :<lf>  <lf>- Les petits hybrides donnent d'autres graines de plantes, ce qui vous permet de semer encore plus de plantes simples.<lf>  <lf>- Les grands hybrides donnent des fruits. Les fruits sont juteux et délicieux et vous pouvez les faire infuser dans l'eau pour créer toutes sortes de thés. Et mieux encore... chaque grand hybride fait pousser ses propres fruits uniques avec leurs propriétés bien à eux ! Consultez votre guide pratique pour obtenir plus d'informations sur tous ces fruits et leurs effets."
 Italian,"Sia i piccoli ibridi che i grandi ibridi faranno crescere qualcosa dalle loro foglie:<lf>  <lf>- I piccoli ibridi fanno crescere i semi, permettendo di piantare ancora PIÙ piante semplici.<lf>  <lf>- I grandi ibridi fanno crescere i frutti. I frutti sono succosi e gustosi e si possono mettere in infusione in acqua per creare tanti tipi di bevande. E ancora meglio, ogni grande ibrido produce un frutto unico con delle proprietà uniche! Consulta la tua Guida Pratica per ulteriori informazioni su tutti questi frutti e sui loro effetti."
