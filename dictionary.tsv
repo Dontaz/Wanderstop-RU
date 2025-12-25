@@ -1,14 +1,12 @@
-ENG	RU		
-Dirk Warhard	Дирк Вархард		
-Professor Currency	Профессор Мошна		
+ENG	RU	Note	
+Dirk Warhard	Дирк Вархард	персонаж книг внутри игры	
+Professor Currency	Профессор Мошна	"автор книг ""Руководство по экономике"" (""Guide to Economics"")"	
 Guide to Economics	Руководство по экономике		
-Edge of a Bullet	На острие пули		
-The Fastest Bullet Alive	Самая быстрая пуля на свете		
-Chasing Bullets	В погоне за пулями		
-Bullets Forever	Пули навсегда		
-A History and Critical Theory	История и критическая теория		
-Professor Currency	Профессор Карренси		
-Guide to Economics	Руководство по экономике		
+Edge of a Bullet	На острие пули	Книга о Дирке Вархарде	
+The Fastest Bullet Alive	Самая быстрая пуля на свете	Книга о Дирке Вархарде	
+Chasing Bullets	В погоне за пулями	Книга о Дирке Вархарде	
+Bullets Forever	Пули навсегда	Книга о Дирке Вархарде	
+A History and Critical Theory	История и критическая теория	Критика книг о Дирке Вархарде	
 Lil Meow Meow	Крошка Мяу		
 Plant Home	Домик для растения		
 Tribute to Bugs	Дань уважения жукам		
@@ -21,10 +19,10 @@ Some Cup	Какая-то чашка
 Trinket	Безделушка    		
 Customer	Клиент		
 Bird	Птица		
-Demon Hunter	Охотник за демонами		
+Demon Hunter	Охотник за демонами	небинарный персонаж. Не факт, упоминается в Boro_RAW-1172-Boro, но в диалогах самого персонажа вроде бы ничего подобного нет. Перепроверить.	
 Monster	Чудовище		
-Alta	Альта		
-Boro	Боро		
+Alta	Альта	Главная героиня	
+Boro	Боро	Владелец чайной Wanderstop	
 Blue Seeds	Синие семена		
 Pink Seeds	Розовые семена		
 Yellow Seeds	Жёлтые семена		
@@ -56,15 +54,15 @@ Waypur	Вайпур
 Vreetle	Вритл		
 Azzy	Аззи		
 Pellmelon	Кувырдыня		
-Whistleberry	Свистика		
-Biteberry	Кусника		
+Whistleberry	Свистика	свист + ягода	
+Biteberry	Кусника	Кусать + ягода	
 Weyling	Вейлинг		
-Pomme	Яблочко		
+Pomme	Яблочко	С французского - яблоко, но может и картофель. Перепроверить.	
 Snok	Сноква		
 Painted Gourd	Раскрашенная тыква		
 Blue Loop	Синяя петля		
 Meelium	Милиум		
-Master Winters	Мастер Уинтерс		
+Master Winters	Мастер Уинтерс	Её ищет главная героиня, чтобы она её натренировала. Победительница множества боёв.	
 Skywhistle	Небосвист		
 Mag	Магх		
 P'hrillups	Ф'риллупс		
@@ -72,18 +70,18 @@ Scalvic'c	Скальвик'ц
 Bungler Curls	Путаник Курчавник		
 Prumba	Прумба		
 Sunset Trebles	Закатные Трельники		
-Meerian Wisps	Меерианские Дымки		
+Meerian Wisps	Меерианские Дымки	возможно, пучки или сгустки. Перепроверить.	
 Mystic Sugar Pops	Мистические сахарные попсы		
 Fern of Ten Angles	Десятигранный папоротник		
 Quowu	Куову		
 Wispy Lilyspheres	Дымчатые Лилиесферы		
-Synesplosian Red	Расписной кустарник		
+Synesplosian Red	Синэсплозиан Красный		
 Painted Shrub	Расписной кустарник		
 Synesplosian Red	Синэсплозиан Красный		
 Scaled Dirtfern	Чешуйчатый {{Грязепапоротник}}		
 Aeon	Вечности		
 Mintiatto	Мятник		
-Sylvia Sugarpuddle	Сильвия Сладколужная		
+Sylvia Sugarpuddle	Сильвия Сладколужная	знакомая Боро, автор книг(-и) о садоводстве	
 Seedologist	Семенолог		
 Seedology	Семенология		
 Sylvia	Сильвия		
@@ -108,7 +106,7 @@ Jeremy Esterkoff	Джереми Эстеркофф
 Laura Erhauer	Лора Эрхауэр		
 Shumptuck	Шамптак		
 Richard McElevator	Ричард МакЭлеватор		
-Warhard Weekly	Еженедельный Вархард		
+Warhard Weekly	Еженедельный Вархард	о Дирке Вархарде	
 Crimson Age	Багровая Эпоха		
 The Scremular Effect	Скремулярный Эффект		
 Cosmic Witch Energy	Космическая Ведьминская Энергия		
@@ -117,7 +115,7 @@ Plated Era	Плиточная Эра
 Owlmancer	Совомантка		
 Tippy Tappy... Zippy... Zappy	Типпи-Тэппи... Зиппи... Заппи		
 Wanderstop	Вандерстоп		
-Unknowable	Неопознаваемая		
+Unknowable	Неопознаваемая	имя главной героини, если она не представилась Боро	
 maintenance room	подсобное помещение		
 plant egg	растительное яйцо		
 Simple Plants	Простые растения		
@@ -125,3 +123,4 @@ Foxtail agave	Лисохвостная агава
 Tea Machine	Чайная машина		
 Infuser	Заварник		
 Trellis	Шпалера		
+dirt	грязь	возможно, примесь, а не грязь. Перепроверить.	
