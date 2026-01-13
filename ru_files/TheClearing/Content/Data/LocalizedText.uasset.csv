@@ -1215,7 +1215,7 @@ Swedish,Välj
 Thai,เลือก
 Arabic,
 Key,Inventory_Prompt_Stash
-English_US,{{#BUTTON#}}  Забрать
+English_US,{{#BUTTON#}}  Убрать
 Description,Stash in your pocket
 French,{{#BUTTON#}} Empocher
 Italian,{{#BUTTON#}} Intasca
@@ -9404,7 +9404,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tutorial_Stashing_Title
-English_US,Забирание предметов
+English_US,Убирание предметов
 Description,As in Stashing Items into your pocket
 French,Empocher les objets
 Italian,Riporre gli oggetti
@@ -9423,7 +9423,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Tutorial_Stashing_Description1
-English_US,"Нажмите {{#BUTTON#}}, чтобы забрать предмет. Это переместит его в ваш карман.<lf><lf>{{#BUTTON#}} можно использовать, когда предмет у вас в руке или когда он лежит на земле перед вами."
+English_US,"Нажмите {{#BUTTON#}}, чтобы убрать предмет. Это переместит его в ваш карман.<lf><lf>{{#BUTTON#}} можно использовать, когда предмет у вас в руке или когда он лежит на земле перед вами."
 Description,
 French,"Appuie sur {{#BUTTON#}} pour empocher un objet. Cette opération le déplace dans ta poche.<lf>  <lf>{{#BUTTON#}} peut être utilisé quand tu tiens un objet en main, ou lorsque cet objet se trouve par terre devant toi."
 Italian,Premi {{#BUTTON#}} per riporre un oggetto. Verrà conservato nella tua sacca.<lf>  <lf>Puoi usare {{#BUTTON#}} quando hai un oggetto in mano o quando l'oggetto è a terra di fronte a te.
@@ -10392,7 +10392,7 @@ Swedish,
 Thai,
 Arabic,
 Key,TutorialName_Stashing
-English_US,Забирание предметов
+English_US,Убирание предметов
 Description,
 French,Empocher les objets
 Italian,Riporre oggetti
@@ -10582,7 +10582,7 @@ Swedish,Ställa in objekt
 Thai,ตั้งค่ารายการ
 Arabic,
 Key,MenusAndTutorials17
-English_US,Забрать предмет в карман
+English_US,Убрать предмет в карман
 Description,
 French,Ranger un objet tenu
 Italian,Riporre oggetto posseduto
@@ -12710,7 +12710,7 @@ Swedish,
 Thai,
 Arabic,
 Key,OptionsMenu_Controls_Stash
-English_US,Забрать
+English_US,Убрать
 Description,Indicates that this button is used to stash items
 French,Empocher
 Italian,Riponi in tasca
@@ -13128,7 +13128,7 @@ Swedish,
 Thai,
 Arabic,
 Key,OptionsMenu_Remapping_Stash
-English_US,Забрать предмет
+English_US,Убрать предмет
 Description,This piece of UI indicates a function on the controller
 French,Empocher un objet
 Italian,Metti oggetto nella sacca
