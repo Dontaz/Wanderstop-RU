@@ -24,6 +24,7 @@
 
 - [**Скачать с Яндекс Диск**](https://disk.yandex.ru/d/4GvPyBNJ2LMPUg)
 - [**Скачать с GitHub**](https://github.com/Dontaz/Wanderstop-RU/releases/latest)
+- [**Скачать с Google Drive**](https://drive.google.com/file/d/1eV2cdLMjo4Nn1wzWeQEQb_q1VF4k_fl3/view?usp=sharing)
 
 ---
 
