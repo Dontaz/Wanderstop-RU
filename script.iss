@@ -1,8 +1,9 @@
 #define MyAppName "Русификатор для Wanderstop"
-#define MyAppVersion "1.01 [20251130]"
+#define MyAppVersion "1.04 [20260116]"
 #define MyAppPublisher "Dontaz"
 #define MyAppURL "https://steamcommunity.com/sharedfiles/filedetails/?id=3479356545"
 #define MyAppBoosty "https://boosty.to/dontaz"
+#define MyAppDonationAlerts "https://www.donationalerts.com/r/dontaz" 
 #define GameName "Wanderstop"
 
 [Setup]
@@ -41,7 +42,7 @@ Source: "C:\Users\user\Desktop\Programs\Unreal Engine Modding\UnrealPak\Руси
 WelcomeTitle=Вас приветствует мастер установки русификатора Wanderstop
 WelcomeText=Данный мастер установки поможет вам установить русификатор (версия {#MyAppVersion}) для игры {#GameName}.%n%nАвтор перевода: {#MyAppPublisher}.%nПри публикации на сторонних ресурсах просьба указывать авторство.%n%nНажимая «Далее», вы соглашаетесь с условиями использования.
 VisitLink=🌐 Найти самую актуальную версию (Steam Руководство)
-BoostyLink=🧡 Поддержать автора на Boosty
+BoostyLink=🧡 Поддержать автора перевода
 DisclaimerLink=⚠️ Отказ от ответственности и условия (Читать)
 DisclaimerFullText=ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ:%n%n1. Данный перевод является неофициальным и фанатским. Он создан исключительно в ознакомительных целях и распространяется бесплатно. Автор не преследует коммерческих целей.%n%n2. Все права на игру принадлежат её компании-разработчику и издателю. Пожалуйста, поддержите разработчиков покупкой лицензионной копии.%n%n3. Установка, использование или модификация файлов осуществляется пользователем добровольно, по собственной инициативе и под его личную ответственность.%n%n4. Автор перевода не несёт ответственности за возможные последствия, технические неполадки или утрату данных. Используя данный материал, вы подтверждаете, что принимаете на себя все риски.
 
@@ -50,34 +51,140 @@ var
   VisitLabel: TNewStaticText;
   BoostyLabel: TNewStaticText;
   DisclaimerLabel: TNewStaticText;
+  SupportForm: TSetupForm;
 
-procedure OpenLink(Sender: TObject);
+procedure OpenUrl(Url: String);
 var
   ErrorCode: Integer;
 begin
-  ShellExec('open', ExpandConstant('{#MyAppURL}'), '', '', SW_SHOWNORMAL, ewNoWait, ErrorCode);
+  ShellExec('open', Url, '', '', SW_SHOWNORMAL, ewNoWait, ErrorCode);
 end;
 
-procedure OpenBoosty(Sender: TObject);
-var
-  ErrorCode: Integer;
+procedure BoostyBtnClick(Sender: TObject);
 begin
-  ShellExec('open', ExpandConstant('{#MyAppBoosty}'), '', '', SW_SHOWNORMAL, ewNoWait, ErrorCode);
+  OpenUrl(ExpandConstant('{#MyAppBoosty}'));
+  if SupportForm <> nil then SupportForm.Close;
+end;
+
+procedure DABtnClick(Sender: TObject);
+begin
+  OpenUrl(ExpandConstant('{#MyAppDonationAlerts}'));
+  if SupportForm <> nil then SupportForm.Close;
+end;
+
+procedure CloseSupportClick(Sender: TObject);
+begin
+  if SupportForm <> nil then SupportForm.Close;
+end;
+
+procedure ShowSupportWindow;
+var
+  TitleLabel: TLabel;
+  DescLabel: TLabel;
+  BtnBoosty, BtnDA, DummyBtn: TNewButton;
+  CloseLabel: TLabel;
+begin
+  SupportForm := CreateCustomForm();
+  try
+    SupportForm.ClientWidth := ScaleX(340);
+    SupportForm.ClientHeight := ScaleY(260);
+    SupportForm.Caption := 'Поддержать автора';
+    SupportForm.Position := poMainFormCenter;
+    SupportForm.BorderStyle := bsDialog;
+    SupportForm.Color := clWhite;
+
+    DummyBtn := TNewButton.Create(SupportForm);
+    DummyBtn.Parent := SupportForm;
+    DummyBtn.Width := 0;
+    DummyBtn.Height := 0;
+    DummyBtn.Left := -100;
+    DummyBtn.Default := True;
+    TitleLabel := TLabel.Create(SupportForm);
+    TitleLabel.Parent := SupportForm;
+    TitleLabel.Caption := 'Вам нравится перевод?';
+    TitleLabel.Font.Name := 'Segoe UI';
+    TitleLabel.Font.Size := 15;
+    TitleLabel.Font.Style := [fsBold];
+    TitleLabel.Font.Color := $333333;
+    TitleLabel.AutoSize := False;
+    TitleLabel.Alignment := taCenter;
+    TitleLabel.Left := 0;
+    TitleLabel.Width := SupportForm.ClientWidth;
+    TitleLabel.Top := ScaleY(25);
+
+    DescLabel := TLabel.Create(SupportForm);
+    DescLabel.Parent := SupportForm;
+    DescLabel.Caption := 'Выберите удобный способ поддержки:';
+    DescLabel.Font.Color := $666666;
+    DescLabel.Font.Size := 9;
+    DescLabel.WordWrap := True;
+    DescLabel.AutoSize := False;
+    DescLabel.Alignment := taCenter;
+    DescLabel.Left := ScaleX(10);
+    DescLabel.Width := SupportForm.ClientWidth - ScaleX(20);
+    DescLabel.Top := ScaleY(60);
+    DescLabel.Height := ScaleY(40);
+
+    BtnBoosty := TNewButton.Create(SupportForm);
+    BtnBoosty.Parent := SupportForm;
+    BtnBoosty.Width := ScaleX(280);
+    BtnBoosty.Height := ScaleY(40);
+    BtnBoosty.Left := (SupportForm.ClientWidth - BtnBoosty.Width) div 2;
+    BtnBoosty.Top := ScaleY(110);
+    BtnBoosty.Caption := '🟠  Поддержать на Boosty'; 
+    BtnBoosty.Cursor := crHandPoint;
+    BtnBoosty.Font.Style := [fsBold];
+    BtnBoosty.Font.Size := 10;
+    BtnBoosty.OnClick := @BoostyBtnClick;
+    BtnBoosty.TabOrder := 1;
+
+    BtnDA := TNewButton.Create(SupportForm);
+    BtnDA.Parent := SupportForm;
+    BtnDA.Width := ScaleX(280);
+    BtnDA.Height := ScaleY(40);
+    BtnDA.Left := (SupportForm.ClientWidth - BtnDA.Width) div 2;
+    BtnDA.Top := ScaleY(160);
+    BtnDA.Caption := '🟠  Поддержать на DonationAlerts';
+    BtnDA.Cursor := crHandPoint;
+    BtnDA.Font.Style := [fsBold];
+    BtnDA.Font.Size := 10;
+    BtnDA.OnClick := @DABtnClick;
+    BtnDA.TabOrder := 2;
+
+    CloseLabel := TLabel.Create(SupportForm);
+    CloseLabel.Parent := SupportForm;
+    CloseLabel.Caption := 'Спасибо, но в другой раз';
+    CloseLabel.Cursor := crHandPoint;
+    CloseLabel.Font.Color := $999999;
+    CloseLabel.Font.Style := [fsUnderline];
+    CloseLabel.Font.Size := 9;
+    CloseLabel.OnClick := @CloseSupportClick;
+    CloseLabel.AutoSize := False;
+    CloseLabel.Alignment := taCenter;
+    CloseLabel.Left := 0;
+    CloseLabel.Width := SupportForm.ClientWidth;
+    CloseLabel.Top := ScaleY(225);
+
+    SupportForm.ShowModal;
+  finally
+    SupportForm.Free;
+    SupportForm := nil;
+  end;
+end;
+
+procedure LinkLabelClick(Sender: TObject);
+begin
+  OpenUrl(ExpandConstant('{#MyAppURL}'));
+end;
+
+procedure BoostyLabelClick(Sender: TObject);
+begin
+  ShowSupportWindow();
 end;
 
 procedure ShowDisclaimerBox(Sender: TObject);
 begin
   MsgBox(CustomMessage('DisclaimerFullText'), mbInformation, MB_OK);
-end;
-
-procedure LinkLabelClick(Sender: TObject);
-begin
-  OpenLink(Sender);
-end;
-
-procedure BoostyLabelClick(Sender: TObject);
-begin
-  OpenBoosty(Sender);
 end;
 
 procedure DisclaimerLabelClick(Sender: TObject);
