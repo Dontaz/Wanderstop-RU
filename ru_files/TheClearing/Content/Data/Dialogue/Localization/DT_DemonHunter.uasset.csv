@@ -7010,7 +7010,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0369-Choice
-English_US,Давай сделаем это рядом с пнем с моим мечом.
+English_US,"Давайте проведём её рядом с пнём, где лежит мой меч."
 Description,
 French,Allons la faire à côté de la souche où est mon épée.
 Italian,Facciamola vicino al troncone dove si trova la mia spada.
@@ -7029,7 +7029,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0370-Choice
-English_US,- мне все равно. Мне все равно.
+English_US,Мне всё равно. Мне плевать.
 Description,
 French,Je m'en moque. Ça m'est égal.
 Italian,Non mi interessa minimamente dove.
@@ -7048,7 +7048,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0371-Demon_Hunter
-English_US,"Отлично, я уберу свою чашку и встречусь с тобой вон там!"
+English_US,"Отлично, я уберу свою чашку и встречу вас там!"
 Description,From [0368-Choice]
 French,Extra ! Je dépose ma tasse et je te retrouve là-bas !
 Italian,"Ottimo, metto via la tazza e ti raggiugo là!"
@@ -7067,7 +7067,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0372-Demon_Hunter
-English_US,"Отлично, я уберу свою чашку и встречусь с тобой вон там!"
+English_US,"Отлично, я уберу свою чашку и встречу вас там!"
 Description,From [0369-Choice]
 French,Extra ! Je dépose ma tasse et je te retrouve là-bas !
 Italian,"Ottimo, metto via la tazza e ti raggiugo là!"
@@ -7105,7 +7105,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0374-Demon_Hunter
-English_US,"...что ж, тогда почему бы мне не убрать свою чашку и не выбрать где-нибудь место."
+English_US,"...ну тогда, почему бы мне не убрать свою чашку, а потом я выберу место где-нибудь."
 Description,
 French,… eh bien… je vais déposer ma tasse et trouver un lieu quelque part.
 Italian,… allora metto via la tazza e poi scelgo un posto da qualche parte.
@@ -7124,7 +7124,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0375-Demon_Hunter
-English_US,"Хорошо, алтарь готов, давайте начнем."
+English_US,"Ладно, алтарь готов, давайте начнём."
 Description,
 French,"Très bien, l'autel est installé, commençons."
 Italian,"L'altare è pronto, cominciamo."
@@ -7162,7 +7162,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0377-Demon_Hunter
-English_US,"В связи с этим, в этот день, наше сообщество собирается, чтобы провести {{Vreetle}} Церемонию! Врожденный!"
+English_US,"В сей день наша община собирается, дабы провести Церемонию {{Вритл}}! Отрадно!"
 Description,
 French,C'est en cette journée que notre communauté se rassemble pour procéder à une cérémonie du {{vreetle}} ! Sympathique !
 Italian,"Nella giornata di oggi, la nostra comunità si riunisce per condurre la cerimonia del {{Vreetle}}! Strabiliante!"
@@ -7181,7 +7181,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0378-Demon_Hunter
-English_US,"Сегодняшняя церемония проводится в честь нашего специального гостя, эм... меня! Привет!"
+English_US,"Сегодняшняя церемония проводится в честь нашего особого гостя, эм... меня! Привет!"
 Description,
 French,"La cérémonie du jour est en l'honneur de notre invité spécial, hum… moi ! Salut !"
 Italian,La cerimonia di oggi è in onore di un ospite davvero speciale… um… io!
@@ -7200,7 +7200,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0379-Demon_Hunter
-English_US,"Я охотник на демонов, который помогает этому сообществу!"
+English_US,"Я Охотник за демонами, который помогает и содействует нуждам этой общины!"
 Description,
 French,Je suis l'attrape-démons qui vient en aide et répond aux besoins de cette communauté !
 Italian,Sono l'acchiappa-demoni che aiuta chi ha bisogno in questa comunità!
@@ -7219,7 +7219,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0380-Alta
-English_US,"Подожди, как тебя на самом деле зовут?"
+English_US,"Погодите, а как ваше настоящее имя?"
 Description,
 French,Attends… comment tu t'appelles en vrai ?
 Italian,"Aspetta, qual è il tuo vero nome?"
@@ -7238,7 +7238,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0381-Demon_Hunter
-English_US,"О! Ну что ж... вообще-то нам не положено называть свои имена, когда мы выполняем задания."
+English_US,"О! Э-э, ну... нам вообще-то не положено использовать свои имена, когда мы на заданиях."
 Description,
 French,Oh ! Euh… eh bien… on n'est pas censés utiliser nos vrais noms quand on mène une quête.
 Italian,"Oh! Uh, bè... in realtà non possiamo usare i nostri nomi quando siamo in missione."
@@ -7257,7 +7257,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0382-Demon_Hunter
-English_US,"Согласно Руководству охотника, ""Использование своего настоящего имени может быть расценено как признак эгоизма и погруженности в себя""."
+English_US,"Согласно Руководству Охотника, «Использование своего настоящего имени может быть расценено как признак эгоизма и самовлюблённости»."
 Description,
 French,"Selon le manuel de l'attrape-démons, ""utiliser un vrai nom est un signe d'égoïsme et d'égocentrisme""."
 Italian,"Secondo il manuale, ""L'uso del nome proprio può essere visto come un segno di egoismo ed egocentrismo""."
@@ -7276,7 +7276,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0383-Demon_Hunter
-English_US,"""Лучше, чтобы тебя воспринимали только как Охотника на демонов, служащего обществу. Ни больше, ни меньше""."
+English_US,"«Лучше быть известным только как Охотник за демонами, служащий общине. Ни больше ни меньше»."
 Description,
 French,"""Il est préférable d'être uniquement considéré comme un attrape-démons, au service de la communauté. Ni plus ni moins."""
 Italian,È meglio essere visti solo come acchiappa-demoni al servizio della comunità. Né più né meno.
@@ -7295,7 +7295,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0384-Demon_Hunter
-English_US,"Так что, да, извини."
+English_US,"Так что да, извините."
 Description,
 French,"Alors, bon… je m'excuse…"
 Italian,"Quindi, sono spiacente, ma non posso."
@@ -7314,7 +7314,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0385-Choice
-English_US,Это глупое правило.
+English_US,Это дурацкое правило.
 Description,
 French,C'est une règle stupide.
 Italian,È una regola stupida.
@@ -7333,7 +7333,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0386-Choice
-English_US,В этом правиле есть полный логический смысл.
+English_US,Это правило имеет идеальный логический смысл.
 Description,
 French,C'est une règle qui paraît parfaitement sensée.
 Italian,Questa regola è perfettamente logica.
@@ -7352,7 +7352,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0387-Demon_Hunter
-English_US,"О, эм... Мне жаль..."
+English_US,"О, эм... простите..."
 Description,From [0385-Choice]
 French,"Oh, hum… je m'excuse…"
 Italian,"Oh, ehm... mi dispiace..."
@@ -7371,7 +7371,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0388-Demon_Hunter
-English_US,"Просто я действительно должен придерживаться того, что написано в книге."
+English_US,"Просто мне правда, правда положено придерживаться того, что мне говорит книга."
 Description,
 French,"Peut-être, mais je dois vraiment suivre les enseignements du manuel."
 Italian,"È solo che dovrei davvero, davvero, attenermi a ciò che il manuale mi dice di fare."
@@ -7390,7 +7390,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0389-Demon_Hunter
-English_US,"Хорошо! Эти правила совершенствовались тысячи лет, так что они должны быть правильными!"
+English_US,"Верно! Эти правила оттачивались тысячелетиями, так что они ОБЯЗАНЫ быть правильными!"
 Description,"""gotta"" means ""must be""<lf>From [0386-Choice]"
 French,"Bien ! Ces règles sont perfectionnées depuis des milliers d'années, alors mieux vaut qu'elles soient bonnes !"
 Italian,"Infatti! Queste regole sono state perfezionate nel corso di migliaia di anni, quindi DEVONO essere per forza corrette!"
@@ -7409,7 +7409,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0390-Demon_Hunter
-English_US,"В любом случае, на чем я остановился... эм... Ах да."
+English_US,"В любом случае, на чём я остановился... эм... ах да."
 Description,
 French,"Enfin, où en étais-je… hum… ah, oui…"
 Italian,"Comunque, dov'ero... ehm... oh sì."
@@ -7428,7 +7428,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0391-Demon_Hunter
-English_US,"Я член Ордена Охотников на демонов, общества, которому более шести тысяч лет!! (ух ты! какое древнее!)"
+English_US,"Я член Ордена Охотников за демонами, общества, которому более шести тысяч лет!! (ого! так много!)"
 Description,
 French,"Je suis membre de l'Ordre des attrape-démons, une société vieille de plus de six mille ans !! (Waouh, ça fait vieux !)"
 Italian,"Faccio parte dell'Ordine degli Acchiappa-demoni, una società che ha più di seimila anni! (Davvero vecchia!)"
@@ -7447,7 +7447,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0392-Alta
-English_US,"Подожди секунду, когда ты начнешь убивать демонов?? Я хочу посмотреть, как они умирают!"
+English_US,"Погодите секунду, когда вы начнёте убивать демонов?? Я хочу посмотреть, как умирает демон!"
 Description,
 French,"Attends une seconde, quand est-ce que tu comptes te mettre à tuer des démons ?? Je veux voir un démon mourir !"
 Italian,"Aspetta un attimo, quando inizierai a uccidere i demoni? Voglio vedere come li ammazzi!"
@@ -7466,7 +7466,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0393-Demon_Hunter
-English_US,"О, да, хорошо, э-э... насчет этого..."
+English_US,"О, точно, ну, э-э... насчёт этого..."
 Description,
 French,"Ah, oui… eh bien… justement…"
 Italian,"Oh, giusto, bè, uh... a proposito di questo..."
@@ -7485,7 +7485,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0394-Demon_Hunter
-English_US,"Я имею в виду, что на самом деле их не так уж много... ты знаешь... В живых осталось не так уж много демонов..."
+English_US,"Я имею в виду, на самом деле в живых осталось не так уж... знаете ли... МНОГО демонов..."
 Description,
 French,C'est-à-dire que… il n'y a plus… tu vois… il ne reste plus beaucoup de démons en vie.
 Italian,"Voglio dire, non ci sono più... sai... così tanti demoni vivi..."
@@ -7504,7 +7504,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0395-Demon_Hunter
-English_US,"...мы вроде как, я имею в виду... уже убили почти всех..."
+English_US,"...мы вроде как, я имею в виду... уже убили почти всех из них..."
 Description,
 French,… c'est qu'on les a… presque tous déjà tués…
 Italian,"… in un certo senso, voglio dire... li abbiamo già uccisi quasi tutti..."
@@ -7523,7 +7523,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0396-Demon_Hunter
-English_US,..но разве это не свидетельствует о безжалостной эффективности Ордена Охотников на демонов!?
+English_US,...но разве это не свидетельство безжалостной эффективности Ордена Охотников за демонами!?
 Description,
 French,… mais n'est-ce pas là une preuve de l'impitoyable efficacité de l'Ordre des attrape-démons ?
 Italian,… a testimonianza della spietata efficienza dell'Ordine degli Acchiappa-demoni!
@@ -7542,7 +7542,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0397-Alta
-English_US,Но тогда почему ты здесь??
+English_US,Но тогда почему вы здесь??
 Description,
 French,"Mais alors, qu'est-ce que tu fais ici ?"
 Italian,Ma allora perché sei qui?
@@ -7561,7 +7561,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0398-Demon_Hunter
-English_US,"О, эм, ну... поскольку осталось так мало демонов, которых можно убивать, охотникам на демонов пришлось искать другие способы помочь."
+English_US,"О, эм, ну... раз уж демонов осталось так мало, Охотникам за демонами пришлось начать искать другие способы помогать."
 Description,
 French,"Ah… hum… eh bien, comme il ne reste presque plus de démons à tuer, les attrape-démons ont été obligés de se reconvertir."
 Italian,"Oh, um, bè... dato che sono rimasti così pochi demoni da uccidere, gli acchiappa-demoni hanno dovuto iniziare a trovare altri modi per aiutare."
@@ -7580,7 +7580,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0399-Demon_Hunter
-English_US,"Ну, например, помогать обществу, заниматься социальной работой и тому подобным."
+English_US,"Знаете, типа помогать по хозяйству, заниматься социальной работой, всё в таком духе."
 Description,
 French,"Tu comprends… comme en aidant les gens dans la communauté, à faire du travail social, ce genre de choses…"
 Italian,"Sai, come dare una mano alle persone della comunità, lavorare nel campo sociale, quel genere di cose."
@@ -7599,7 +7599,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0400-Demon_Hunter
-English_US,"В наши дни гражданские беспорядки создают гораздо больше проблем для людей, чем демоны, если судить по статистике."
+English_US,"В наши дни гражданские беспорядки доставляют людям гораздо больше проблем, чем демоны, по статистике."
 Description,
 French,"De nos jours, les troubles civils posent bien plus de problèmes que les démons, statistiquement parlant."
 Italian,"Al giorno d’oggi, i disordini civici causano molti più problemi alle persone rispetto ai demoni, statisticamente parlando."
@@ -7618,7 +7618,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0401-Demon_Hunter
-English_US,"Итак, вы знаете... это то, на что мы можем повлиять. По статистике."
+English_US,"Так что, знаете... именно здесь мы можем оказать влияние. Статистически."
 Description,
 French,"Alors tu vois… c'est là qu'on peut se rendre utiles, statistiquement."
 Italian,"Quindi, sai... è lì che possiamo fare la differenza. Almeno a livello statistico."
@@ -7637,7 +7637,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0402-Choice
-English_US,Или вы могли бы просто перестать называть себя Охотниками на демонов.
+English_US,Или вы могли бы просто перестать называть себя Охотниками за демонами.
 Description,
 French,Vous pourriez aussi arrêter de vous faire appeler attrape-démons.
 Italian,Oppure potreste semplicemente smettere di chiamarvi acchiappa-demoni.
@@ -7656,7 +7656,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0403-Choice
-English_US,А как насчет оружия у вас на поясе?
+English_US,А как насчёт того оружия у вас на поясе?
 Description,
 French,Et ces armes à ta ceinture ?
 Italian,Che mi dici delle armi appese alla tua cintura?
@@ -7675,7 +7675,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0404-Demon_Hunter
-English_US,"Что?? Нет!! Ты знаешь, какую богатую историю имеет Орден Охотников на демонов?! Ни за что!"
+English_US,"Что?? Нет!! Вы хоть знаете, какая богатая история у Ордена Охотников за демонами?! Ни за что!"
 Description,From [0402-Choice]
 French,Quoi ?? Non !! L'Ordre des attrape-démons a beaucoup trop d'importance historique ! Pas question !!
 Italian,Che cosa? No! Sai quanta storia ha l'Ordine degli Acchiappa-demoni?! È fuori questione!
@@ -7694,7 +7694,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0405-Demon_Hunter
-English_US,"Это было бы похоже на то, как если бы Фанатики Солнца распались только потому, что они наконец-то убили Короля Луны! Хахаха, ни за что!!"
+English_US,"Это было бы всё равно, как если бы Фанатики Солнца распустились только потому, что наконец убили Лунного Короля! Ха-ха-ха, ни за что!!"
 Description,"""Sun Zealots"" can be translated any way, it's just a term for an organization of people who worship the sun"
 French,"C'est comme si les Fanatiques du Soleil décidaient de se dissoudre uniquement parce qu'ils venaient de massacrer le roi Lune ! Ah, ah, ah ! Impossible !"
 Italian,È come se i Fanatici del Sole avessero deciso di sciogliersi dopo aver massacrato il Re della Luna! Ah ah ah! Impossibile!
@@ -7713,7 +7713,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0406-Alta
-English_US,Они выглядят круто. Вы не используете их для убийств?
+English_US,Они выглядят круто. Вы не используете их для убийства?
 Description,From [0403-Choice]
 French,Elles ont l'air cool. Tu ne t'en sers plus pour tuer ?
 Italian,Sono fantastiche. Non le usi per uccidere?
@@ -7732,7 +7732,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0407-Demon_Hunter
-English_US,Что?!? Нет!! Они носят церемониальный характер! Я БЫ никогда не стал их использовать!
+English_US,Что?!? Нет!! Они церемониальные! Я бы НИКОГДА их не использовал!
 Description,
 French,Quoi ?! Non !! Elles ne servent qu'aux cérémonies ! Je ne m'en servirais jamais !
 Italian,Che cosa?!? No! Sono solo ornamentali! Non le userei MAI!
@@ -7751,7 +7751,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0408-Demon_Hunter
-English_US,"В любом случае, чтобы вернуться в прежнее русло, это мой ПЕРВЫЙ поход в новое сообщество!"
+English_US,"В любом случае, вернёмся к теме, это моё ПЕРВОЕ задание в новой общине!"
 Description,
 French,"Enfin, pour en revenir à nos moutons, c'est ma PREMIÈRE quête pour une nouvelle communauté !"
 Italian,"Comunque, tornando al discorso, questa è la mia PRIMA missione in una nuova comunità!"
@@ -7770,7 +7770,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0409-Demon_Hunter
-English_US,"Итак, я здесь для того, чтобы оценить потребности сообщества, а затем оказать посильную поддержку."
+English_US,"Итак, я здесь, чтобы оценить нужды общины, а затем предоставить любую возможную поддержку."
 Description,
 French,Je suis donc ici pour évaluer les besoins de cette communauté afin de fournir toute l'aide que je peux.
 Italian,Sono qui per valutare i bisogni della comunità per poter fornire tutto il supporto possibile.
@@ -7789,7 +7789,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0410-Choice
-English_US,Это не сообщество.
+English_US,Это не община.
 Description,
 French,Ce n'est pas une communauté.
 Italian,Questa non è una comunità.
@@ -7808,7 +7808,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0411-Choice
-English_US,"Сообществу нужно, чтобы ты продемонстрировал классную магию охотника на демонов."
+English_US,"Общине нужно, чтобы вы продемонстрировали крутую магию Охотника за демонами."
 Description,
 French,Cette communauté a besoin que tu fasses la preuve de tes pouvoirs magiques d'attrape-démons.
 Italian,La comunità ha bisogno di vedere com'è bella la magia degli acchiappa-demoni.
@@ -7827,7 +7827,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0412-Demon_Hunter
-English_US,"Эм, ну что ж..."
+English_US,"Эм, ну..."
 Description,From [0410-Choice]
 French,Hum… eh bien…
 Italian,"Um, allora..."
@@ -7846,7 +7846,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0413-Alta
-English_US,"Это не просто чайная, это чайная, в которой я даже не хочу находиться."
+English_US,"Это не только ПРОСТО чайная лавка, это чайная лавка, в которой я даже не хочу находиться."
 Description,
 French,"Non seulement ce n'est qu'un salon de thé, mais c'est un salon de thé où je n'ai aucune envie de rester."
 Italian,"È una semplice bottega del tè, e per giunta è una bottega del tè in cui non voglio restare."
@@ -7865,7 +7865,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0414-Demon_Hunter
-English_US,"Я, эм... Я понимаю... это..."
+English_US,"Я, э-э... понимаю... это..."
 Description,
 French,Je… euh… je vois… c'est…
 Italian,Io... capisco... è...
@@ -7884,7 +7884,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0415-Alta
-English_US,"Почему бы тебе не уехать отсюда и не найти настоящий город, где можно было бы помочь?"
+English_US,"Почему бы вам не уйти отсюда и не найти настоящий город, которому нужна помощь?"
 Description,
 French,Pourquoi tu ne pars pas à la recherche d'une vraie ville à aider ?
 Italian,Perché non te ne vai da qui e cerchi un vero villaggio da aiutare?
@@ -7903,7 +7903,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0416-Demon_Hunter
-English_US,"О, нет, нет, нет! В какое бы сообщество мы ни попали, мы должны держаться его."
+English_US,"О, нет-нет-нет! Какую бы общину мы ни нашли, мы ДОЛЖНЫ остаться с ней."
 Description,
 French,"Oh, non, non, non ! Dès qu'on tombe sur une communauté, on doit rester pour l'aider."
 Italian,"Oh, no, no, no! A prescindere dal tipo di comunità in cui ci imbattiamo, abbiamo il dovere di aiutarla."
@@ -7922,7 +7922,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0417-Demon_Hunter
-English_US,"Потому что иначе охотники на демонов могут просто уволиться, когда станет трудно."
+English_US,"Потому что иначе Охотники за демонами могут просто сдаться, когда станет трудно."
 Description,
 French,"Parce que sinon, ça voudrait dire que les attrape-démons reculent à la première difficulté."
 Italian,Altrimenti significherebbe che gli acchiappa-demoni si tirano indietro alla prima difficoltà.
@@ -7941,7 +7941,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0418-Demon_Hunter
-English_US,Хм... в школе нас особо не учили магии...
+English_US,Эм... нас особо не учили магии в школе...
 Description,From [0411-Choice]
 French,Hum… on ne nous a jamais enseigné aucun tour de magie à l'école…
 Italian,Uhm... non ci hanno mai insegnato molta magia a scuola...
@@ -7960,7 +7960,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0419-Demon_Hunter
-English_US,"Много лет назад я знал, как создать облако дыма. Я мог бы попробовать?"
+English_US,"Много лет назад я умел создавать дымовое облако. Может, попробовать это?"
 Description,
 French,"Il y a des années, je savais faire un nuage de fumée. Tu veux que j'essaie ?"
 Italian,Anni fa sapevo come creare una nuvola di fumo. Potrei provarci.
@@ -7979,7 +7979,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0420-Alta
-English_US,Звучит заманчиво.
+English_US,Звучит отлично.
 Description,
 French,Ça serait super.
 Italian,Sarebbe stupendo.
