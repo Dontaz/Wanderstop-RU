@@ -7998,7 +7998,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0421-Demon_Hunter
-English_US,"Ладно, ладно... вот так."
+English_US,"Ладно, что ж... приступим."
 Description,
 French,Bien… allons-y…
 Italian,Va bene... ecco qua.
@@ -8036,7 +8036,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0423-Alta
-English_US,...и это все?
+English_US,...и это всё?
 Description,
 French,… c'est tout ?
 Italian,È tutto qui?
@@ -8055,7 +8055,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0424-Demon_Hunter
-English_US,Это очень сложно сделать! Мне уже много лет не приходилось готовить ничего подобного!
+English_US,Это суперсложно сделать! Мне не приходилось создавать ничего подобного уже много лет!
 Description,
 French,C'est super dur à faire ! Je n'avais pas essayé depuis des années !
 Italian,È difficilissimo! Erano anni che non lo facevo!
@@ -8093,7 +8093,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0426-Demon_Hunter
-English_US,"Подобная магия просто для развлечения, на самом деле мы ее ни для чего не используем."
+English_US,"Магия, подобная этой, просто для развлечения, мы на самом деле не используем её ни для чего."
 Description,
 French,"Ce genre de magie, c'est juste pour rire. On ne s'en sert pour rien d'utile."
 Italian,"Queste magie sono solo per divertimento, non le usiamo per altro."
@@ -8112,7 +8112,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0427-Demon_Hunter
-English_US,"Кроме того, моя роль здесь не в том, чтобы творить чудеса, а в том, чтобы оказывать непосредственную помощь людям."
+English_US,"К тому же, моя роль здесь не в том, чтобы колдовать, а в том, чтобы оказывать прямую помощь людям."
 Description,
 French,"En plus, je ne suis pas ici pour faire de la magie. Je suis ici pour aider."
 Italian,"Inoltre, il mio ruolo non è quello di fare magie, ma fornire un aiuto diretto e concreto alle persone."
@@ -8131,7 +8131,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0428-Demon_Hunter
-English_US,"Я поклялся помогать этому сообществу и буду придерживаться этого обязательства, несмотря ни на что."
+English_US,"Я поклялся помочь этой общине и буду верен этому обязательству, несмотря ни на что."
 Description,
 French,J'ai juré d'aider cette communauté et je tiendrai ma promesse quoi qu'il advienne.
 Italian,Ho giurato di aiutare questa comunità e manterrò la mia parola costi quel che costi.
@@ -8150,7 +8150,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0429-Demon_Hunter
-English_US,Есть какие-нибудь вопросы по этому поводу?
+English_US,Есть ли на данном этапе какие-либо вопросы?
 Description,
 French,Tu as des questions pour l'instant ?
 Italian,Ci sono domande?
@@ -8169,7 +8169,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0430-Choice
-English_US,"Нет, никаких вопросов."
+English_US,"Не-а, никаких вопросов."
 Description,
 French,"Non, pas de question."
 Italian,"No, nessuna domanda."
@@ -8188,7 +8188,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0431-Choice
-English_US,Вопрос: кто самый мерзкий демон в истории?
+English_US,Вопрос: кто самый отвратительный демон в истории?
 Description,"""nasty"" means ""partaking in unpleasant or unsavory activities"""
 French,Question : qui est le plus méchant démon de l'histoire ?
 Italian,Domanda: chi è il demone più cattivo della storia?
@@ -8207,7 +8207,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0432-Demon_Hunter
-English_US,"Ну, это, пожалуй, все, о чем я могу думать, если говорить о моей истории. Это, э-э... это я!"
+English_US,"Что ж, это практически всё, что я могу придумать, касательно моей истории. Это, э-э... это я!"
 Description,From [0430-Choice]
 French,"Eh bien, en ce qui me concerne, je ne vois pas trop quoi ajouter. C'est… euh… tu sais tout !"
 Italian,Questo è più o meno tutto ciò che riesco a raccontare di me. Tutto… quello che sono.
@@ -8226,7 +8226,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0433-Demon_Hunter
-English_US,"То... самый ""противный""??"
+English_US,С... самый «отвратительный»??
 Description,From [0431-Choice]
 French,Le… le plus méchant ??
 Italian,"Il... il ""più cattivo""?"
@@ -8245,7 +8245,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0434-Alta
-English_US,"Да! Кто-то очень мерзкий, очень больной. Расскажи мне о плохом, очень плохом демоне."
+English_US,"Ага! Кто-то реально отвратный, реально больной. Расскажите мне о плохом, плохом демоне."
 Description,
 French,"Ouais ! Un vrai méchant, un malade. Parle-moi d'un mauvais, mauvais démon."
 Italian,"Sì! Qualcuno davvero cattivo, davvero malato. Parlami di un demone cattivissimo."
@@ -8264,7 +8264,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0435-Demon_Hunter
-English_US,"О, боже... хорошо..."
+English_US,Э-э... о боже... ну...
 Description,
 French,Euh… oh là là… eh bien…
 Italian,Ehm... oh cavolo... ecco...
@@ -8283,7 +8283,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0436-Demon_Hunter
-English_US,"Я думаю... может быть, {{Murgmur}}??"
+English_US,"Полагаю... может быть, {{Мургмур}}??"
 Description,
 French,Je dirais… peut-être... {{Murgmur}} ??
 Italian,Direi... forse {{Murgmur}}?
@@ -8302,7 +8302,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0437-Demon_Hunter
-English_US,{{Murgmur}} был древним демоном колоссального масштаба и питался исключительно сиротами.
+English_US,{{Мургмур}} был колоссальным демоном из Древней Эпохи и питался исключительно сиротами.
 Description,"""Ancient Age"" is meant to indicate a period of time long in the past"
 French,{{Murgmur}} était un démon colossal de l'âge ancien. Il se nourrissait exclusivement d'orphelins.
 Italian,{{Murgmur}} era un demone gigantesco dell'antichità e si nutriva esclusivamente di orfani.
@@ -8321,7 +8321,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0438-Demon_Hunter
-English_US,"По-видимому, за свою жизнь он съел более пяти тысяч сирот!"
+English_US,"По всей видимости, он съел более пяти тысяч сирот за свою жизнь!"
 Description,
 French,"Apparemment, il a mangé plus de cinq-mille orphelins sur toute sa vie !"
 Italian,Pare che abbia mangiato più di cinquemila orfani nella sua vita!
@@ -8359,7 +8359,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0440-Choice
-English_US,"Учитывая все обстоятельства, сирот не так уж и много."
+English_US,"Если подумать, это не так уж и много сирот."
 Description,
 French,"Quand on y réfléchit bien, ça n'en fait pas tant que ça."
 Italian,"Tutto considerato, non sono tanti orfani."
@@ -8378,7 +8378,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0441-Demon_Hunter
-English_US,"Я знаю! До {{Murgmur}} наибольшее количество сирот, которых когда-либо съедал демон, составляло, может быть, две тысячи."
+English_US,"Знаю! До {{Мургмура}} самым большим количеством сирот, которое когда-либо съедал демон, было, может быть, тысячи две."
 Description,From [0439-Choice]
 French,"Je sais ! Avant {{Murgmur}}, le plus grand nombre d'orphelins mangés par un démon était… peut-être deux-mille."
 Italian,"Lo so! Prima di {{Murgmur}}, il numero massimo di orfani mangiati da un demone era stato tipo duemila."
@@ -8397,7 +8397,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0442-Demon_Hunter
-English_US,"Так что ПЯТЬ тысяч были такими: ""Ого, у этого парня серьезный бизнес!"""
+English_US,"Так что ПЯТЬ тысяч — это было типа: «Ого, этот парень настроен серьёзно!»"
 Description,"""serious business"" means ""someone very devoted to what they're doing"""
 French,"Alors CINQ-MILLE, tu vois… ""Ce type-là, il ne rigolait pas !"""
 Italian,"Per cui CINQUE mila era come dire: ""Oh oh, questo tipo fa sul serio!"""
@@ -8416,7 +8416,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0443-Demon_Hunter
-English_US,Разве это не так?? Сколько сирот было бы для вас большим количеством сирот?
+English_US,"Разве нет?? А сколько сирот, по-вашему, много?"
 Description,From [0440-Choice]
 French,Ah non ? Combien il faudrait d'orphelins pour que ça fasse beaucoup pour toi ?
 Italian,"Ah no? Secondo te, quanti orfani ci vorrebbero per essere considerati tanti?"
@@ -8435,7 +8435,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0444-Choice
-English_US,Как насчёт... ВОСЕМЬ тысяч сирот!!
+English_US,Как насчёт... ВОСЬМИ тысяч сирот!!
 Description,
 French,Je dirais… HUIT-MILLE orphelins !!
 Italian,Che ne dici di... OTTO mila orfani!
@@ -8473,7 +8473,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0446-Choice
-English_US,"Не знаю, мне нужно было бы это как-то прощупать."
+English_US,"Не знаю, мне нужно вроде как прочувствовать это."
 Description,
 French,"Je sais pas, il faudrait que j'y réfléchisse."
 Italian,"Non lo so, dovrei rifletterci prima."
@@ -8492,7 +8492,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0447-Demon_Hunter
-English_US,"О боже, я не думаю, что какой-нибудь демон когда-либо съедал восемь тысяч сирот..."
+English_US,"О боже, не думаю, что ХОТЬ КАКОЙ-ТО демон когда-либо съедал восемь тысяч сирот..."
 Description,From [0444-Choice]
 French,"Oh là là, je ne crois pas qu'un démon ait jamais mangé huit-mille orphelins…"
 Italian,"Cavolo, NESSUN demone è mai riuscito a mangiare ottomila orfani..."
@@ -8511,7 +8511,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0448-Alta
-English_US,Тогда я не впечатлен.
+English_US,Тогда я не впечатлена.
 Description,
 French,Alors ça ne m'impressionne pas.
 Italian,Allora non mi interessa.
@@ -8530,7 +8530,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0449-Demon_Hunter
-English_US,"Хорошо... Клянусь, тогда это было действительно грандиозно..."
+English_US,"Ну... клянусь, тогда это было реально большим событием..."
 Description,
 French,"Ah… pourtant, je te jure qu'à l'époque, c'était quelque chose…"
 Italian,Bè... ti posso assicurare che a quei tempi era considerato davvero terribile…
@@ -8549,7 +8549,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0450-Demon_Hunter
-English_US,Миллион сирот?? Действительно ли в мире так много сирот?
+English_US,Миллион сирот?? Разве в мире вообще есть столько сирот?
 Description,From [0445-Choice]
 French,Un million d'orphelins ? Y en a-t-il seulement autant dans le monde entier ?
 Italian,Un milione di orfani? Non credo ci siano così tanti orfani nel mondo!
@@ -8568,7 +8568,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0451-Alta
-English_US,При наличии достаточной силы воли любой может найти достаточное количество сирот. Я в это верю.
+English_US,При достаточном упорстве кто угодно может наскрести достаточно сирот. Я в это верю.
 Description,
 French,"Avec suffisamment de volonté, n'importe qui peut se goinfrer d'autant d'orphelins. Voilà ce que je crois."
 Italian,"Con abbastanza forza di volontà, chiunque può raccattare abbastanza orfani. Questo è ciò che credo."
@@ -8587,7 +8587,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0452-Demon_Hunter
-English_US,"Что ж, независимо от того, что вы думаете, в те времена пять тысяч сирот были большим количеством сирот."
+English_US,"Ну, что бы вы ни думали, тогда пять тысяч сирот было большим количеством сирот."
 Description,
 French,"Eh bien, tu peux penser ce que tu veux, mais à l'époque, cinq-mille orphelins ça faisait beaucoup d'orphelins."
 Italian,"Bè, qualunque cosa tu pensi, all'epoca cinquemila orfani erano tantissimi."
@@ -8606,7 +8606,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0453-Alta
-English_US,"Знаете, я смотрел, как демон пожирает сирот, пока не решил, что с меня хватит."
+English_US,"Знаете, я бы смотрела, как демон ест сирот, пока не решила бы, что хватит."
 Description,From [0446-Choice]
 French,"Tu sais, je pourrais regarder le démon manger des orphelins jusqu'à ce que je décide que ça fait assez."
 Italian,Osserverei il demone mangiare gli orfani finché non decido che ne sono abbastanza.
@@ -8644,7 +8644,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0455-Alta
-English_US,Вы спрашивали мое мнение.
+English_US,Вы спросили моё мнение.
 Description,
 French,Tu m'as demandé mon avis.
 Italian,Hai chiesto tu la mia opinione.
@@ -8663,7 +8663,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0456-Demon_Hunter
-English_US,"Ладно, хорошо... Я просто хочу сказать, что в те времена пять тысяч сирот были большим количеством сирот."
+English_US,"Ладно, ну... я просто говорю, что тогда пять тысяч сирот было большим количеством сирот."
 Description,
 French,"OK, bon… je dis simplement que cinq-mille orphelins, à l'époque, ça faisait beaucoup d'orphelins."
 Italian,Sto solo dicendo che all'epoca cinquemila orfani erano tanti.
@@ -8682,7 +8682,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0457-Demon_Hunter
-English_US,"Вау, извините, мы снова сбились с пути, мои извинения."
+English_US,"Ого, простите, мы снова отвлеклись, мои извинения."
 Description,
 French,"Waouh, je m'excuse, je crois que j'ai perdu le fil… pardon."
 Italian,"Scusa, abbiamo divagato di nuovo, perdonami."
@@ -8701,7 +8701,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0458-Demon_Hunter
-English_US,"Хотя, честно говоря, я вроде как рассказал все о себе. Это, э-э... это я!"
+English_US,"Хотя, честно говоря, я вроде как уже всем поделился о себе. Это, э-э... это я!"
 Description,
 French,"Même si, pour être honnête, j'ai dit tout ce qu'il y avait à dire sur moi. C'est… euh… tu sais tout !"
 Italian,Anche se credo di aver detto tutto di me. Tutto... quello che sono!
@@ -8720,7 +8720,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0459-Demon_Hunter
-English_US,"Поскольку я не могу придумать, что еще сказать, на этом я завершаю эту {{Vreetle}} церемонию!"
+English_US,"Раз уж я не могу придумать, что ещё сказать, я сим завершаю эту Церемонию {{Вритл}}!"
 Description,
 French,"Et comme je ne vois plus quoi ajouter, c'est ainsi que je vais conclure cette cérémonie du {{vreetle}} !"
 Italian,"Poiché non mi viene in mente nient'altro da dire, concludo questa cerimonia del {{Vreetle}}!"
@@ -8758,7 +8758,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0461-Demon_Hunter
-English_US,"Да, церемония окончена!"
+English_US,"Ага, церемония окончена!"
 Description,
 French,"Ouais, la cérémonie est terminée !"
 Italian,"Sì, la cerimonia è finita!"
@@ -8796,7 +8796,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0463-Demon_Hunter
-English_US,ждать! Подожди секунду!
+English_US,ПОДОЖДИТЕ! Постойте секунду!
 Description,
 French,ATTENDS ! Attends une seconde !
 Italian,ASPETTA! Aspetta un secondo!
@@ -8815,7 +8815,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0464-Demon_Hunter
-English_US,"Итак, эм... Я, эм..."
+English_US,"Так, э-э... я, эм..."
 Description,
 French,Alors… euh… je… hum…
 Italian,"Quindi, ehm... io, ehm..."
@@ -8834,7 +8834,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0465-Demon_Hunter
-English_US,"Я не думаю, что тебе захочется, эм... рассказать что-нибудь еще о СЕБЕ?"
+English_US,"Полагаю, вам не хочется, может быть, э-э... рассказать что-нибудь ещё о СЕБЕ?"
 Description,
 French,J'imagine que tu ne comptes pas… euh… en dire davantage sur toi ?
 Italian,"Non è che per caso tu abbia voglia, forse, uh... di dire qualcosa in più su di TE?"
@@ -8853,7 +8853,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0466-Demon_Hunter
-English_US,"Типа, ты не обязана, но, может быть, ты захочешь... поделиться... чем-нибудь?"
+English_US,"Типа, вы не обязаны, но, эм, может, вы хотели бы... поделиться... чем-нибудь?"
 Description,
 French,Tu n'envisages pas de… comment dire… hum… partager quelque chose ?
 Italian,Non hai voglia... come posso dire... ecco... di condividere qualcosa con me?
@@ -8872,7 +8872,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0467-Demon_Hunter
-English_US,"Просто, знаешь, если захочешь."
+English_US,"Просто, знаете, если хотите."
 Description,
 French,Parce que tu sais… si tu veux…
 Italian,Perché sai... se vuoi...
@@ -8948,7 +8948,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0471-Demon_Hunter
-English_US,...о. Да. Хорошо. Попался.
+English_US,...о. Да. Ладно. Понял.
 Description,
 French,… ah. Oui. OK. Compris.
 Italian,... oh. D'accordo. Ho capito.
@@ -8967,7 +8967,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0472-Demon_Hunter
-English_US,"Да, все в порядке. Спасибо за чай. Да."
+English_US,"Это совершенно нормально, да. Спасибо за, эм, чай. Угу."
 Description,
 French,Aucun problème. Oui. C'est bon. Merci pour le… pour le thé. Ouais.
 Italian,Va benissimo così. Grazie per... il tè. Sì.
@@ -8986,7 +8986,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0473-Alta
-English_US,"Дай угадаю, ты хочешь провести еще одну церемонию."
+English_US,"Дайте угадаю, вы хотите провести ещё одну церемонию."
 Description,
 French,Laisse-moi deviner… tu veux faire une autre cérémonie…
 Italian,"Fammi indovinare, vuoi fare un'altra cerimonia."
@@ -9024,7 +9024,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0475-Alta
-English_US,"О, привет...?"
+English_US,"Э, здравствуйте...?"
 Description,
 French,Euh… alors ?
 Italian,"Uh, allora...?"
@@ -9062,7 +9062,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0477-Alta
-English_US,Ты в порядке? Что-то не так?
+English_US,С вами всё в порядке? Что-то не так?
 Description,
 French,Tu vas bien ? Quelque chose ne va pas ?
 Italian,Stai bene? C'è qualcosa che non va?
@@ -9138,7 +9138,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0481-Alta
-English_US,Я просто загляну к тебе позже.
+English_US,Я просто загляну к вам позже.
 Description,
 French,On verra si tu vas mieux plus tard.
 Italian,Tornerò più tardi a vedere come stai.
@@ -9157,7 +9157,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0482-Alta
-English_US,"Привет, чувствуешь себя лучше?"
+English_US,"Эй, полегчало?"
 Description,
 French,"Salut, ça va mieux ?"
 Italian,"Ehi, ti senti meglio?"
@@ -9195,7 +9195,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0484-Alta
-English_US,"Что происходит? Есть какая-то причина, по которой никто больше не разговаривает?"
+English_US,"Что происходит? Есть ли какая-то причина, по которой все замолчали?"
 Description,
 French,Qu'est-ce qui se passe ? Pourquoi tu ne dis plus un mot ?
 Italian,Cosa sta succedendo? C'è un motivo per cui nessuno parla più?
@@ -9233,7 +9233,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0486-Alta
-English_US,"Ты меня слышишь?! Ты понимаешь, о чем я говорю??"
+English_US,"Вы меня слышите?! Вы понимаете, что я говорю??"
 Description,
 French,Tu m'entends ? Tu comprends ce que je dis ?
 Italian,Riesci a sentirmi?! Capisci cosa sto dicendo?
@@ -9271,7 +9271,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0488-Alta
-English_US,....неважно.
+English_US,....проехали.
 Description,
 French,… laisse tomber.
 Italian,… Lasciamo stare.
