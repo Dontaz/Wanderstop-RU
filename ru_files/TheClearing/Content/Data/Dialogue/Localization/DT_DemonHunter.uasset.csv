@@ -6022,7 +6022,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0317-Alta
-English_US,Еще раз?!
+English_US,Опять?!
 Description,
 French,Encore ?!
 Italian,Un'altra?!
@@ -6041,7 +6041,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0318-Demon_Hunter
-English_US,"Что ж, я понял, что в прошлый раз плохо справился с работой. Я поставил вас в тупик."
+English_US,"Ну, я понял, что в прошлый раз справился плохо. Я поставил вас в неловкое положение."
 Description,
 French,C'est que… j'ai compris que je n'ai pas bien procédé la dernière fois. Je t'ai placée au centre du truc…
 Italian,"Ebbene, ho capito di aver fatto un pessimo lavoro l'ultima volta. Ti ho messo completamente in difficoltà."
@@ -6060,7 +6060,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0319-Demon_Hunter
-English_US,Охотники на демонов должны подавать пример! Мы должны направлять и возвышать!
+English_US,Охотники за демонами должны подавать пример! Мы должны наставлять и вдохновлять!
 Description,
 French,Les attrape-démons sont censés montrer l'exemple ! On est censés guider et encourager !
 Italian,Gli acchiappa-demoni dovrebbero dare l'esempio! Dovremmo guidare ed incoraggiare!
@@ -6079,7 +6079,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0320-Demon_Hunter
-English_US,"С моей стороны было невежливо ожидать, что вы откроетесь первыми. Мне жаль."
+English_US,"С моей стороны было грубо ожидать, что вы откроетесь первой. Простите."
 Description,
 French,C'était incorrect de ma part d'attendre que tu te confies en premier. Je m'excuse.
 Italian,È stato scortese da parte mia aspettarmi che ti aprissi per prima. Mi dispiace.
@@ -6098,7 +6098,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0321-Demon_Hunter
-English_US,"Так что, если мы проведем еще одну церемонию, и на этот раз я расскажу о себе?"
+English_US,"Так что, если мы проведём ещё одну церемонию, и на этот раз я расскажу о себе?"
 Description,
 French,"Et si on faisait une autre cérémonie et, cette fois, c'est moi qui parle de moi ?"
 Italian,E se facessimo un'altra cerimonia e questa volta invece parlerò di me?
@@ -6117,7 +6117,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0322-Demon_Hunter
-English_US,"Я бы чувствовал себя намного лучше, если бы мы могли начать все сначала."
+English_US,"Мне бы стало намного легче, если бы мы могли начать с чистого листа."
 Description,
 French,Je me sentirais bien mieux si on prenait un nouveau départ.
 Italian,Mi sentirei molto meglio se potessimo ricominciare da capo.
@@ -6136,7 +6136,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0323-Demon_Hunter
-English_US,Тебя это устроит?
+English_US,Вас это устроит?
 Description,
 French,Tu crois que tu pourrais l'accepter ?
 Italian,Cosa ne dici?
@@ -6155,7 +6155,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0324-Choice
-English_US,Отлично. [искренне]
+English_US,Ладно. [искренне]
 Description,
 French,D'accord. [sincère]
 Italian,D'accordo. [con sincerità]
@@ -6174,7 +6174,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0325-Choice
-English_US,Отлично. [саркастично]
+English_US,Ладно. [саркстично]
 Description,
 French,D'accord. [sarcastique]
 Italian,D'accordo. [con sarcasmo]
@@ -6193,7 +6193,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0326-Choice
-English_US,"Отлично. [усталый, разбитый жизнью, отстраненный, озлобленный]"
+English_US,"Ладно. [устало, измученно жизнью, отстранённо, с горечью]"
 Description,
 French,"D'accord. [lasse, démoralisée, indifférente, amère]"
 Italian,"D'accordo. [stanca, abbattuta dalla vita, distaccata, amareggiata]"
@@ -6212,7 +6212,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0327-Demon_Hunter
-English_US,"Отлично! Как и в прошлый раз, мне нужен еще один {{Vreetle}} чай!"
+English_US,"Отлично! Как и в прошлый раз, мне понадобится ещё один чай из {{Вритл}}!"
 Description,From [0324-Choice]<lf>From [0325-Choice]<lf>From [0326-Choice]
 French,"Super ! Comme la dernière fois, il va me falloir un autre thé au {{vreetle}} !"
 Italian,"Grande! Proprio come l'ultima volta, mi servirà un tè al {{Vreetle}}!"
@@ -6250,7 +6250,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0329-Demon_Hunter
-English_US,"...у вас, случайно, нет какого-нибудь мятного ароматизатора, который вы могли бы добавить в него?"
+English_US,"...у вас случайно нет мяты, которую можно в него добавить?"
 Description,
 French,… tu aurais un goût à la menthe que tu pourrais ajouter ?
 Italian,… hai per caso un po' di menta da aggiungerci?
@@ -6288,7 +6288,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0331-Demon_Hunter
-English_US,"Немного мяты, вероятно, помогло бы мне немного успокоить нервы перед публичными выступлениями..."
+English_US,"Немного мяты, наверное, помогло бы мне немного успокоить нервы перед публичными выступлениями..."
 Description,
 French,Un peu de menthe pourrait m'aider à me calmer quand je parle en public…
 Italian,La menta mi potrebbe aiutare a calmare un po' i nervi quando parlo in pubblico...
@@ -6307,7 +6307,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0332-Alta
-English_US,Конечно. {{Vreetle}} чай со вкусом мяты.
+English_US,Конечно. Чай из {{Вритл}} с мятой.
 Description,
 French,Bien sûr. Un thé au {{vreetle}} avec goût menthe.
 Italian,Sicuro. Tè al {{Vreetle}} con un gusto di menta.
@@ -6364,7 +6364,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0335-Demon_Hunter
-English_US,Воистину так! Вы принесли мне
+English_US,Воистину! Вы принесли мне...
 Description,
 French,Tout à fait ! Tu m'as apporté le-
 Italian,Invero! Mi hai portato il-
@@ -6383,7 +6383,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0336-Demon_Hunter
-English_US,"... скажите, а разве чай не должен быть намного горячее, чем этот?"
+English_US,"...скажите, эм, разве чай не должен быть гораздо горячее?"
 Description,
 French,"… eh, dis… le thé n'est pas censé être plus chaud que ça ?"
 Italian,"... diciamo, um, il tè non dovrebbe essere molto più caldo di così?"
@@ -6402,7 +6402,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0337-Demon_Hunter
-English_US,"Он кажется, пожалуй, чуть теплым."
+English_US,"Он кажется довольно, эм, еле тёплым."
 Description,
 French,Il m'a l'air plutôt… hum… tiède.
 Italian,Sembra piuttosto... ehm... tiepido.
@@ -6440,7 +6440,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0339-Demon_Hunter
-English_US,Воистину! Вы принесли мне
+English_US,Воистину! Вы принесли мне...
 Description,
 French,Tout à fait ! Tu m'as apporté le-
 Italian,Invero! Mi hai portato il-
@@ -6459,7 +6459,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0340-Demon_Hunter
-English_US,"... о, подождите, я не чувствую вкуса чайных листьев в этом напитке..."
+English_US,"...о, погодите, я совсем не чувствую здесь вкуса чайных листьев..."
 Description,
 French,… eh attend… je ne retrouve pas le goût des feuilles de thé là-dedans…
 Italian,"... aspetta, non sento il sapore delle foglie di tè..."
@@ -6478,7 +6478,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0341-Demon_Hunter
-English_US,"Вы уверены, что на самом деле добавляли чай в смесь?"
+English_US,"Вы уверены, что положили в смесь чай?"
 Description,
 French,Tu es sûre que tu as mis du thé dedans ?
 Italian,Sei sicura di aver messo le foglie di tè nella miscela?
@@ -6497,7 +6497,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0342-Alta
-English_US,"Думаю, нет. Я переделаю это."
+English_US,"Наверное, нет. Я переделаю."
 Description,
 French,Faut croire que non. Je vais le refaire.
 Italian,Suppongo di no. Vado a rifarlo.
@@ -6516,7 +6516,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0343-Demon_Hunter
-English_US,"Давайте посмотрим, это....."
+English_US,"Посмотрим, это, эм..."
 Description,
 French,"Voyons ça, c'est… hum…"
 Italian,"Vediamo, è… um…"
@@ -6535,7 +6535,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0344-Demon_Hunter
-English_US,"…ну, я попробовала {{Vreetle}}, но не думаю, что в нем есть какой-то мятный привкус..."
+English_US,"...ну, э-э, я чувствую вкус {{Вритл}}, но не думаю, что тут есть мята..."
 Description,
 French,"… eh bien, il y a le goût du {{vreetle}}, mais je ne trouve pas qu'il y ait de menthe…"
 Italian,"... bè, sento il sapore del {{Vreetle}}, ma non credo che ci sia la menta..."
@@ -6592,7 +6592,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0347-Demon_Hunter
-English_US,Большое вам спасибо!
+English_US,"Ах, спасибо вам большое!"
 Description,From [0345-Choice]
 French,"Ah, merci beaucoup !"
 Italian,"Ah, grazie mille!"
@@ -6611,7 +6611,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0348-Demon_Hunter
-English_US,"'- о, я понимаю... ну, я полагаю, это нормально. {{Vreetle}} - важная часть."
+English_US,"О, понимаю... ну, полагаю, это ничего. {{Вритл}} — важная часть."
 Description,From [0346-Choice]
 French,"Ah, je vois… bon, j'imagine que ça ira. C'est le {{vreetle}} qui compte."
 Italian,"Oh, capisco... bè, va bene, suppongo. Il {{Vreetle}} è la parte più importante."
@@ -6630,7 +6630,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0349-Demon_Hunter
-English_US,Давайте просто покончим с этим и начнем церемонию!
+English_US,Давайте просто перейдём к делу и начнём церемонию!
 Description,
 French,On va faire avec et on commence la cérémonie !
 Italian,Andiamo avanti e iniziamo la cerimonia!
@@ -6649,7 +6649,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0350-Demon_Hunter
-English_US,"Давайте посмотрим, это....."
+English_US,"Посмотрим, это, эм..."
 Description,
 French,"Voyons ça, c'est… hum…"
 Italian,"Vediamo, è… um…"
@@ -6668,7 +6668,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0351-Demon_Hunter
-English_US,"..ну, я чувствую вкус мяты, но я не думаю, что в нём есть какая-то {{Vreetle}} Свекла..."
+English_US,"...ну, э-э, я чувствую вкус мяты, но не думаю, что тут есть свекла {{Вритл}}..."
 Description,
 French,"… eh bien, il y a le goût de la menthe, mais je ne trouve pas qu'il y ait de betterave de {{vreetle}}…"
 Italian,"… bè, sento il sapore della menta, ma non credo che ci sia la barbabietola di {{Vreetle}}..."
@@ -6687,7 +6687,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0352-Choice
-English_US,"О, я переделаю его для тебя."
+English_US,"О, я переделаю его для вас."
 Description,
 French,"Oh, je vais te le refaire."
 Italian,"Oh, vado a rifartelo."
@@ -6706,7 +6706,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0353-Choice
-English_US,У нас нет никакого {{Vreetle}} Свекла.
+English_US,У нас нет свеклы {{Вритл}}.
 Description,
 French,On n'a pas de betterave de {{vreetle}}.
 Italian,Non abbiamo barbabietole di {{Vreetle}}.
@@ -6725,7 +6725,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0354-Demon_Hunter
-English_US,"Ах, большое вам спасибо!"
+English_US,"Ах, спасибо вам большое!"
 Description,From [0352-Choice]
 French,"Ah, merci beaucoup !"
 Italian,"Ah, grazie mille!"
@@ -6744,7 +6744,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0355-Demon_Hunter
-English_US,Правда?? Но... но {{Vreetle}} Свекла - важнейшая часть церемонии {{Vreetle}}...
+English_US,Правда?? Но... но свекла {{Вритл}} — важнейшая часть Церемонии {{Вритл}}...
 Description,From [0353-Choice]
 French,C'est vrai ?? Mais… mais la betterave de {{vreetle}} est essentielle à la cérémonie du {{vreetle}}…
 Italian,Davvero? Ma... ma la barbabietola di {{Vreetle}} è una parte cruciale della cerimonia del {{Vreetle}}...
@@ -6763,7 +6763,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0356-Alta
-English_US,"Да, что ж, я полагаю, вы собираетесь внедрить новшество в церемонию без {{Vreetle}}."
+English_US,"Да, ну, полагаю, вы сейчас изобретёте без{{вритло}}вую церемонию {{Вритл}}."
 Description,
 French,"Ouais, bon… tu n'as qu'à nous inventer une cérémonie du {{vreetle}} sans {{vreetle}}."
 Italian,"Sì, bè immagino che dovrai inventare una nuova cerimonia del {{Vreetle}} senza il {{Vreetle}}."
@@ -6782,7 +6782,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0357-Demon_Hunter
-English_US,"О, э-э, я полагаю... мы могли бы попробовать это..."
+English_US,"О, э-э, полагаю... мы могли бы попробовать..."
 Description,
 French,Ah... Je pourrais peut-être essayer.
 Italian,"Oh, suppongo che... potremmo provarci..."
@@ -6801,7 +6801,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0358-Demon_Hunter
-English_US,"Давайте посмотрим, это"
+English_US,"Посмотрим, это, эм..."
 Description,
 French,"Voyons ça, c'est… hum…"
 Italian,"Vediamo, è… um…"
@@ -6820,7 +6820,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0359-Demon_Hunter
-English_US,"... э-э... ну, на самом деле, я не ощущаю вкуса ни мяты, ни {{Vreetle}} Свеклы в нем..."
+English_US,"...ну, э-э, я на самом деле не чувствую вкуса ни мяты, ни свеклы {{Вритл}}..."
 Description,
 French,… eh bien… euh… je ne retrouve pas vraiment le goût de la menthe ou de la betterave de {{vreetle}}…
 Italian,"… bè, uh, in realtà non sento né la menta né la barbabietola di {{Vreetle}}..."
@@ -6839,7 +6839,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0360-Alta
-English_US,"Честно говоря, я уже и забыла, какой чай вы просили."
+English_US,"Честно говоря, я уже забыла, какой чай вы просили."
 Description,
 French,"Pour être honnête, j'avais oublié le genre de thé que tu avais demandé."
 Italian,"A dire il vero, avevo già dimenticato che tipo di tè avevi chiesto."
@@ -6858,7 +6858,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0361-Demon_Hunter
-English_US,"Пожалуйста, не могли бы вы попробовать приготовить чашку чая одновременно с {{Vreetle}} Свеклой и мятой?"
+English_US,"Пожалуйста, не могли бы вы попытаться приготовить чашку чая и со свеклой {{Вритл}}, и с мятой?"
 Description,
 French,"S'il te plaît, tu ne pourrais pas essayer de préparer une tasse de thé avec de la betterave de {{vreetle}} et de la menthe ?"
 Italian,"Per favore, potresti provare a preparare una tazza di tè con la barbabietola di {{Vreetle}} e la menta?"
@@ -6877,7 +6877,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0362-Demon_Hunter
-English_US,Это значительно упростило бы всю церемонию...
+English_US,"Это сделало бы всю церемонию намного, намного проще..."
 Description,
 French,Ça nous faciliterait grandement toute la cérémonie…
 Italian,"Renderebbe l'intera cerimonia molto, ma molto più semplice..."
@@ -6896,7 +6896,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0363-Alta
-English_US,Вздох... хорошо. Я пойду займусь этим.
+English_US,Эх... ладно. Пойду сделаю.
 Description,
 French,Bon… OK. Je vais le faire…
 Italian,Oh... va bene. Lo farò.
@@ -6915,7 +6915,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0364-Demon_Hunter
-English_US,"Ммммм, какой чудесный вкус мяты..."
+English_US,"М-м-м-м-м, этот прекрасный мятный вкус..."
 Description,
 French,Mmmmm… le merveilleux goût de menthe que voilà…
 Italian,"Mmmmm, un bellissimo sapore di menta..."
@@ -6934,7 +6934,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0365-Demon_Hunter
-English_US,Идеальный. Просто идеально.
+English_US,Идеально. Просто идеально.
 Description,
 French,Parfait. Tout simplement parfait.
 Italian,Perfetto. Proprio perfetto.
@@ -6953,7 +6953,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0366-Demon_Hunter
-English_US,"Окей, отлично! Я готова к церемонии!"
+English_US,"Хорошо, отлично! Я готов к церемонии!"
 Description,
 French,"OK, super ! En avant pour la cérémonie !"
 Italian,Fantastico! È tutto pronto per la cerimonia!
@@ -6972,7 +6972,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0367-Demon_Hunter
-English_US,Где должна состояться церемония {{Vreetle}} для меня?
+English_US,Где должна проходить Церемония {{Вритл}} для меня?
 Description,
 French,Où devrait se dérouler la cérémonie du {{vreetle}} pour moi ?
 Italian,Dove potremmo svolgere la cerimonia del {{Vreetle}} in mio onore?
@@ -6991,7 +6991,7 @@ Swedish,
 Thai,
 Arabic,
 Key,DemonHunter_RAW-0368-Choice
-English_US,Давайте сделаем это у {{pluffin}}s.
+English_US,"Давайте проведём её вон там, у {{пухликов}}."
 Description,
 French,Allons la faire autour des {{pluffins}}.
 Italian,Facciamola vicino ai {{pluffin}}.
