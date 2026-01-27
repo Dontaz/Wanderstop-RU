@@ -1842,7 +1842,7 @@ Swedish,Vagga
 Thai,ผลไม้ Weyling
 Arabic,
 Key,ItemLabel_FruitCB_Colorswap
-English_US,Чудо-{{Яблочко}}
+English_US,Чудо-{{Поммэ}}
 Description,
 French,{{Pomme}} miracle
 Italian,Miracolo di {{Pomme}}
@@ -6022,7 +6022,7 @@ Swedish,Vila ... Jag kunde vila en sekund ...
 Thai,พักผ่อน ... ฉันสามารถพักผ่อนได้สักวินาที ...
 Arabic,
 Key,Forest_Zenith2
-English_US,"Но... но что если я...<lf>Что если я что-то упущу?<lf> <lf>Что если {{Зенит}} где-то там?<lf>Или... что-то ещё, что могло бы меня починить?"
+English_US,"Но... но что если я...<lf>Что если я что-то упущу?<lf> <lf>Что если {{Зенит}} где-то там?<lf>Или... что-то ещё, что могло бы меня исправить?"
 Description,
 French,"Mais… et si… et si je…<lf> Si je ratais quelque chose ?<lf>  <lf> Et si {{Zenith}} était là, quelque part ?<lf> Ou… y aurait-il autre chose qui pourrait me réparer ?"
 Italian,Ma... e se... e se io...<lf>E se mi fossi persa qualcosa?<lf><lf>E se {{Zenith}} fosse lì da qualche parte?<lf>Oppure... qualcos'altro che puoi rimettermi in sesto?
@@ -16187,7 +16187,7 @@ Swedish,Tea -begäran:<lf>- Den normala typen av te
 Thai,คำขอชา:<lf>- ชาชนิดปกติ
 Arabic,
 Key,FieldGuideRequest_Tea_Batkid3a
-English_US,<RequestTitle>Запрос чая:</><lf>• Чудо-{{Яблочко}} (спросите {{Боро}})
+English_US,<RequestTitle>Запрос чая:</><lf>• Чудо-{{Поммэ}} (спросите {{Боро}})
 Description,
 French,<RequestTitle>Thé demandé :</><lf>• {{Pomme}} miracle (demander à Boro)
 Italian,<RequestTitle>Richiesta di tè:</><lf>• Miracolo di {{Pomme}} (chiedere a {{Boro}})
@@ -16206,7 +16206,7 @@ Swedish,Tea -begäran:<lf>- Miracle Pomme (fråga Boro)
 Thai,คำขอชา:<lf>- Miracle Pomme (ถาม Boro)
 Arabic,
 Key,FieldGuideRequest_Tea_Batkid3b
-English_US,"<RequestTitle>Запрос чая:</><lf>• Чудо-{{Яблочко}} (окружите Дерево {{Вейлинг}} тремя Цветогрибами).<lf>• Если хотите сделать напиток более восхитительным, можете добавить два других плода для цвета."
+English_US,"<RequestTitle>Запрос чая:</><lf>• Чудо-{{Поммэ}} (окружите Дерево {{Вейлинг}} тремя Цветогрибами).<lf>• Если хотите сделать напиток более восхитительным, можете добавить два других плода для цвета."
 Description,
 French,"<RequestTitle>Thé demandé :</><lf>• {{Pomme}} miracle (entourer un arbre à {{weyling}} de trois champis-nuance)<lf>• Pour faire une boisson encore plus savoureuse, on peut ajouter deux autres fruits pour la couleur."
 Italian,"<RequestTitle>Richiesta di tè:</><lf>• Miracolo di {{Pomme}} (circonda un albero di {{Weyling}} con tre funghi Sfumatura)<lf>• Per renderlo ancora più piacevole, puoi dargli colore con l'aggiunta di altri due frutti."
@@ -16814,7 +16814,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Batkid3a_Name
-English_US,Чай «Чудо-{{Яблочко}}»
+English_US,Чай «Чудо-{{Поммэ}}»
 Description,
 French,Thé à la {{pomme}} miracle
 Italian,Tè al Miracolo di {{Pomme}}
@@ -16833,7 +16833,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Batkid3b_Name
-English_US,Чай «Чудо-{{Яблочко}}»
+English_US,Чай «Чудо-{{Поммэ}}»
 Description,
 French,Thé à la {{pomme}} miracle
 Italian,Tè al Miracolo di {{Pomme}}
@@ -17422,7 +17422,7 @@ Swedish,
 Thai,
 Arabic,
 Key,Answer_Batkid3b
-English_US,"Чудо-{{Яблочко}} — это версия Плода {{Вейлинг}} с изменённым цветом. Сначала вы должны вырастить Дерево {{Вейлинг}}, посадив жёлтую пальму в центре трёх розовых цветов, затем окружите Дерево {{Вейлинг}} тремя Цветогрибами. Это изменит цвет растения. Полейте растение, и оно даст вам Чудо-{{Яблочко}}, которое является необходимым чайным ингредиентом.<lf><lf>Дополнительные плоды не обязательны, они просто делают напиток немного красочнее."
+English_US,"Чудо-{{Поммэ}} — это версия Плода {{Вейлинг}} с изменённым цветом. Сначала вы должны вырастить Дерево {{Вейлинг}}, посадив жёлтую пальму в центре трёх розовых цветов, затем окружите Дерево {{Вейлинг}} тремя Цветогрибами. Это изменит цвет растения. Полейте растение, и оно даст вам Чудо-{{Поммэ}}, которое является необходимым чайным ингредиентом.<lf><lf>Дополнительные плоды не обязательны, они просто делают напиток немного красочнее."
 Description,
 French,"La {{pomme}} miracle est une version aux couleurs inversées d'un fruit de {{weyling}}. Tu dois d'abord faire pousser un arbre à {{weyling}} en plantant un palmier jaune au centre de trois fleurs roses. Ensuite, entoure l'arbre à {{weyling}} de trois champis-nuances. Cela modifiera la couleur de la plante. Arrose la plante pour obtenir une {{pomme}} miracle, qui est l'ingrédient de thé dont tu as besoin.<lf>  <lf>Les fruits supplémentaires ne sont pas nécessaires, il donnent simplement un peu plus de couleurs à la boisson."
 Italian,"Il Miracolo di {{Pomme}} è la versione con colori scambiati del frutto di {{Weyling}}. Per prima cosa devi creare un albero di {{Weyling}} piantando una palma gialla in mezzo a tre fiori rosa e poi circondare l'albero di {{Weyling}} con tre funghi Sfumatura. Questo cambierà il colore della pianta. Annaffia la pianta per ottenere un Miracolo di {{Pomme}}, l'ingrediente di cui hai bisogno per l'infuso.<lf>  <lf>L'aggiunta di altri frutti non è necessaria, rende solo la bevanda un po' più colorata."
