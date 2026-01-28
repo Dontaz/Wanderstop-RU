@@ -1,5 +1,5 @@
 #define MyAppName "Русификатор для Wanderstop"
-#define MyAppVersion "1.05 [20260121]"
+#define MyAppVersion "1.06 [20260128]"
 #define MyAppPublisher "Dontaz"
 #define MyAppURL "https://steamcommunity.com/sharedfiles/filedetails/?id=3479356545"
 #define MyAppBoosty "https://boosty.to/dontaz"
@@ -28,7 +28,7 @@ DirExistsWarning=no
 AppendDefaultDirName=no
 UninstallDisplayName=Удаление русификатора Wanderstop
 UninstallFilesDir={app}\Удаление русификатора
-WizardImageFile=sidebar.bmp
+WizardImageFile=sidebar_new.bmp
 WizardSmallImageFile=small.bmp
 DisableWelcomePage=no
 
