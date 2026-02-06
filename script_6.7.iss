@@ -8,6 +8,7 @@
 
 [Setup]
 AppId={{E2A8C1B4-473C-4321-AFFD-5D6E06F4WNDR}
+ArchitecturesInstallIn64BitMode=x64
 AppName={#MyAppName}
 AppVersion={#MyAppVersion}
 AppPublisher={#MyAppPublisher}
