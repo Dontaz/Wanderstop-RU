@@ -34,6 +34,11 @@ WizardSmallImageFile=small.bmp
 WizardImageFileDynamicDark=sidebar_new.bmp
 WizardSmallImageFileDynamicDark=small.bmp
 DisableWelcomePage=no
+VersionInfoCompany=Dontaz
+VersionInfoDescription={#MyAppURL}
+VersionInfoVersion=1.0.6
+VersionInfoProductName={#MyAppName}
+VersionInfoCopyright=MIT License
 
 [Languages]
 Name: "russian"; MessagesFile: "compiler:Languages\Russian.isl"
