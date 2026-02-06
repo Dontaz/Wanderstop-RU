@@ -39,6 +39,7 @@ VersionInfoDescription={#MyAppURL}
 VersionInfoVersion=1.0.6
 VersionInfoProductName={#MyAppName}
 VersionInfoCopyright=MIT License
+SignTool=mysigntool
 
 [Languages]
 Name: "russian"; MessagesFile: "compiler:Languages\Russian.isl"
