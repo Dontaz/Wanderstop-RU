@@ -20,8 +20,6 @@
 
 Сообщить об ошибке в переводе: [**ТУТ** (Google Форма)](https://forms.gle/tLcmSh2HMBvBKbaq8)
 
-![main_img](img/wanderstop_ru.png)
-
 ---
 
 ## Ссылки на скачивание
