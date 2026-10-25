@@ -58,7 +58,7 @@ Whistleberry	Свистика	свист + ягода
 Biteberry	Кусника	Кусать + ягода	
 Weyling	Вейлинг		
 Pomme	Поммэ		
-Snok	Сноква	Шишки {{Сноква}}	
+Snok	Сноква	Шишки {{Сноквы}}	
 Painted Gourd	Раскрашенная тыква		
 Blue Loop	Синяя петля		
 Meelium	Милиум		
@@ -123,7 +123,7 @@ Foxtail agave	Лисохвостная агава
 Tea Machine	Чайная машина		
 Infuser	Заварник		
 Trellis	Шпалера		
-dirt	грязь	возможно, примесь, а не грязь. Перепроверить.	
+dirt	грязь		
 Often Farlands	Частые Далёкие Земли		
 Jenkins	Дженкинс		
 Susan	Сьюзан		
@@ -162,3 +162,5 @@ Combat Arena	Боевая Арена	Ren_RAW-0026-Alta
 False advance	Ложный выпад	Ren_RAW-0047-Customer	
 Serpentine advance	Змеиный выпад	Ren_RAW-0047-Customer	
 Speria	Сперия	Ren_RAW-0077-Customer	
+Shar	Шар	"Ren_RAW-0261-Ren | друг и соратник Рена
+"	
